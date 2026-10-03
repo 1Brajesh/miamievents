@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T10:34:35-04:00",
+ "updated": "2026-10-03T10:43:46-04:00",
  "events": [
   {
    "id": 37,
@@ -393,6 +393,23 @@
    "is_new": true
   },
   {
+   "id": 68,
+   "name": "Hollywood Toastmasters weekly meeting (real stage)",
+   "url": "http://hollywood.toastmastersclubs.org/",
+   "start": "2026-10-05T18:45:00-04:00",
+   "end": "2026-10-05T20:45:00-04:00",
+   "date": "2026-10-05",
+   "time": "6:45–8:45 PM",
+   "venue": "Hollywood Jaycees Hall",
+   "neighborhood": "Hollywood",
+   "address": "2930 Hollywood Blvd, Hollywood, FL 33020",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": "light refreshments",
+   "is_new": true
+  },
+  {
    "id": 20,
    "name": "Viva Salsa Mondays (live band)",
    "url": "https://www.eventbrite.com/e/viva-salsa-mondays-tickets-1999948171819",
@@ -410,6 +427,23 @@
    "is_new": true
   },
   {
+   "id": 62,
+   "name": "AXEN Miami: Accountability & Execution Club (weekly goals check-in)",
+   "url": "https://luma.com/evsobjhj",
+   "start": "2026-10-05T19:30:00-04:00",
+   "end": "2026-10-05T20:30:00-04:00",
+   "date": "2026-10-05",
+   "time": "7:30–8:30 PM",
+   "venue": "Center for Social Change",
+   "neighborhood": "Coral Way",
+   "address": "2103 Coral Way, 2nd Fl, Miami, FL 33145",
+   "cost": "Free (register on Luma; host approval)",
+   "free": true,
+   "category": "accountability",
+   "notes": "in-person; say your weekly goals out loud, report back next week",
+   "is_new": true
+  },
+  {
    "id": 21,
    "name": "Bachata – Beginner class",
    "url": "https://www.eventbrite.com/e/bachata-beginner-tickets-1980588978952",
@@ -424,6 +458,23 @@
    "free": false,
    "category": "dance",
    "notes": null,
+   "is_new": true
+  },
+  {
+   "id": 70,
+   "name": "Miami Made Thrive Together Tuesday (founder mastermind + breakfast)",
+   "url": "https://www.eventbrite.com/e/miami-made-thrive-together-tuesday-tickets-1999412815554",
+   "start": "2026-10-06T07:30:00-04:00",
+   "end": "2026-10-06T10:30:00-04:00",
+   "date": "2026-10-06",
+   "time": "7:30–10:30 AM",
+   "venue": "Glassbox Ironside",
+   "neighborhood": "Upper East Side",
+   "address": "7520 NE 4th Ct, Miami, FL 33138",
+   "cost": "Free–$69.55 (Eventbrite ticket tiers)",
+   "free": true,
+   "category": "accountability",
+   "notes": "monthly; breakfast included",
    "is_new": true
   },
   {
@@ -512,6 +563,23 @@
    "is_new": true
   },
   {
+   "id": 65,
+   "name": "South Dade Toastmasters weekly breakfast meeting",
+   "url": "https://www.southdtm.org",
+   "start": "2026-10-07T07:30:00-04:00",
+   "end": "2026-10-07T08:30:00-04:00",
+   "date": "2026-10-07",
+   "time": "7:30–8:30 AM",
+   "venue": "Chamber South",
+   "neighborhood": "South Miami",
+   "address": "6410 SW 80th St, South Miami, FL 33143",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": "walk-ins welcome; hybrid",
+   "is_new": true
+  },
+  {
    "id": 25,
    "name": "Miami Non-Fiction Book Club: All in Her Head",
    "url": "https://www.meetup.com/mia-non-fiction/events/316615850/",
@@ -597,6 +665,23 @@
    "is_new": true
   },
   {
+   "id": 64,
+   "name": "Miami-Wynwood Toastmasters weekly meeting (guests welcome)",
+   "url": "https://wyntoast.com/",
+   "start": "2026-10-07T19:00:00-04:00",
+   "end": "2026-10-07T20:30:00-04:00",
+   "date": "2026-10-07",
+   "time": "7:00–8:30 PM",
+   "venue": "Converge Miami",
+   "neighborhood": "Wynwood / Allapattah",
+   "address": "1951 NW 7th Ave, Miami, FL 33136 (1st fl main room, free parking)",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": "hybrid (Zoom too); starts promptly 7 PM",
+   "is_new": true
+  },
+  {
    "id": 27,
    "name": "Wingman Wednesdays Social Comedy Show",
    "url": "https://www.eventbrite.com/e/wingman-wednesdays-miamis-social-comedy-show-tickets-1997636668049",
@@ -665,6 +750,23 @@
    "is_new": true
   },
   {
+   "id": 66,
+   "name": "Brickell Toastmasters weekly meeting (guests welcome)",
+   "url": "https://brickelltoastmasters.com/",
+   "start": "2026-10-08T18:00:00-04:00",
+   "end": "2026-10-08T19:15:00-04:00",
+   "date": "2026-10-08",
+   "time": "6:00–7:15 PM",
+   "venue": "Bank of America / Merrill Lynch conference center, 7th fl",
+   "neighborhood": "Brickell",
+   "address": "701 Brickell Ave, Miami, FL 33131",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": null,
+   "is_new": true
+  },
+  {
    "id": 52,
    "name": "Miami Beach Toastmasters",
    "url": "https://mdpls.org/event/16310425",
@@ -696,6 +798,23 @@
    "free": true,
    "category": "talks",
    "notes": "museum free after 5 PM Thursdays",
+   "is_new": true
+  },
+  {
+   "id": 67,
+   "name": "Miami Gardens Toastmasters weekly meeting",
+   "url": "https://3248923.toastmastersclubs.org/",
+   "start": "2026-10-08T18:30:00-04:00",
+   "end": "2026-10-08T19:30:00-04:00",
+   "date": "2026-10-08",
+   "time": "6:30–7:30 PM",
+   "venue": "North Dade Regional Library",
+   "neighborhood": "Miami Gardens",
+   "address": "2455 NW 183rd St, Miami Gardens, FL 33056",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": "also on Zoom",
    "is_new": true
   },
   {
@@ -866,6 +985,40 @@
    "free": false,
    "category": "dance",
    "notes": "classes 9–10:30 PM, then social",
+   "is_new": true
+  },
+  {
+   "id": 63,
+   "name": "AXEN Miami: Accountability & Execution Club (weekly goals check-in)",
+   "url": "https://luma.com/l9as4n4p",
+   "start": "2026-10-12T19:30:00-04:00",
+   "end": "2026-10-12T20:30:00-04:00",
+   "date": "2026-10-12",
+   "time": "7:30–8:30 PM",
+   "venue": "Center for Social Change",
+   "neighborhood": "Coral Way",
+   "address": "2103 Coral Way, 2nd Fl, Miami, FL 33145",
+   "cost": "Free (register on Luma; host approval)",
+   "free": true,
+   "category": "accountability",
+   "notes": "in-person weekly accountability club",
+   "is_new": true
+  },
+  {
+   "id": 69,
+   "name": "Miracle Mile Toastmasters lunchtime meeting",
+   "url": "http://www.miraclemiletoastmasters.com/",
+   "start": "2026-10-15T12:30:00-04:00",
+   "end": "2026-10-15T13:30:00-04:00",
+   "date": "2026-10-15",
+   "time": "12:30–1:30 PM",
+   "venue": "South Miami Public Library",
+   "neighborhood": "South Miami",
+   "address": "6000 Sunset Dr, South Miami, FL 33143",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": "no meeting 2nd Thursday (Oct 8)",
    "is_new": true
   }
  ]
