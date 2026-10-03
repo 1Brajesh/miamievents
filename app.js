@@ -9,7 +9,7 @@
       if(free.checked && li.dataset.free!=='1') ok=false;
       if(active!=='all' && li.dataset.cat!==active) ok=false;
       if(term && li.dataset.text.indexOf(term)<0) ok=false;
-      if(li.dataset.end && Date.parse(li.dataset.end)<now) ok=false; /* hide events that ended since the last build */
+      if(li.dataset.end && Date.parse(li.dataset.end)<now) ok=false; /* upcoming page only (past items have no data-end) */
       li.classList.toggle('hidden',!ok);
     });
     [].forEach.call(document.querySelectorAll('.daygroup'),function(g){
