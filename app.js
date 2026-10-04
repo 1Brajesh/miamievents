@@ -2,16 +2,44 @@
   var q=document.getElementById('q'), free=document.getElementById('freeonly');
   var chips=[].slice.call(document.querySelectorAll('.chip'));
   var active='all';
+  /* TODAY: events that have ended (data-end = end, or start + 2h) move into the gray "Ended earlier today" block */
+  var blk=document.getElementById('ended'), endedUl=blk&&blk.querySelector('ul'), todayUl=document.getElementById('todaylist');
+  var hd=blk&&blk.querySelector('.endedhd'), act=blk&&blk.querySelector('.endedact'), cnt=blk&&blk.querySelector('.endedn');
+  function setOpen(open){
+    if(!blk) return;
+    blk.classList.toggle('collapsed',!open); hd.setAttribute('aria-expanded',open?'true':'false');
+    act.textContent=open?'Hide':'Show';
+  }
+  if(blk){
+    hd.addEventListener('click',function(ev){ev.stopPropagation(); setOpen(blk.classList.contains('collapsed'));});
+    blk.addEventListener('click',function(ev){ if(blk.classList.contains('collapsed')){ev.preventDefault(); setOpen(true);} });
+  }
+  function place(now){
+    if(!blk||!todayUl) return;
+    var items=[].slice.call(document.querySelectorAll('#today li.ev'));
+    items.sort(function(a,b){return a.dataset.i-b.dataset.i;});
+    var ended=[], live=[];
+    items.forEach(function(li){ (Date.parse(li.dataset.end)<=now?ended:live).push(li); });
+    ended.sort(function(a,b){return (Date.parse(a.dataset.start)-Date.parse(b.dataset.start))||(a.dataset.i-b.dataset.i);});
+    ended.forEach(function(li){ endedUl.appendChild(li); });
+    live.forEach(function(li){ todayUl.appendChild(li); });
+  }
   function apply(){
     var term=(q.value||'').toLowerCase().trim(), now=Date.now();
+    place(now);
     [].forEach.call(document.querySelectorAll('li.ev'),function(li){
       var ok=true;
       if(free.checked && li.dataset.free!=='1') ok=false;
       if(active!=='all' && li.dataset.cat!==active) ok=false;
       if(term && li.dataset.text.indexOf(term)<0) ok=false;
-      if(li.dataset.end && Date.parse(li.dataset.end)<now) ok=false; /* upcoming page only (past items have no data-end) */
+      /* outside Today, ended events are hidden (upcoming page only; past-page items have no data-end) */
+      if(li.dataset.end && !li.closest('#today') && Date.parse(li.dataset.end)<now) ok=false;
       li.classList.toggle('hidden',!ok);
     });
+    if(blk){
+      var n=endedUl.querySelectorAll('li.ev:not(.hidden)').length;
+      cnt.textContent=n; blk.classList.toggle('hidden',n===0);
+    }
     [].forEach.call(document.querySelectorAll('.daygroup'),function(g){
       g.classList.toggle('hidden',!g.querySelector('li.ev:not(.hidden)'));
     });
@@ -24,5 +52,7 @@
     active=c.dataset.cat; chips.forEach(function(x){x.classList.toggle('on',x===c);}); apply();
   });});
   q.addEventListener('input',apply); free.addEventListener('change',apply);
+  setOpen(false);
   apply();
+  setInterval(apply,60000);   /* re-evaluate every minute so items move into the block as they end */
 })();

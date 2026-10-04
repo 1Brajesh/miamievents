@@ -1,12 +1,32 @@
 {
- "updated": "2026-10-03T11:04:47-04:00",
+ "updated": "2026-10-03T23:17:41-04:00",
  "events": [
+  {
+   "id": 35,
+   "name": "Saturday Morning Beach Yoga",
+   "url": "https://www.meetup.com/yoga-by-dayna/events/pbjcztyjcnbfb/",
+   "start": "2026-10-03T08:00:00-04:00",
+   "end": "2026-10-03T09:00:00-04:00",
+   "end_effective": "2026-10-03T09:00:00-04:00",
+   "date": "2026-10-03",
+   "time": "8:00–9:00 AM",
+   "venue": "Georgia St on Hollywood Beach Broadwalk",
+   "neighborhood": "Hollywood Beach",
+   "address": null,
+   "cost": "Donation-based",
+   "free": true,
+   "category": "outdoor",
+   "notes": null,
+   "is_new": true,
+   "ended": true
+  },
   {
    "id": 37,
    "name": "Legion Park Farmers Market",
    "url": "https://www.urbanoasisproject.org/farmers-markets.html",
    "start": "2026-10-03T09:00:00-04:00",
    "end": "2026-10-03T14:00:00-04:00",
+   "end_effective": "2026-10-03T14:00:00-04:00",
    "date": "2026-10-03",
    "time": "9:00 AM–2:00 PM",
    "venue": "Legion Park",
@@ -16,7 +36,8 @@
    "free": true,
    "category": "community",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 36,
@@ -24,6 +45,7 @@
    "url": "https://volunteercleanup.org/event/habitat-restoration",
    "start": "2026-10-03T09:30:00-04:00",
    "end": "2026-10-03T11:30:00-04:00",
+   "end_effective": "2026-10-03T11:30:00-04:00",
    "date": "2026-10-03",
    "time": "9:30–11:30 AM",
    "venue": "Mabel Fentress Miller Walking Trail",
@@ -33,7 +55,8 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 38,
@@ -41,6 +64,7 @@
    "url": "https://balharbourfl.gov/events/the-market-at-bal-harbour-19/",
    "start": "2026-10-03T10:00:00-04:00",
    "end": "2026-10-03T16:00:00-04:00",
+   "end_effective": "2026-10-03T16:00:00-04:00",
    "date": "2026-10-03",
    "time": "10:00 AM–4:00 PM",
    "venue": "96th St & Collins Ave",
@@ -50,7 +74,8 @@
    "free": true,
    "category": "community",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 39,
@@ -58,6 +83,7 @@
    "url": "https://www.facebook.com/events/2010774616307463/",
    "start": "2026-10-03T11:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-03T13:00:00-04:00",
    "date": "2026-10-03",
    "time": "11:00 AM",
    "venue": "Koubek Center",
@@ -67,7 +93,8 @@
    "free": true,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 42,
@@ -75,6 +102,7 @@
    "url": "https://events.miami.edu/event/treasure-island-a-new-adventure-110",
    "start": "2026-10-03T14:00:00-04:00",
    "end": "2026-10-03T16:00:00-04:00",
+   "end_effective": "2026-10-03T16:00:00-04:00",
    "date": "2026-10-03",
    "time": "2:00–4:00 PM",
    "venue": "Jerry Herman Theatre",
@@ -84,7 +112,8 @@
    "free": false,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 10,
@@ -92,6 +121,7 @@
    "url": "https://www.meetup.com/intl-cafe-miami/events/316063384/",
    "start": "2026-10-03T15:00:00-04:00",
    "end": "2026-10-03T17:00:00-04:00",
+   "end_effective": "2026-10-03T17:00:00-04:00",
    "date": "2026-10-03",
    "time": "3:00–5:00 PM",
    "venue": "Dear Eleanor",
@@ -101,7 +131,8 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 11,
@@ -109,6 +140,7 @@
    "url": "https://www.meetup.com/miami-portuguese-language-exchange/events/316716692/",
    "start": "2026-10-03T15:00:00-04:00",
    "end": "2026-10-03T17:00:00-04:00",
+   "end_effective": "2026-10-03T17:00:00-04:00",
    "date": "2026-10-03",
    "time": "3:00–5:00 PM",
    "venue": "LeParc Cafe",
@@ -118,7 +150,8 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 14,
@@ -126,6 +159,7 @@
    "url": "https://www.eventbrite.com/e/relish-saturday-night-ages-25-39-miamis-elevated-dating-experience-tickets-2000797201289",
    "start": "2026-10-03T17:00:00-04:00",
    "end": "2026-10-03T19:00:00-04:00",
+   "end_effective": "2026-10-03T19:00:00-04:00",
    "date": "2026-10-03",
    "time": "5:00–7:00 PM",
    "venue": "Water Lion Wine + Alchemy",
@@ -135,7 +169,8 @@
    "free": false,
    "category": "singles",
    "notes": null,
-   "is_new": true
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 41,
@@ -143,6 +178,7 @@
    "url": "https://shop.booksandbooks.com/event/2026-10-03/ply-evening-hernan-diaz-conversation-andrew-boryga",
    "start": "2026-10-03T17:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-03T19:00:00-04:00",
    "date": "2026-10-03",
    "time": "5:00 PM",
    "venue": "Books & Books",
@@ -152,7 +188,8 @@
    "free": false,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 12,
@@ -160,6 +197,7 @@
    "url": "https://www.meetup.com/miami-networking/events/316014310/",
    "start": "2026-10-03T19:00:00-04:00",
    "end": "2026-10-03T21:00:00-04:00",
+   "end_effective": "2026-10-03T21:00:00-04:00",
    "date": "2026-10-03",
    "time": "7:00–9:00 PM",
    "venue": "The Tips Golf",
@@ -169,7 +207,8 @@
    "free": true,
    "category": "networking",
    "notes": null,
-   "is_new": true
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 40,
@@ -177,6 +216,7 @@
    "url": "https://gobarrybucs.com/sports/womens-soccer/schedule/2026",
    "start": "2026-10-03T19:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-03T21:00:00-04:00",
    "date": "2026-10-03",
    "time": "7:00 PM",
    "venue": "Spartan Stadium",
@@ -186,7 +226,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 43,
@@ -194,6 +235,7 @@
    "url": "https://events.miami.edu/event/becoming-music-of-search-fracture-and-self-ensemble-ibis",
    "start": "2026-10-03T19:30:00-04:00",
    "end": null,
+   "end_effective": "2026-10-03T21:30:00-04:00",
    "date": "2026-10-03",
    "time": "7:30 PM",
    "venue": "Newman Recital Hall",
@@ -203,7 +245,8 @@
    "free": false,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 15,
@@ -211,6 +254,7 @@
    "url": "https://golatindance.com/event/bts-monthly-social/2026-10-03/",
    "start": "2026-10-03T21:00:00-04:00",
    "end": "2026-10-04T02:00:00-04:00",
+   "end_effective": "2026-10-04T02:00:00-04:00",
    "date": "2026-10-03",
    "time": "9:00 PM–2:00 AM",
    "venue": "VK Dance Arena",
@@ -220,7 +264,7 @@
    "free": false,
    "category": "dance",
    "notes": "workshop + social",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 13,
@@ -228,6 +272,7 @@
    "url": "https://www.eventbrite.com/e/salsa-saturdays-wynwood-free-classes-after-party-with-rsvp-tickets-1982403884383",
    "start": "2026-10-03T22:00:00-04:00",
    "end": "2026-10-04T03:00:00-04:00",
+   "end_effective": "2026-10-04T03:00:00-04:00",
    "date": "2026-10-03",
    "time": "10:00 PM–3:00 AM",
    "venue": "Flamingoz",
@@ -237,7 +282,7 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 44,
@@ -245,6 +290,7 @@
    "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-10-04/",
    "start": "2026-10-04T09:00:00-04:00",
    "end": "2026-10-04T18:00:00-04:00",
+   "end_effective": "2026-10-04T18:00:00-04:00",
    "date": "2026-10-04",
    "time": "9:00 AM–6:00 PM",
    "venue": "Lincoln Rd",
@@ -262,6 +308,7 @@
    "url": "https://www.miamiwaterkeeper.org/get-involved-events-kayak-clean-up-event-2026-10-4",
    "start": "2026-10-04T09:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-04T11:00:00-04:00",
    "date": "2026-10-04",
    "time": "9:00 AM",
    "venue": "Crandon Marina",
@@ -279,6 +326,7 @@
    "url": "https://vizcaya.org/event/vizcaya-village-farmers-market/",
    "start": "2026-10-04T09:30:00-04:00",
    "end": "2026-10-04T15:30:00-04:00",
+   "end_effective": "2026-10-04T15:30:00-04:00",
    "date": "2026-10-04",
    "time": "9:30 AM–3:30 PM",
    "venue": "Vizcaya Village",
@@ -296,6 +344,7 @@
    "url": "https://business.miamibeachchamber.com/events/details/community-yoga-on-lincoln-road-10-04-2026-81685",
    "start": "2026-10-04T10:00:00-04:00",
    "end": "2026-10-04T11:00:00-04:00",
+   "end_effective": "2026-10-04T11:00:00-04:00",
    "date": "2026-10-04",
    "time": "10:00–11:00 AM",
    "venue": "Euclid Courtyard, Lincoln Rd",
@@ -313,6 +362,7 @@
    "url": "https://events.miami.edu/event/bergonzi-piano-trio-bergonzi-piano-trio",
    "start": "2026-10-04T16:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-04T18:00:00-04:00",
    "date": "2026-10-04",
    "time": "4:00 PM",
    "venue": "Newman Recital Hall",
@@ -330,6 +380,7 @@
    "url": "https://www.eventbrite.com/e/the-networking-derby-teach-to-fish-summit-kickoff-mixer-tickets-1999118717900",
    "start": "2026-10-04T17:00:00-04:00",
    "end": "2026-10-04T21:00:00-04:00",
+   "end_effective": "2026-10-04T21:00:00-04:00",
    "date": "2026-10-04",
    "time": "5:00–9:00 PM",
    "venue": "The NoMI Village",
@@ -339,7 +390,7 @@
    "free": true,
    "category": "networking",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 17,
@@ -347,6 +398,7 @@
    "url": "https://www.meetup.com/street-photography-miami-beach/events/316699519/",
    "start": "2026-10-04T18:00:00-04:00",
    "end": "2026-10-04T20:00:00-04:00",
+   "end_effective": "2026-10-04T20:00:00-04:00",
    "date": "2026-10-04",
    "time": "6:00–8:00 PM",
    "venue": "Ocean Dr & 14th St",
@@ -356,7 +408,7 @@
    "free": true,
    "category": "photowalk",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 18,
@@ -364,6 +416,7 @@
    "url": "https://www.meetup.com/spanish-english-language-project/events/316769718/",
    "start": "2026-10-04T19:00:00-04:00",
    "end": "2026-10-04T20:00:00-04:00",
+   "end_effective": "2026-10-04T20:00:00-04:00",
    "date": "2026-10-04",
    "time": "7:00–8:00 PM",
    "venue": "Love Life Cafe",
@@ -373,7 +426,7 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 19,
@@ -381,6 +434,7 @@
    "url": "https://www.eventbrite.com/e/banned-books-week-librofm-read-in-tickets-2002238536361",
    "start": "2026-10-04T19:30:00-04:00",
    "end": null,
+   "end_effective": "2026-10-04T21:30:00-04:00",
    "date": "2026-10-04",
    "time": "7:30 PM",
    "venue": "Books & Books",
@@ -390,7 +444,7 @@
    "free": true,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 68,
@@ -398,6 +452,7 @@
    "url": "http://hollywood.toastmastersclubs.org/",
    "start": "2026-10-05T18:45:00-04:00",
    "end": "2026-10-05T20:45:00-04:00",
+   "end_effective": "2026-10-05T20:45:00-04:00",
    "date": "2026-10-05",
    "time": "6:45–8:45 PM",
    "venue": "Hollywood Jaycees Hall",
@@ -415,6 +470,7 @@
    "url": "https://www.eventbrite.com/e/viva-salsa-mondays-tickets-1999948171819",
    "start": "2026-10-05T19:00:00-04:00",
    "end": "2026-10-05T22:30:00-04:00",
+   "end_effective": "2026-10-05T22:30:00-04:00",
    "date": "2026-10-05",
    "time": "7:00–10:30 PM",
    "venue": "Elia on the River",
@@ -424,7 +480,7 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 62,
@@ -432,6 +488,7 @@
    "url": "https://luma.com/evsobjhj",
    "start": "2026-10-05T19:30:00-04:00",
    "end": "2026-10-05T20:30:00-04:00",
+   "end_effective": "2026-10-05T20:30:00-04:00",
    "date": "2026-10-05",
    "time": "7:30–8:30 PM",
    "venue": "Center for Social Change",
@@ -449,6 +506,7 @@
    "url": "https://www.eventbrite.com/e/bachata-beginner-tickets-1980588978952",
    "start": "2026-10-05T20:00:00-04:00",
    "end": "2026-10-05T21:00:00-04:00",
+   "end_effective": "2026-10-05T21:00:00-04:00",
    "date": "2026-10-05",
    "time": "8:00–9:00 PM",
    "venue": "DanceArts Miami",
@@ -458,7 +516,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 70,
@@ -466,6 +524,7 @@
    "url": "https://www.eventbrite.com/e/miami-made-thrive-together-tuesday-tickets-1999412815554",
    "start": "2026-10-06T07:30:00-04:00",
    "end": "2026-10-06T10:30:00-04:00",
+   "end_effective": "2026-10-06T10:30:00-04:00",
    "date": "2026-10-06",
    "time": "7:30–10:30 AM",
    "venue": "Glassbox Ironside",
@@ -483,6 +542,7 @@
    "url": "https://www.eventbrite.com/e/b2b-mixer-miami-100-networking-event-making-referrals-tickets-2000960350272",
    "start": "2026-10-06T17:00:00-04:00",
    "end": "2026-10-06T20:00:00-04:00",
+   "end_effective": "2026-10-06T20:00:00-04:00",
    "date": "2026-10-06",
    "time": "5:00–8:00 PM",
    "venue": "Candela Bar",
@@ -492,7 +552,7 @@
    "free": true,
    "category": "networking",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 23,
@@ -500,6 +560,7 @@
    "url": "https://861.toastmastersclubs.org",
    "start": "2026-10-06T18:30:00-04:00",
    "end": "2026-10-06T19:30:00-04:00",
+   "end_effective": "2026-10-06T19:30:00-04:00",
    "date": "2026-10-06",
    "time": "6:30–7:30 PM",
    "venue": "8260 NW 27th St, Ste 408",
@@ -509,7 +570,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 50,
@@ -517,6 +578,7 @@
    "url": "https://ce.mdc.edu/search/publicCourseSearchDetails.do?courseId=1159638&method=load&selectedProgramAreaId=1017614&selectedProgramStreamId=1192798",
    "start": "2026-10-06T18:30:00-04:00",
    "end": "2026-10-06T20:45:00-04:00",
+   "end_effective": "2026-10-06T20:45:00-04:00",
    "date": "2026-10-06",
    "time": "6:30–8:45 PM",
    "venue": "MDC Kendall Campus",
@@ -534,6 +596,7 @@
    "url": "https://lu.ma/90wup83m",
    "start": "2026-10-06T19:00:00-04:00",
    "end": "2026-10-06T22:30:00-04:00",
+   "end_effective": "2026-10-06T22:30:00-04:00",
    "date": "2026-10-06",
    "time": "7:00–10:30 PM",
    "venue": "The Shelborne",
@@ -543,7 +606,7 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 49,
@@ -551,6 +614,7 @@
    "url": "https://allevents.in/miami/miami-blabla-language-exchange-every-other-tuesday-recurrent-event/200029920028813",
    "start": "2026-10-06T19:30:00-04:00",
    "end": "2026-10-06T22:30:00-04:00",
+   "end_effective": "2026-10-06T22:30:00-04:00",
    "date": "2026-10-06",
    "time": "7:30–10:30 PM",
    "venue": "Veza Sur Brewing",
@@ -568,6 +632,7 @@
    "url": "https://www.southdtm.org",
    "start": "2026-10-07T07:30:00-04:00",
    "end": "2026-10-07T08:30:00-04:00",
+   "end_effective": "2026-10-07T08:30:00-04:00",
    "date": "2026-10-07",
    "time": "7:30–8:30 AM",
    "venue": "Chamber South",
@@ -585,6 +650,7 @@
    "url": "https://www.meetup.com/mia-non-fiction/events/316615850/",
    "start": "2026-10-07T18:30:00-04:00",
    "end": "2026-10-07T21:00:00-04:00",
+   "end_effective": "2026-10-07T21:00:00-04:00",
    "date": "2026-10-07",
    "time": "6:30–9:00 PM",
    "venue": "Lagniappe",
@@ -594,7 +660,7 @@
    "free": true,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 26,
@@ -602,6 +668,7 @@
    "url": "https://www.meetup.com/men-s-leadership-growth-circle/events/316514889/",
    "start": "2026-10-07T18:30:00-04:00",
    "end": "2026-10-07T21:00:00-04:00",
+   "end_effective": "2026-10-07T21:00:00-04:00",
    "date": "2026-10-07",
    "time": "6:30–9:00 PM",
    "venue": "4 Midtown",
@@ -611,7 +678,7 @@
    "free": true,
    "category": "accountability",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 28,
@@ -619,6 +686,7 @@
    "url": "https://golatindance.com/event/amor-bachata-wednesday/2026-10-07/",
    "start": "2026-10-07T19:00:00-04:00",
    "end": "2026-10-08T01:00:00-04:00",
+   "end_effective": "2026-10-08T01:00:00-04:00",
    "date": "2026-10-07",
    "time": "7:00 PM–1:00 AM",
    "venue": "Black Box Media",
@@ -628,7 +696,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 29,
@@ -636,6 +704,7 @@
    "url": "https://www.eventbrite.com/e/new-salsa-bachata-dance-sessions-1-3-months-tickets-2002466379847",
    "start": "2026-10-07T19:00:00-04:00",
    "end": "2026-10-07T20:00:00-04:00",
+   "end_effective": "2026-10-07T20:00:00-04:00",
    "date": "2026-10-07",
    "time": "7:00–8:00 PM",
    "venue": "Miami Baila Calle 8",
@@ -645,7 +714,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 51,
@@ -653,6 +722,7 @@
    "url": "https://gobarrybucs.com/sports/womens-soccer/schedule/2026",
    "start": "2026-10-07T19:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-07T21:00:00-04:00",
    "date": "2026-10-07",
    "time": "7:00 PM",
    "venue": "MDC Soccer Stadium",
@@ -670,6 +740,7 @@
    "url": "https://wyntoast.com/",
    "start": "2026-10-07T19:00:00-04:00",
    "end": "2026-10-07T20:30:00-04:00",
+   "end_effective": "2026-10-07T20:30:00-04:00",
    "date": "2026-10-07",
    "time": "7:00–8:30 PM",
    "venue": "Converge Miami",
@@ -687,6 +758,7 @@
    "url": "https://www.eventbrite.com/e/wingman-wednesdays-miamis-social-comedy-show-tickets-1997636668049",
    "start": "2026-10-07T21:00:00-04:00",
    "end": "2026-10-07T22:30:00-04:00",
+   "end_effective": "2026-10-07T22:30:00-04:00",
    "date": "2026-10-07",
    "time": "9:00–10:30 PM",
    "venue": "Blackbird Ordinary",
@@ -696,7 +768,7 @@
    "free": true,
    "category": "singles",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 30,
@@ -704,6 +776,7 @@
    "url": "https://www.eventbrite.com/e/doral-toastmasters-communication-leadership-event-thursday-730-am-tickets-1376549459489",
    "start": "2026-10-08T07:30:00-04:00",
    "end": "2026-10-08T08:30:00-04:00",
+   "end_effective": "2026-10-08T08:30:00-04:00",
    "date": "2026-10-08",
    "time": "7:30–8:30 AM",
    "venue": "8260 NW 27th St, Ste 408",
@@ -713,7 +786,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 31,
@@ -721,6 +794,7 @@
    "url": "https://mdpls.org/event/16638944",
    "start": "2026-10-08T17:00:00-04:00",
    "end": "2026-10-08T19:00:00-04:00",
+   "end_effective": "2026-10-08T19:00:00-04:00",
    "date": "2026-10-08",
    "time": "5:00–7:00 PM",
    "venue": "Miami Beach Regional Library",
@@ -730,7 +804,7 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 32,
@@ -738,6 +812,7 @@
    "url": "https://www.eventbrite.com/e/we-met-at-bachata-tickets-2001242483139",
    "start": "2026-10-08T17:30:00-04:00",
    "end": "2026-10-08T21:00:00-04:00",
+   "end_effective": "2026-10-08T21:00:00-04:00",
    "date": "2026-10-08",
    "time": "5:30–9:00 PM",
    "venue": "Vizcaya Village Night Market",
@@ -747,7 +822,7 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 66,
@@ -755,6 +830,7 @@
    "url": "https://brickelltoastmasters.com/",
    "start": "2026-10-08T18:00:00-04:00",
    "end": "2026-10-08T19:15:00-04:00",
+   "end_effective": "2026-10-08T19:15:00-04:00",
    "date": "2026-10-08",
    "time": "6:00–7:15 PM",
    "venue": "Bank of America / Merrill Lynch conference center, 7th fl",
@@ -772,6 +848,7 @@
    "url": "https://mdpls.org/event/16310425",
    "start": "2026-10-08T18:30:00-04:00",
    "end": "2026-10-08T19:30:00-04:00",
+   "end_effective": "2026-10-08T19:30:00-04:00",
    "date": "2026-10-08",
    "time": "6:30–7:30 PM",
    "venue": "Miami Beach Regional Library",
@@ -789,6 +866,7 @@
    "url": "https://www.pamm.org/en/events/event/art-talk-john-baldessari-the-end-of-the-line/",
    "start": "2026-10-08T18:30:00-04:00",
    "end": "2026-10-08T19:30:00-04:00",
+   "end_effective": "2026-10-08T19:30:00-04:00",
    "date": "2026-10-08",
    "time": "6:30–7:30 PM",
    "venue": "Pérez Art Museum Miami",
@@ -806,6 +884,7 @@
    "url": "https://3248923.toastmastersclubs.org/",
    "start": "2026-10-08T18:30:00-04:00",
    "end": "2026-10-08T19:30:00-04:00",
+   "end_effective": "2026-10-08T19:30:00-04:00",
    "date": "2026-10-08",
    "time": "6:30–7:30 PM",
    "venue": "North Dade Regional Library",
@@ -823,6 +902,7 @@
    "url": "https://shop.booksandbooks.com/event/2026-10-08/work-progress-evening-devon-rodriguez",
    "start": "2026-10-08T19:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-08T21:00:00-04:00",
    "date": "2026-10-08",
    "time": "7:00 PM",
    "venue": "Books & Books",
@@ -840,6 +920,7 @@
    "url": "https://ce.mdc.edu/search/publicCourseSearchDetails.do?courseId=1159656&method=load&selectedProgramAreaId=1017614&selectedProgramStreamId=1017976",
    "start": "2026-10-08T19:00:00-04:00",
    "end": "2026-10-08T21:30:00-04:00",
+   "end_effective": "2026-10-08T21:30:00-04:00",
    "date": "2026-10-08",
    "time": "7:00–9:30 PM",
    "venue": "MDC Kendall Campus",
@@ -857,6 +938,7 @@
    "url": "https://events.miami.edu/event/henry-mancini-reimagined-hmi-big-band",
    "start": "2026-10-08T19:30:00-04:00",
    "end": null,
+   "end_effective": "2026-10-08T21:30:00-04:00",
    "date": "2026-10-08",
    "time": "7:30 PM",
    "venue": "Newman Recital Hall",
@@ -874,6 +956,7 @@
    "url": "https://www.eventbrite.com/e/smart-speed-dating-in-wynwood-cityswoon-ages-33-45-tickets-2001072585972",
    "start": "2026-10-08T20:00:00-04:00",
    "end": "2026-10-08T22:30:00-04:00",
+   "end_effective": "2026-10-08T22:30:00-04:00",
    "date": "2026-10-08",
    "time": "8:00–10:30 PM",
    "venue": "Puttery",
@@ -883,7 +966,7 @@
    "free": false,
    "category": "singles",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 55,
@@ -891,6 +974,7 @@
    "url": "https://www.meetup.com/miamisalsaevents/events/316619394/",
    "start": "2026-10-08T20:30:00-04:00",
    "end": null,
+   "end_effective": "2026-10-08T22:30:00-04:00",
    "date": "2026-10-08",
    "time": "8:30 PM",
    "venue": "Hole19",
@@ -908,6 +992,7 @@
    "url": "https://www.meetup.com/miamibachata/events/316619757/",
    "start": "2026-10-08T21:00:00-04:00",
    "end": "2026-10-09T00:00:00-04:00",
+   "end_effective": "2026-10-09T00:00:00-04:00",
    "date": "2026-10-08",
    "time": "9:00 PM–12:00 AM",
    "venue": "The Katz Restaurant & Lounge",
@@ -917,7 +1002,7 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 58,
@@ -925,6 +1010,7 @@
    "url": "https://www.eventbrite.com/e/free-outdoor-yoga-miami-beach-new-moon-flow-breathwork-friday-10am-tickets-2000189574862",
    "start": "2026-10-09T10:00:00-04:00",
    "end": "2026-10-09T11:00:00-04:00",
+   "end_effective": "2026-10-09T11:00:00-04:00",
    "date": "2026-10-09",
    "time": "10:00–11:00 AM",
    "venue": "North Beach Oceanside Park",
@@ -942,6 +1028,7 @@
    "url": "https://events.miami.edu/event/choralcopia-2026-bella-voce-symphonic-choir-jazz-vocal-phoenyx-tufaan-biscaydence-frost-opera-theater",
    "start": "2026-10-09T19:30:00-04:00",
    "end": null,
+   "end_effective": "2026-10-09T21:30:00-04:00",
    "date": "2026-10-09",
    "time": "7:30 PM",
    "venue": "Gusman Concert Hall",
@@ -959,6 +1046,7 @@
    "url": "https://www.meetup.com/the-salsa-cooperative-miami/events/316557066/",
    "start": "2026-10-09T20:00:00-04:00",
    "end": null,
+   "end_effective": "2026-10-09T22:00:00-04:00",
    "date": "2026-10-09",
    "time": "8:00 PM",
    "venue": "Giralda Plaza",
@@ -976,6 +1064,7 @@
    "url": "https://golatindance.com/event/the-miami-bachata-social/2026-10-09/",
    "start": "2026-10-09T21:00:00-04:00",
    "end": "2026-10-10T02:00:00-04:00",
+   "end_effective": "2026-10-10T02:00:00-04:00",
    "date": "2026-10-09",
    "time": "9:00 PM–2:00 AM",
    "venue": "VK Dance Arena",
@@ -993,6 +1082,7 @@
    "url": "https://luma.com/l9as4n4p",
    "start": "2026-10-12T19:30:00-04:00",
    "end": "2026-10-12T20:30:00-04:00",
+   "end_effective": "2026-10-12T20:30:00-04:00",
    "date": "2026-10-12",
    "time": "7:30–8:30 PM",
    "venue": "Center for Social Change",
@@ -1010,6 +1100,7 @@
    "url": "http://www.miraclemiletoastmasters.com/",
    "start": "2026-10-15T12:30:00-04:00",
    "end": "2026-10-15T13:30:00-04:00",
+   "end_effective": "2026-10-15T13:30:00-04:00",
    "date": "2026-10-15",
    "time": "12:30–1:30 PM",
    "venue": "South Miami Public Library",
