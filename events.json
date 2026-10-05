@@ -1,239 +1,23 @@
 {
- "updated": "2026-10-04T08:20:54-04:00",
+ "updated": "2026-10-05T10:12:00-04:00",
  "events": [
   {
-   "id": 44,
-   "name": "Lincoln Road Farmer’s Market",
-   "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-10-04/",
-   "start": "2026-10-04T09:00:00-04:00",
-   "end": "2026-10-04T18:00:00-04:00",
-   "end_effective": "2026-10-04T18:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "9:00 AM–6:00 PM",
-   "venue": "Lincoln Rd",
-   "neighborhood": "Miami Beach",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "community",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 46,
-   "name": "Kayak Clean-Up + Bird Monitoring",
-   "url": "https://www.miamiwaterkeeper.org/get-involved-events-kayak-clean-up-event-2026-10-4",
-   "start": "2026-10-04T09:00:00-04:00",
+   "id": 100,
+   "name": "Alvin Phan, Artist Diploma Classical Saxophone Recital",
+   "url": "https://events.miami.edu/event/alvin-phan-artist-diploma-classical-saxophone-recital-1670",
+   "start": "2026-10-05T17:00:00-04:00",
    "end": null,
-   "end_effective": "2026-10-04T11:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "9:00 AM",
-   "venue": "Crandon Marina",
-   "neighborhood": "Key Biscayne",
-   "address": "4000 Crandon Blvd, Key Biscayne",
-   "cost": "Free",
-   "free": true,
-   "category": "volunteering",
-   "notes": "Listed on Miami Waterkeeper events page for Sun Oct 4; kayak provided",
-   "is_new": false
-  },
-  {
-   "id": 45,
-   "name": "Vizcaya Village Farmers Market",
-   "url": "https://vizcaya.org/event/vizcaya-village-farmers-market/",
-   "start": "2026-10-04T09:30:00-04:00",
-   "end": "2026-10-04T15:30:00-04:00",
-   "end_effective": "2026-10-04T15:30:00-04:00",
-   "date": "2026-10-04",
-   "time": "9:30 AM–3:30 PM",
-   "venue": "Vizcaya Village",
-   "neighborhood": "Coconut Grove",
-   "address": "3250 S Miami Ave",
-   "cost": "Free",
-   "free": true,
-   "category": "community",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 47,
-   "name": "Community Yoga on Lincoln Road",
-   "url": "https://business.miamibeachchamber.com/events/details/community-yoga-on-lincoln-road-10-04-2026-81685",
-   "start": "2026-10-04T10:00:00-04:00",
-   "end": "2026-10-04T11:00:00-04:00",
-   "end_effective": "2026-10-04T11:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "10:00–11:00 AM",
-   "venue": "Euclid Courtyard, Lincoln Rd",
-   "neighborhood": "Miami Beach",
-   "address": null,
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "outdoor",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 71,
-   "name": "Sundays at the U with Movies: The Untouchables (1987)",
-   "url": "https://events.miami.edu/event/sundays-at-the-u-with-movies-the-untouchables-1987",
-   "start": "2026-10-04T13:00:00-04:00",
-   "end": "2026-10-04T15:00:00-04:00",
-   "end_effective": "2026-10-04T15:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "1:00–3:00 PM",
-   "venue": "Bill Cosford Cinema",
-   "neighborhood": "UM Coral Gables",
-   "address": "5030 Brunson Dr, Coral Gables",
-   "cost": "$6 (students free with code)",
-   "free": false,
-   "category": "university",
-   "notes": null,
-   "is_new": true
-  },
-  {
-   "id": 48,
-   "name": "Bergonzi Piano Trio",
-   "url": "https://events.miami.edu/event/bergonzi-piano-trio-bergonzi-piano-trio",
-   "start": "2026-10-04T16:00:00-04:00",
-   "end": null,
-   "end_effective": "2026-10-04T18:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "4:00 PM",
-   "venue": "Newman Recital Hall",
-   "neighborhood": "UM Coral Gables",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "university",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 72,
-   "name": "Shared Spaces | Frost Wind Ensemble",
-   "url": "https://events.miami.edu/event/shared-spaces-frost-wind-ensemble",
-   "start": "2026-10-04T16:00:00-04:00",
-   "end": null,
-   "end_effective": "2026-10-04T18:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "4:00 PM",
-   "venue": "Gusman Concert Hall",
-   "neighborhood": "UM Coral Gables",
-   "address": "1314 Miller Dr, Coral Gables",
-   "cost": "$10–$20",
-   "free": false,
-   "category": "university",
-   "notes": "percussion feature Svetoslav Stoyanov",
-   "is_new": true
-  },
-  {
-   "id": 16,
-   "name": "Networking Derby: Teach to Fish Summit Kickoff Mixer",
-   "url": "https://www.eventbrite.com/e/the-networking-derby-teach-to-fish-summit-kickoff-mixer-tickets-1999118717900",
-   "start": "2026-10-04T17:00:00-04:00",
-   "end": "2026-10-04T21:00:00-04:00",
-   "end_effective": "2026-10-04T21:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "5:00–9:00 PM",
-   "venue": "The NoMI Village",
-   "neighborhood": "North Miami",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "networking",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 17,
-   "name": "Photowalk 61: Lummus Park, Beach & Ocean Drive",
-   "url": "https://www.meetup.com/street-photography-miami-beach/events/316699519/",
-   "start": "2026-10-04T18:00:00-04:00",
-   "end": "2026-10-04T20:00:00-04:00",
-   "end_effective": "2026-10-04T20:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "6:00–8:00 PM",
-   "venue": "Ocean Dr & 14th St",
-   "neighborhood": "South Beach",
-   "address": "1455 Ocean Dr",
-   "cost": "Free",
-   "free": true,
-   "category": "photowalk",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 73,
-   "name": "Cuerda & Clave at The Betsy Piano Bar",
-   "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-10-04/",
-   "start": "2026-10-04T18:00:00-04:00",
-   "end": "2026-10-04T23:00:00-04:00",
-   "end_effective": "2026-10-04T23:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "6:00–11:00 PM",
-   "venue": "The Betsy Piano Bar",
-   "neighborhood": "South Beach",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "creative",
-   "notes": null,
-   "is_new": true
-  },
-  {
-   "id": 74,
-   "name": "Ocean Drive Promenade Music Series",
-   "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-10-04/",
-   "start": "2026-10-04T18:00:00-04:00",
-   "end": "2026-10-04T19:30:00-04:00",
-   "end_effective": "2026-10-04T19:30:00-04:00",
-   "date": "2026-10-04",
-   "time": "6:00–7:30 PM",
-   "venue": "Ocean Drive Promenade",
-   "neighborhood": "South Beach",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "outdoor",
-   "notes": null,
-   "is_new": true
-  },
-  {
-   "id": 18,
-   "name": "Intercambio Spanish/English",
-   "url": "https://www.meetup.com/spanish-english-language-project/events/316769718/",
-   "start": "2026-10-04T19:00:00-04:00",
-   "end": "2026-10-04T20:00:00-04:00",
-   "end_effective": "2026-10-04T20:00:00-04:00",
-   "date": "2026-10-04",
-   "time": "7:00–8:00 PM",
-   "venue": "Love Life Cafe",
-   "neighborhood": "Wynwood",
-   "address": "2616 NW 5th Ave",
-   "cost": "Free (order something)",
-   "free": true,
-   "category": "language",
-   "notes": null,
-   "is_new": false
-  },
-  {
-   "id": 19,
-   "name": "Banned Books Week: Libro.fm Read-In",
-   "url": "https://www.eventbrite.com/e/banned-books-week-librofm-read-in-tickets-2002238536361",
-   "start": "2026-10-04T19:30:00-04:00",
-   "end": null,
-   "end_effective": "2026-10-04T21:30:00-04:00",
-   "date": "2026-10-04",
-   "time": "7:30 PM",
-   "venue": "Books & Books",
+   "end_effective": "2026-10-05T19:00:00-04:00",
+   "date": "2026-10-05",
+   "time": "5:00 PM",
+   "venue": "Newman Recital Hall, Knight Center",
    "neighborhood": "Coral Gables",
-   "address": null,
+   "address": "5513 San Amaro Dr, Coral Gables, FL 33146",
    "cost": "Free",
    "free": true,
-   "category": "books",
-   "notes": null,
-   "is_new": false
+   "category": "university",
+   "notes": "UM Frost, public",
+   "is_new": true
   },
   {
    "id": 68,
@@ -251,7 +35,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "light refreshments",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 20,
@@ -287,7 +71,7 @@
    "free": false,
    "category": "social",
    "notes": "beginner-friendly drop-in; Level 12 campaign; recurring Mondays",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 62,
@@ -305,7 +89,7 @@
    "free": true,
    "category": "accountability",
    "notes": "in-person; say your weekly goals out loud, report back next week",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 21,
@@ -341,6 +125,24 @@
    "free": false,
    "category": "dance",
    "notes": null,
+   "is_new": false
+  },
+  {
+   "id": 101,
+   "name": "Mambo Mondays at Ball & Chain (free salsa & bachata class)",
+   "url": "https://www.ballandchainmiami.com/events",
+   "start": "2026-10-05T21:00:00-04:00",
+   "end": "2026-10-06T01:00:00-04:00",
+   "end_effective": "2026-10-06T01:00:00-04:00",
+   "date": "2026-10-05",
+   "time": "9:00 PM–1:00 AM",
+   "venue": "Ball & Chain",
+   "neighborhood": "Little Havana",
+   "address": "1513 SW 8th St, Miami, FL",
+   "cost": "Free class (21+)",
+   "free": true,
+   "category": "dance",
+   "notes": "Free salsa & bachata class at 9 PM; guest DJs; 21+",
    "is_new": true
   },
   {
@@ -359,7 +161,7 @@
    "free": true,
    "category": "accountability",
    "notes": "monthly; breakfast included",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 22,
@@ -378,24 +180,6 @@
    "category": "networking",
    "notes": null,
    "is_new": false
-  },
-  {
-   "id": 76,
-   "name": "Morgan Short, Doctoral Classical Harp Recital",
-   "url": "https://events.miami.edu/event/morgan-short-doctoral-classical-harp-recital-6513",
-   "start": "2026-10-06T17:00:00-04:00",
-   "end": null,
-   "end_effective": "2026-10-06T19:00:00-04:00",
-   "date": "2026-10-06",
-   "time": "5:00 PM",
-   "venue": "Newman Recital Hall, Knight Center",
-   "neighborhood": "UM Coral Gables",
-   "address": "5513 San Amaro Dr, Coral Gables",
-   "cost": "Free",
-   "free": true,
-   "category": "university",
-   "notes": null,
-   "is_new": true
   },
   {
    "id": 23,
@@ -467,7 +251,7 @@
    "free": true,
    "category": "social",
    "notes": "~17.8 mi straight-line from Miami Beach (within ~20 mi)",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 49,
@@ -488,6 +272,24 @@
    "is_new": false
   },
   {
+   "id": 102,
+   "name": "Bachatuesdays at Ball & Chain (free bachata lesson)",
+   "url": "https://danxer.com/events/16341/bachatuesdays-at-ball-and-chain-feat-dj-charun-and-guests?idioma=en",
+   "start": "2026-10-06T21:00:00-04:00",
+   "end": "2026-10-07T01:00:00-04:00",
+   "end_effective": "2026-10-07T01:00:00-04:00",
+   "date": "2026-10-06",
+   "time": "9:00 PM–1:00 AM",
+   "venue": "Ball & Chain",
+   "neighborhood": "Little Havana",
+   "address": "1513 SW 8th St, Miami, FL",
+   "cost": "Free admission all night (21+)",
+   "free": true,
+   "category": "dance",
+   "notes": "Free bachata lesson at 9 PM by Bachata Overdose; DJ Jorge Charun",
+   "is_new": true
+  },
+  {
    "id": 65,
    "name": "South Dade Toastmasters weekly breakfast meeting",
    "url": "https://www.southdtm.org",
@@ -503,7 +305,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "walk-ins welcome; hybrid",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 78,
@@ -521,7 +323,7 @@
    "free": true,
    "category": "university",
    "notes": "exhibition on view Oct 6–30; MIFA resident artists",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 77,
@@ -539,7 +341,7 @@
    "free": true,
    "category": "language",
    "notes": "weekly conversation practice; open language table",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 79,
@@ -557,6 +359,24 @@
    "free": false,
    "category": "networking",
    "notes": null,
+   "is_new": false
+  },
+  {
+   "id": 105,
+   "name": "Latin Fusion — All Levels",
+   "url": "https://www.meetup.com/miami-adult-dance-calsses/events/sxfzztyjcnbkb/",
+   "start": "2026-10-07T18:00:00-04:00",
+   "end": "2026-10-07T19:00:00-04:00",
+   "end_effective": "2026-10-07T19:00:00-04:00",
+   "date": "2026-10-07",
+   "time": "6:00–7:00 PM",
+   "venue": "DanceArts Miami",
+   "neighborhood": "Miami",
+   "address": "250 NE 61st Street, Miami, FL",
+   "cost": "$35 first class (check Meetup)",
+   "free": false,
+   "category": "dance",
+   "notes": "Salsa/bachata/cha-cha/reggaeton blend",
    "is_new": true
   },
   {
@@ -594,6 +414,24 @@
    "category": "accountability",
    "notes": "Exact room shared after joining",
    "is_new": false
+  },
+  {
+   "id": 107,
+   "name": "Tech Startup Pitch & Networking in Miami",
+   "url": "https://luma.com/xjms31f1",
+   "start": "2026-10-07T18:30:00-04:00",
+   "end": "2026-10-07T21:30:00-04:00",
+   "end_effective": "2026-10-07T21:30:00-04:00",
+   "date": "2026-10-07",
+   "time": "6:30–9:30 PM",
+   "venue": "Candela Bar Brickell",
+   "neighborhood": "Brickell",
+   "address": "900 S. Miami Ave #180, Miami, FL",
+   "cost": "Paid tickets on Luma",
+   "free": false,
+   "category": "networking",
+   "notes": "Register on Luma (Meetup is not RSVP)",
+   "is_new": true
   },
   {
    "id": 28,
@@ -665,7 +503,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "hybrid (Zoom too); starts promptly 7 PM",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 80,
@@ -683,7 +521,7 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 81,
@@ -701,7 +539,7 @@
    "free": true,
    "category": "social",
    "notes": "six rounds pop-culture trivia",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 27,
@@ -773,24 +611,6 @@
    "free": true,
    "category": "community",
    "notes": null,
-   "is_new": true
-  },
-  {
-   "id": 32,
-   "name": "We Met at Bachata (beginner class + social, 21+)",
-   "url": "https://www.eventbrite.com/e/we-met-at-bachata-tickets-2001242483139",
-   "start": "2026-10-08T17:30:00-04:00",
-   "end": "2026-10-08T21:00:00-04:00",
-   "end_effective": "2026-10-08T21:00:00-04:00",
-   "date": "2026-10-08",
-   "time": "5:30–9:00 PM",
-   "venue": "Vizcaya Village Night Market",
-   "neighborhood": "Coconut Grove",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "dance",
-   "notes": null,
    "is_new": false
   },
   {
@@ -809,7 +629,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 52,
@@ -863,7 +683,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "also on Zoom",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 83,
@@ -881,7 +701,7 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 56,
@@ -971,6 +791,24 @@
    "free": false,
    "category": "dance",
    "notes": null,
+   "is_new": false
+  },
+  {
+   "id": 103,
+   "name": "Little Havana Under the Stars at Ball & Chain (free salsa class)",
+   "url": "https://getbailar.com/events/little-havana-under-the-stars-at-ball-chain-miami-fl-2026-10-08",
+   "start": "2026-10-08T20:00:00-04:00",
+   "end": "2026-10-09T01:00:00-04:00",
+   "end_effective": "2026-10-09T01:00:00-04:00",
+   "date": "2026-10-08",
+   "time": "8:00 PM–1:00 AM",
+   "venue": "Ball & Chain",
+   "neighborhood": "Little Havana",
+   "address": "1513 SW 8th St, Miami, FL",
+   "cost": "Free (no cover, 21+)",
+   "free": true,
+   "category": "dance",
+   "notes": "Free salsa class at 9 PM (Salsa Lovers); DJ El Russo",
    "is_new": true
   },
   {
@@ -1043,7 +881,7 @@
    "free": true,
    "category": "outdoor",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 85,
@@ -1061,7 +899,7 @@
    "free": false,
    "category": "university",
    "notes": "three-day festival; tickets via miccofilmfest.com",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 61,
@@ -1092,12 +930,30 @@
    "time": "8:00–10:00 PM",
    "venue": "Giralda Plaza",
    "neighborhood": "Coral Gables",
-   "address": null,
+   "address": "141 Giralda Ave, Coral Gables, FL 33134",
    "cost": "Free",
    "free": true,
    "category": "dance",
    "notes": null,
    "is_new": false
+  },
+  {
+   "id": 104,
+   "name": "Noche Divina Salsa Bachata Social",
+   "url": "https://golatindance.com/event/noche-divina-salsa-bachata-social/2026-10-09/",
+   "start": "2026-10-09T20:30:00-04:00",
+   "end": "2026-10-10T02:00:00-04:00",
+   "end_effective": "2026-10-10T02:00:00-04:00",
+   "date": "2026-10-09",
+   "time": "8:30 PM–2:00 AM",
+   "venue": "PowerRumba Fitness",
+   "neighborhood": "Aventura",
+   "address": "16117 Biscayne Rd, Aventura, FL",
+   "cost": "$25 door (includes workshop)",
+   "free": false,
+   "category": "dance",
+   "notes": "9 PM class then social; monthly",
+   "is_new": true
   },
   {
    "id": 60,
@@ -1118,6 +974,24 @@
    "is_new": false
   },
   {
+   "id": 108,
+   "name": "Free Japanese Class for Beginners",
+   "url": "https://www.meetup.com/miami-japanese-language-meetup/events/316636249/",
+   "start": "2026-10-10T09:50:00-04:00",
+   "end": "2026-10-10T10:50:00-04:00",
+   "end_effective": "2026-10-10T10:50:00-04:00",
+   "date": "2026-10-10",
+   "time": "9:50–10:50 AM",
+   "venue": "Primera Iglesia Bautista de Coral Park",
+   "neighborhood": "Westchester",
+   "address": "8755 SW 16th St, Miami, FL",
+   "cost": "Free",
+   "free": true,
+   "category": "class",
+   "notes": "Japanese Christian Community Miami weekly",
+   "is_new": true
+  },
+  {
    "id": 90,
    "name": "3D Printing Basics at Moonlighter FabLab",
    "url": "https://www.eventbrite.com/e/3d-printing-basics-tickets-1996830787639",
@@ -1133,6 +1007,24 @@
    "free": false,
    "category": "class",
    "notes": null,
+   "is_new": false
+  },
+  {
+   "id": 106,
+   "name": "Haulover Park Coastal Cleanup",
+   "url": "https://events.volunteercleanup.org/haulover-park-coastal-cleanup-1st-saturday-10-10",
+   "start": "2026-10-10T10:30:00-04:00",
+   "end": "2026-10-10T12:30:00-04:00",
+   "end_effective": "2026-10-10T12:30:00-04:00",
+   "date": "2026-10-10",
+   "time": "10:30 AM–12:30 PM",
+   "venue": "Haulover Park",
+   "neighborhood": "Miami Beach",
+   "address": "Collins Avenue, Miami Beach, FL",
+   "cost": "Free (volunteer)",
+   "free": true,
+   "category": "volunteering",
+   "notes": "1st Saturday monthly coastal cleanup",
    "is_new": true
   },
   {
@@ -1146,12 +1038,12 @@
    "time": "11:00 AM–1:00 PM",
    "venue": "The Coffee - Wynwood",
    "neighborhood": "Wynwood",
-   "address": "136 NW 27th St",
+   "address": "136 NW 27th St, Miami, FL 33127",
    "cost": "Free (no fee listed)",
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 94,
@@ -1169,7 +1061,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 95,
@@ -1182,12 +1074,12 @@
    "time": "2:00–4:30 PM",
    "venue": "Westchester Regional Library",
    "neighborhood": "Westchester",
-   "address": "9445 Coral Way",
+   "address": "9445 Coral Way, Miami, FL",
    "cost": "Free",
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 89,
@@ -1205,7 +1097,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "Debris Free Oceans / Florida Climate Week; open to all ages",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 96,
@@ -1218,12 +1110,12 @@
    "time": "4:16–6:16 PM",
    "venue": "Le Parc Cafe",
    "neighborhood": "Coral Gables",
-   "address": "997 N Greenway Dr",
+   "address": "997 N Greenway Dr, Coral Gables, FL",
    "cost": "Free (no fee listed)",
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 88,
@@ -1241,7 +1133,7 @@
    "free": false,
    "category": "singles",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 91,
@@ -1259,6 +1151,42 @@
    "free": true,
    "category": "networking",
    "notes": null,
+   "is_new": false
+  },
+  {
+   "id": 109,
+   "name": "Concerto di musica italiana: La Niña (HIT Week)",
+   "url": "https://www.meetup.com/miami-dade-county-italian-speakers-meetup-group/events/316650828/",
+   "start": "2026-10-10T19:00:00-04:00",
+   "end": "2026-10-10T21:00:00-04:00",
+   "end_effective": "2026-10-10T21:00:00-04:00",
+   "date": "2026-10-10",
+   "time": "7:00–9:00 PM",
+   "venue": "Miami Beach Bandshell",
+   "neighborhood": "Miami Beach",
+   "address": "7275 Collins Avenue, Miami Beach, FL",
+   "cost": "See Rhythm Foundation / HIT Week (check page)",
+   "free": false,
+   "category": "creative",
+   "notes": "Italian HIT Week showcase",
+   "is_new": true
+  },
+  {
+   "id": 110,
+   "name": "Oktoberfest Miami – Bavarian Beer Festival",
+   "url": "https://www.meetup.com/south-florida-20s-30s-40s-social-adventures/events/316191266/",
+   "start": "2026-10-10T19:00:00-04:00",
+   "end": "2026-10-11T01:00:00-04:00",
+   "end_effective": "2026-10-11T01:00:00-04:00",
+   "date": "2026-10-10",
+   "time": "7:00 PM–1:00 AM",
+   "venue": "German-American Social Club of Greater Miami",
+   "neighborhood": "Kendall",
+   "address": "11919 SW 56th Street, Miami, FL",
+   "cost": "Tickets at prost.miami",
+   "free": false,
+   "category": "community",
+   "notes": null,
    "is_new": true
   },
   {
@@ -1272,12 +1200,12 @@
    "time": "8:00–11:59 PM",
    "venue": "Berries in the Grove",
    "neighborhood": "Coconut Grove",
-   "address": "2884 SW 27th Ave",
+   "address": "2884 SW 27th Avenue, Miami, FL",
    "cost": "Free",
    "free": true,
    "category": "singles",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 87,
@@ -1295,7 +1223,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 86,
@@ -1312,6 +1240,60 @@
    "cost": "Free with RSVP",
    "free": true,
    "category": "dance",
+   "notes": null,
+   "is_new": false
+  },
+  {
+   "id": 113,
+   "name": "Lunch & Pickle — Miami",
+   "url": "https://www.meetup.com/miami-broward-pickleball-group/events/316733758/",
+   "start": "2026-10-11T13:00:00-04:00",
+   "end": "2026-10-11T17:00:00-04:00",
+   "end_effective": "2026-10-11T17:00:00-04:00",
+   "date": "2026-10-11",
+   "time": "1:00–5:00 PM",
+   "venue": "Bolay Fresh Kitchen (then courts)",
+   "neighborhood": "Pinecrest",
+   "address": "7880 SW 104th St #101, Miami, FL 33156",
+   "cost": "Free meetup (lunch/court costs separate)",
+   "free": true,
+   "category": "outdoor",
+   "notes": "Lunch then pickleball",
+   "is_new": true
+  },
+  {
+   "id": 111,
+   "name": "Reggaeton — All Levels",
+   "url": "https://www.meetup.com/miami-adult-dance-calsses/events/316653547/",
+   "start": "2026-10-11T13:15:00-04:00",
+   "end": "2026-10-11T14:15:00-04:00",
+   "end_effective": "2026-10-11T14:15:00-04:00",
+   "date": "2026-10-11",
+   "time": "1:15–2:15 PM",
+   "venue": "DanceArts Miami",
+   "neighborhood": "Miami",
+   "address": "250 NE 61st St, Miami, FL",
+   "cost": "$35",
+   "free": false,
+   "category": "dance",
+   "notes": null,
+   "is_new": true
+  },
+  {
+   "id": 112,
+   "name": "Spooky Dreamcatchers (South Beach Craft Club)",
+   "url": "https://www.meetup.com/south-beach-craft-club/events/316808160/",
+   "start": "2026-10-11T17:00:00-04:00",
+   "end": "2026-10-11T20:00:00-04:00",
+   "end_effective": "2026-10-11T20:00:00-04:00",
+   "date": "2026-10-11",
+   "time": "5:00–8:00 PM",
+   "venue": "Maurice Gibb Memorial Park",
+   "neighborhood": "South Beach",
+   "address": "18th St & Purdy Avenue, Miami Beach, FL 33139",
+   "cost": "$10",
+   "free": false,
+   "category": "creative",
    "notes": null,
    "is_new": true
   },
@@ -1331,7 +1313,7 @@
    "free": true,
    "category": "accountability",
    "notes": "in-person weekly accountability club",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": 69,
@@ -1349,7 +1331,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "no meeting 2nd Thursday (Oct 8)",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
