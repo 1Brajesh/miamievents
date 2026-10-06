@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-06T08:12:49-04:00",
+ "updated": "2026-10-06T10:04:18-04:00",
  "events": [
+  {
+   "id": 122,
+   "name": "State of the Arts | Coral Gables 2026",
+   "url": "https://www.eventbrite.com/e/state-of-the-arts-coral-gables-2026-tickets-2000316382146",
+   "start": "2026-10-06T08:30:00-04:00",
+   "end": "2026-10-06T10:00:00-04:00",
+   "end_effective": "2026-10-06T10:00:00-04:00",
+   "date": "2026-10-06",
+   "time": "8:30–10:00 AM",
+   "venue": "Sanctuary of the Arts",
+   "neighborhood": "Coral Gables",
+   "address": "410 Andalusia Ave, Coral Gables, FL 33134",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "talks",
+   "notes": "4th annual arts briefing",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "status": "past",
+   "went": false
+  },
   {
    "id": 101,
    "name": "Mambo Mondays at Ball & Chain (free salsa & bachata class)",
@@ -18,6 +39,7 @@
    "category": "dance",
    "notes": "Free salsa & bachata class at 9 PM; guest DJs; 21+",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -38,6 +60,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -58,6 +81,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -78,6 +102,7 @@
    "category": "accountability",
    "notes": "in-person; say your weekly goals out loud, report back next week",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -98,6 +123,7 @@
    "category": "social",
    "notes": "beginner-friendly drop-in; Level 12 campaign; recurring Mondays",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -118,6 +144,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -138,6 +165,7 @@
    "category": "toastmasters",
    "notes": "light refreshments",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -158,6 +186,7 @@
    "category": "university",
    "notes": "UM Frost, public",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -178,6 +207,7 @@
    "category": "books",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -198,6 +228,7 @@
    "category": "language",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -218,6 +249,7 @@
    "category": "outdoor",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -238,6 +270,7 @@
    "category": "creative",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -258,6 +291,7 @@
    "category": "photowalk",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -278,6 +312,7 @@
    "category": "networking",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -298,6 +333,7 @@
    "category": "university",
    "notes": "percussion feature Svetoslav Stoyanov",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -318,6 +354,7 @@
    "category": "university",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -338,6 +375,7 @@
    "category": "university",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -358,6 +396,7 @@
    "category": "outdoor",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -378,6 +417,7 @@
    "category": "community",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -398,6 +438,7 @@
    "category": "volunteering",
    "notes": "Listed on Miami Waterkeeper events page for Sun Oct 4; kayak provided",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -418,6 +459,7 @@
    "category": "community",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -438,6 +480,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -458,6 +501,7 @@
    "category": "dance",
    "notes": "workshop + social",
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -478,6 +522,7 @@
    "category": "university",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -498,6 +543,7 @@
    "category": "university",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -518,6 +564,7 @@
    "category": "networking",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -538,6 +585,7 @@
    "category": "books",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -558,6 +606,7 @@
    "category": "singles",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -578,6 +627,7 @@
    "category": "language",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -598,6 +648,7 @@
    "category": "language",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": true
   },
@@ -618,6 +669,7 @@
    "category": "university",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -638,6 +690,7 @@
    "category": "books",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -658,6 +711,7 @@
    "category": "community",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -678,6 +732,7 @@
    "category": "volunteering",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -698,6 +753,7 @@
    "category": "community",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -718,6 +774,7 @@
    "category": "outdoor",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -738,6 +795,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -758,6 +816,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -778,6 +837,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -798,6 +858,7 @@
    "category": "social",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -818,6 +879,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -838,6 +900,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -858,6 +921,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -878,6 +942,7 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   },
@@ -898,6 +963,7 @@
    "category": "networking",
    "notes": null,
    "is_new": false,
+   "maybe_sold_out": false,
    "status": "past",
    "went": false
   }

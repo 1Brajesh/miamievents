@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T08:12:49-04:00",
+ "updated": "2026-10-06T10:04:18-04:00",
  "events": [
   {
    "id": 70,
@@ -17,7 +17,8 @@
    "free": true,
    "category": "accountability",
    "notes": "monthly; breakfast included",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 122,
@@ -35,7 +36,9 @@
    "free": true,
    "category": "talks",
    "notes": "4th annual arts briefing",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 114,
@@ -53,7 +56,8 @@
    "free": false,
    "category": "social",
    "notes": "From MBJCC events page; confirm cost/registration on site",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 22,
@@ -71,7 +75,8 @@
    "free": true,
    "category": "networking",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 119,
@@ -89,7 +94,8 @@
    "free": true,
    "category": "social",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 23,
@@ -107,7 +113,27 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 50,
+   "name": "MDC CE Salsa (Kendall)",
+   "url": "https://ce.mdc.edu/search/publicCourseSearchDetails.do?courseId=1159638&method=load&selectedProgramAreaId=1017614&selectedProgramStreamId=1192798",
+   "start": "2026-10-06T18:30:00-04:00",
+   "end": "2026-10-06T20:45:00-04:00",
+   "end_effective": "2026-10-06T20:45:00-04:00",
+   "date": "2026-10-06",
+   "time": "6:30–8:45 PM",
+   "venue": "MDC Kendall Campus",
+   "neighborhood": "Kendall",
+   "address": null,
+   "cost": "$110 (series through Oct 27)",
+   "free": false,
+   "category": "class",
+   "notes": "Oct 6 section no longer listed on MDC CE page (next section Nov 10-Dec 1), checked Oct 6",
+   "is_new": false,
+   "maybe_sold_out": true
   },
   {
    "id": 123,
@@ -125,7 +151,8 @@
    "free": true,
    "category": "outdoor",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 24,
@@ -143,7 +170,8 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 120,
@@ -161,7 +189,8 @@
    "free": true,
    "category": "social",
    "notes": "weekly Tuesdays",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 121,
@@ -179,7 +208,8 @@
    "free": true,
    "category": "social",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 168,
@@ -197,7 +227,8 @@
    "free": true,
    "category": "creative",
    "notes": "writers, musicians, poets",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 185,
@@ -215,7 +246,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 186,
@@ -233,7 +265,8 @@
    "free": false,
    "category": "creative",
    "notes": "weekly Tuesdays",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 187,
@@ -251,7 +284,8 @@
    "free": false,
    "category": "social",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 49,
@@ -269,7 +303,8 @@
    "free": true,
    "category": "language",
    "notes": "buy a drink",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 124,
@@ -287,7 +322,8 @@
    "free": true,
    "category": "outdoor",
    "notes": "for seasoned skaters",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 98,
@@ -305,7 +341,8 @@
    "free": true,
    "category": "social",
    "notes": "~17.8 mi straight-line from Miami Beach (within ~20 mi)",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 102,
@@ -323,7 +360,8 @@
    "free": true,
    "category": "dance",
    "notes": "Free bachata lesson at 9 PM by Bachata Overdose; DJ Jorge Charun",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 167,
@@ -341,7 +379,8 @@
    "free": true,
    "category": "creative",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 65,
@@ -359,7 +398,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "walk-ins welcome; hybrid",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 105,
@@ -377,7 +417,8 @@
    "free": false,
    "category": "dance",
    "notes": "Salsa/bachata/cha-cha/reggaeton blend",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 135,
@@ -395,7 +436,8 @@
    "free": true,
    "category": "creative",
    "notes": "bring poems to read",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 137,
@@ -413,7 +455,8 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 191,
@@ -431,7 +474,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 136,
@@ -449,7 +493,8 @@
    "free": true,
    "category": "books",
    "notes": "American history book club",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 192,
@@ -467,7 +512,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 78,
@@ -485,7 +531,8 @@
    "free": true,
    "category": "university",
    "notes": "exhibition on view Oct 6–30; MIFA resident artists",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 138,
@@ -503,7 +550,8 @@
    "free": true,
    "category": "language",
    "notes": "weekly",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 77,
@@ -521,7 +569,8 @@
    "free": true,
    "category": "language",
    "notes": "weekly conversation practice; open language table",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 79,
@@ -539,7 +588,8 @@
    "free": false,
    "category": "networking",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 130,
@@ -557,7 +607,8 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 25,
@@ -575,7 +626,8 @@
    "free": true,
    "category": "books",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 26,
@@ -593,7 +645,8 @@
    "free": true,
    "category": "accountability",
    "notes": "Exact room shared after joining",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 107,
@@ -611,7 +664,8 @@
    "free": false,
    "category": "networking",
    "notes": "Register on Luma (Meetup is not RSVP)",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 128,
@@ -629,7 +683,8 @@
    "free": true,
    "category": "dance",
    "notes": "registration opens the day before",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 133,
@@ -647,7 +702,8 @@
    "free": true,
    "category": "outdoor",
    "notes": "community run",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 196,
@@ -665,7 +721,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 28,
@@ -683,7 +740,8 @@
    "free": false,
    "category": "dance",
    "notes": "FB recurring Amor Bachata (North Miami); keep GO Latin time/venue over FB timezone-confused listing",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 29,
@@ -701,7 +759,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 51,
@@ -719,7 +778,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 64,
@@ -737,7 +797,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "hybrid (Zoom too); starts promptly 7 PM",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 129,
@@ -755,7 +816,8 @@
    "free": true,
    "category": "dance",
    "notes": "weekly Wednesdays",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 131,
@@ -773,7 +835,8 @@
    "free": true,
    "category": "books",
    "notes": "author talk",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 132,
@@ -791,7 +854,8 @@
    "free": true,
    "category": "books",
    "notes": "new novel American Hagwon",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 134,
@@ -809,7 +873,8 @@
    "free": false,
    "category": "networking",
    "notes": "dinner cost separate",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 195,
@@ -827,7 +892,8 @@
    "free": true,
    "category": "class",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 80,
@@ -845,7 +911,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 193,
@@ -863,7 +930,8 @@
    "free": false,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 81,
@@ -881,7 +949,8 @@
    "free": true,
    "category": "social",
    "notes": "six rounds pop-culture trivia",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 125,
@@ -899,7 +968,8 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class 9 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 164,
@@ -917,7 +987,8 @@
    "free": true,
    "category": "social",
    "notes": "weekly Wednesdays; teams up to 6",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 165,
@@ -935,7 +1006,8 @@
    "free": true,
    "category": "social",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 169,
@@ -953,7 +1025,8 @@
    "free": true,
    "category": "creative",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 27,
@@ -971,7 +1044,8 @@
    "free": true,
    "category": "singles",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 126,
@@ -989,7 +1063,8 @@
    "free": true,
    "category": "dance",
    "notes": "free bachata class 9 PM by Bachata Overdose",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 127,
@@ -1007,7 +1082,8 @@
    "free": false,
    "category": "dance",
    "notes": "1st Wednesday monthly; class 9 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 181,
@@ -1025,7 +1101,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 30,
@@ -1043,7 +1120,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 115,
@@ -1061,7 +1139,8 @@
    "free": true,
    "category": "accountability",
    "notes": "Coworking every Mon & Thu; MCR livestream after",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 139,
@@ -1079,7 +1158,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "weekly Thursdays",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 197,
@@ -1097,7 +1177,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 140,
@@ -1115,7 +1196,8 @@
    "free": true,
    "category": "language",
    "notes": "students and community members welcome",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 31,
@@ -1133,7 +1215,8 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 82,
@@ -1151,7 +1234,8 @@
    "free": true,
    "category": "community",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 141,
@@ -1169,7 +1253,27 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 32,
+   "name": "We Met at Bachata",
+   "url": "https://www.eventbrite.com/e/we-met-at-bachata-tickets-2001242483139",
+   "start": "2026-10-08T17:30:00-04:00",
+   "end": "2026-10-08T21:00:00-04:00",
+   "end_effective": "2026-10-08T21:00:00-04:00",
+   "date": "2026-10-08",
+   "time": "5:30–9:00 PM",
+   "venue": "Vizcaya Village Farmers Market",
+   "neighborhood": "Coconut Grove",
+   "address": null,
+   "cost": "Free",
+   "free": true,
+   "category": "dance",
+   "notes": "Beginner bachata class + social (21+). Brajesh signed up.",
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 66,
@@ -1187,7 +1291,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 142,
@@ -1205,7 +1310,8 @@
    "free": true,
    "category": "creative",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 52,
@@ -1223,7 +1329,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 53,
@@ -1241,7 +1348,8 @@
    "free": true,
    "category": "talks",
    "notes": "museum free after 5 PM Thursdays",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 67,
@@ -1259,7 +1367,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "also on Zoom",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 83,
@@ -1277,7 +1386,8 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 56,
@@ -1295,7 +1405,8 @@
    "free": false,
    "category": "books",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 57,
@@ -1313,7 +1424,8 @@
    "free": false,
    "category": "class",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 143,
@@ -1331,7 +1443,8 @@
    "free": false,
    "category": "talks",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 171,
@@ -1349,7 +1462,8 @@
    "free": true,
    "category": "creative",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 174,
@@ -1367,7 +1481,8 @@
    "free": false,
    "category": "social",
    "notes": "dinner cost separate",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 189,
@@ -1385,7 +1500,8 @@
    "free": true,
    "category": "outdoor",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 54,
@@ -1403,7 +1519,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 144,
@@ -1421,7 +1538,27 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 34,
+   "name": "Smart Speed Dating by Cityswoon (ages 33–45)",
+   "url": "https://www.eventbrite.com/e/smart-speed-dating-in-wynwood-cityswoon-ages-33-45-tickets-2001072585972",
+   "start": "2026-10-08T20:00:00-04:00",
+   "end": "2026-10-08T22:30:00-04:00",
+   "end_effective": "2026-10-08T22:30:00-04:00",
+   "date": "2026-10-08",
+   "time": "8:00–10:30 PM",
+   "venue": "Puttery",
+   "neighborhood": "Wynwood",
+   "address": null,
+   "cost": "$43.45",
+   "free": false,
+   "category": "singles",
+   "notes": "Eventbrite shows SoldOut (checked Oct 6)",
+   "is_new": false,
+   "maybe_sold_out": true
   },
   {
    "id": 93,
@@ -1439,7 +1576,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 103,
@@ -1457,7 +1595,8 @@
    "free": true,
    "category": "dance",
    "notes": "Free salsa class at 9 PM (Salsa Lovers); DJ El Russo",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 170,
@@ -1475,7 +1614,8 @@
    "free": true,
    "category": "creative",
    "notes": "sing, rap, poetry, comedy",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 182,
@@ -1493,7 +1633,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 55,
@@ -1511,7 +1652,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 145,
@@ -1529,7 +1671,8 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class 9 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 146,
@@ -1547,7 +1690,8 @@
    "free": true,
    "category": "dance",
    "notes": "lesson 9:15 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 58,
@@ -1565,7 +1709,8 @@
    "free": true,
    "category": "outdoor",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 84,
@@ -1583,7 +1728,8 @@
    "free": true,
    "category": "outdoor",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 147,
@@ -1601,7 +1747,8 @@
    "free": true,
    "category": "creative",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 198,
@@ -1619,7 +1766,8 @@
    "free": true,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 85,
@@ -1637,7 +1785,8 @@
    "free": false,
    "category": "university",
    "notes": "three-day festival; tickets via miccofilmfest.com",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 184,
@@ -1655,7 +1804,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 61,
@@ -1673,7 +1823,8 @@
    "free": false,
    "category": "university",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 199,
@@ -1691,7 +1842,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 59,
@@ -1709,7 +1861,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 149,
@@ -1727,7 +1880,8 @@
    "free": false,
    "category": "dance",
    "notes": "live music 10 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 104,
@@ -1745,7 +1899,8 @@
    "free": false,
    "category": "dance",
    "notes": "9 PM class then social; monthly",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 60,
@@ -1763,7 +1918,8 @@
    "free": true,
    "category": "dance",
    "notes": "Meetup lists free but Eventbrite tickets required; same VK Friday social",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 148,
@@ -1781,7 +1937,8 @@
    "free": true,
    "category": "dance",
    "notes": "free class 9 PM by Salsa Fina",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 183,
@@ -1799,7 +1956,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 176,
@@ -1817,7 +1975,8 @@
    "free": true,
    "category": "volunteering",
    "notes": "collect flood data",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 178,
@@ -1835,7 +1994,8 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 150,
@@ -1853,7 +2013,8 @@
    "free": true,
    "category": "volunteering",
    "notes": "sign up via Miami-Dade Parks ParkLink",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 177,
@@ -1871,7 +2032,8 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 108,
@@ -1889,7 +2051,8 @@
    "free": true,
    "category": "language",
    "notes": "Japanese Christian Community Miami weekly",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 90,
@@ -1907,7 +2070,8 @@
    "free": false,
    "category": "class",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 106,
@@ -1925,7 +2089,8 @@
    "free": true,
    "category": "volunteering",
    "notes": "1st Saturday monthly coastal cleanup",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 151,
@@ -1943,7 +2108,8 @@
    "free": true,
    "category": "books",
    "notes": "19th-century classics",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 97,
@@ -1961,7 +2127,8 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 152,
@@ -1979,7 +2146,8 @@
    "free": true,
    "category": "university",
    "notes": "docent-led tour",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 153,
@@ -1997,7 +2165,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 173,
@@ -2015,7 +2184,8 @@
    "free": false,
    "category": "talks",
    "notes": "World Mental Health Day films + talks",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 94,
@@ -2033,7 +2203,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 95,
@@ -2051,7 +2222,8 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 166,
@@ -2069,7 +2241,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 89,
@@ -2087,7 +2260,8 @@
    "free": true,
    "category": "volunteering",
    "notes": "Debris Free Oceans / Florida Climate Week; open to all ages",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 96,
@@ -2105,7 +2279,8 @@
    "free": true,
    "category": "language",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 88,
@@ -2123,7 +2298,8 @@
    "free": false,
    "category": "singles",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 161,
@@ -2141,7 +2317,8 @@
    "free": false,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 109,
@@ -2159,7 +2336,8 @@
    "free": false,
    "category": "creative",
    "notes": "Italian HIT Week showcase",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 110,
@@ -2177,7 +2355,8 @@
    "free": false,
    "category": "community",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 99,
@@ -2195,7 +2374,8 @@
    "free": true,
    "category": "singles",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 154,
@@ -2213,7 +2393,8 @@
    "free": false,
    "category": "dance",
    "notes": "live music 10 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 172,
@@ -2231,7 +2412,8 @@
    "free": true,
    "category": "creative",
    "notes": "poetry, storytelling, music",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 190,
@@ -2249,7 +2431,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 86,
@@ -2267,7 +2450,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 155,
@@ -2285,7 +2469,8 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 113,
@@ -2303,7 +2488,8 @@
    "free": true,
    "category": "outdoor",
    "notes": "Lunch then pickleball",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 180,
@@ -2321,7 +2507,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 111,
@@ -2339,7 +2526,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 194,
@@ -2357,7 +2545,8 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 200,
@@ -2375,7 +2564,8 @@
    "free": true,
    "category": "social",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 112,
@@ -2393,7 +2583,8 @@
    "free": false,
    "category": "creative",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 156,
@@ -2411,7 +2602,8 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class 9 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 116,
@@ -2429,7 +2621,8 @@
    "free": true,
    "category": "accountability",
    "notes": "Coworking every Mon & Thu; MCR livestream after",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 157,
@@ -2447,7 +2640,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "2nd & 4th Mondays",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 175,
@@ -2465,7 +2659,8 @@
    "free": true,
    "category": "creative",
    "notes": "art night",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 158,
@@ -2483,7 +2678,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "1st–3rd Mondays",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 162,
@@ -2501,7 +2697,8 @@
    "free": false,
    "category": "books",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 159,
@@ -2519,7 +2716,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "light refreshments",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 163,
@@ -2537,7 +2735,8 @@
    "free": true,
    "category": "books",
    "notes": "Books & Books author event",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 179,
@@ -2555,7 +2754,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 188,
@@ -2573,7 +2773,8 @@
    "free": true,
    "category": "outdoor",
    "notes": "every Monday 7 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 201,
@@ -2591,7 +2792,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 63,
@@ -2609,7 +2811,8 @@
    "free": true,
    "category": "accountability",
    "notes": "in-person weekly accountability club",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 202,
@@ -2627,7 +2830,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 203,
@@ -2645,7 +2849,8 @@
    "free": true,
    "category": "social",
    "notes": null,
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 160,
@@ -2663,7 +2868,8 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa & bachata class 9 PM",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 117,
@@ -2681,7 +2887,8 @@
    "free": true,
    "category": "accountability",
    "notes": "Coworking every Mon & Thu; MCR livestream after",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   },
   {
    "id": 69,
@@ -2699,7 +2906,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "no meeting 2nd Thursday (Oct 8)",
-   "is_new": false
+   "is_new": false,
+   "maybe_sold_out": false
   },
   {
    "id": 118,
@@ -2717,7 +2925,8 @@
    "free": true,
    "category": "accountability",
    "notes": "Coworking every Mon & Thu; MCR livestream after",
-   "is_new": true
+   "is_new": true,
+   "maybe_sold_out": false
   }
  ]
 }
