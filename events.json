@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T10:12:00-04:00",
+ "updated": "2026-10-05T22:58:01-04:00",
  "events": [
   {
    "id": 100,
@@ -17,7 +17,8 @@
    "free": true,
    "category": "university",
    "notes": "UM Frost, public",
-   "is_new": true
+   "is_new": true,
+   "ended": true
   },
   {
    "id": 68,
@@ -35,7 +36,8 @@
    "free": true,
    "category": "toastmasters",
    "notes": "light refreshments",
-   "is_new": false
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 20,
@@ -53,7 +55,8 @@
    "free": true,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 75,
@@ -89,7 +92,8 @@
    "free": true,
    "category": "accountability",
    "notes": "in-person; say your weekly goals out loud, report back next week",
-   "is_new": false
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 21,
@@ -107,7 +111,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 92,
@@ -125,7 +130,8 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": false
+   "is_new": false,
+   "ended": true
   },
   {
    "id": 101,
@@ -162,6 +168,24 @@
    "category": "accountability",
    "notes": "monthly; breakfast included",
    "is_new": false
+  },
+  {
+   "id": 114,
+   "name": "Mah Jong Bootcamp",
+   "url": "https://mbjcc.org/events",
+   "start": "2026-10-06T10:00:00-04:00",
+   "end": "2026-10-06T12:00:00-04:00",
+   "end_effective": "2026-10-06T12:00:00-04:00",
+   "date": "2026-10-06",
+   "time": "10:00 AM–12:00 PM",
+   "venue": "Galbut Family Miami Beach JCC",
+   "neighborhood": "Miami Beach",
+   "address": "4221 Pine Tree Drive, Miami Beach, FL",
+   "cost": "See MBJCC listing",
+   "free": false,
+   "category": "social",
+   "notes": "From MBJCC events page; confirm cost/registration on site",
+   "is_new": true
   },
   {
    "id": 22,
@@ -576,6 +600,24 @@
    "category": "toastmasters",
    "notes": null,
    "is_new": false
+  },
+  {
+   "id": 115,
+   "name": "Community Coworking x Miami Community Radio",
+   "url": "https://www.deareleanormiami.com/event-details-registration/community-coworking-x-miami-community-radio-2026-10-08-11-00",
+   "start": "2026-10-08T11:00:00-04:00",
+   "end": "2026-10-08T18:00:00-04:00",
+   "end_effective": "2026-10-08T18:00:00-04:00",
+   "date": "2026-10-08",
+   "time": "11:00 AM–6:00 PM",
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "No price listed (RSVP or drop in)",
+   "free": true,
+   "category": "accountability",
+   "notes": "Coworking every Mon & Thu; MCR livestream after",
+   "is_new": true
   },
   {
    "id": 31,
@@ -1298,6 +1340,24 @@
    "is_new": true
   },
   {
+   "id": 116,
+   "name": "Community Coworking x Miami Community Radio",
+   "url": "https://www.deareleanormiami.com/event-details-registration/community-coworking-x-miami-community-radio-2026-10-12-11-00",
+   "start": "2026-10-12T11:00:00-04:00",
+   "end": "2026-10-12T18:00:00-04:00",
+   "end_effective": "2026-10-12T18:00:00-04:00",
+   "date": "2026-10-12",
+   "time": "11:00 AM–6:00 PM",
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "No price listed (RSVP or drop in)",
+   "free": true,
+   "category": "accountability",
+   "notes": "Coworking every Mon & Thu; MCR livestream after",
+   "is_new": true
+  },
+  {
    "id": 63,
    "name": "AXEN Miami: Accountability & Execution Club (weekly goals check-in)",
    "url": "https://luma.com/l9as4n4p",
@@ -1316,6 +1376,24 @@
    "is_new": false
   },
   {
+   "id": 117,
+   "name": "Community Coworking x Miami Community Radio",
+   "url": "https://www.deareleanormiami.com/event-details-registration/community-coworking-x-miami-community-radio-2026-10-15-11-00",
+   "start": "2026-10-15T11:00:00-04:00",
+   "end": "2026-10-15T18:00:00-04:00",
+   "end_effective": "2026-10-15T18:00:00-04:00",
+   "date": "2026-10-15",
+   "time": "11:00 AM–6:00 PM",
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "No price listed (RSVP or drop in)",
+   "free": true,
+   "category": "accountability",
+   "notes": "Coworking every Mon & Thu; MCR livestream after",
+   "is_new": true
+  },
+  {
    "id": 69,
    "name": "Miracle Mile Toastmasters lunchtime meeting",
    "url": "http://www.miraclemiletoastmasters.com/",
@@ -1332,6 +1410,24 @@
    "category": "toastmasters",
    "notes": "no meeting 2nd Thursday (Oct 8)",
    "is_new": false
+  },
+  {
+   "id": 118,
+   "name": "Community Coworking x Miami Community Radio",
+   "url": "https://www.deareleanormiami.com/event-details-registration/community-coworking-x-miami-community-radio-2026-10-19-11-00",
+   "start": "2026-10-19T11:00:00-04:00",
+   "end": "2026-10-19T18:00:00-04:00",
+   "end_effective": "2026-10-19T18:00:00-04:00",
+   "date": "2026-10-19",
+   "time": "11:00 AM–6:00 PM",
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "No price listed (RSVP or drop in)",
+   "free": true,
+   "category": "accountability",
+   "notes": "Coworking every Mon & Thu; MCR livestream after",
+   "is_new": true
   }
  ]
 }
