@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T13:05:03-04:00",
+ "updated": "2026-10-06T13:09:17-04:00",
  "events": [
   {
    "id": 70,
@@ -96,6 +96,25 @@
    "free": true,
    "category": "social",
    "notes": null,
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 204,
+   "name": "Jupiter Entertainment, Media, and Sports Festival",
+   "url": "https://www.miamibeachconvention.com/events/jupiter-entertainment-media-and-sports-festival",
+   "start": "2026-10-06T18:00:00-04:00",
+   "end": "2026-10-09T13:30:00-04:00",
+   "end_effective": "2026-10-09T13:30:00-04:00",
+   "date": "2026-10-06",
+   "time": "6:00 PM–1:30 PM",
+   "venue": "Miami Beach Convention Center",
+   "neighborhood": "Miami Beach",
+   "address": "1901 Convention Center Dr, Miami Beach, FL 33139",
+   "cost": "See Jupiter / MBCC listing",
+   "free": false,
+   "category": "community",
+   "notes": "Oct 6–9 at MBCC; opening evening Tue 6–10 PM (reg from 1 PM). From official MBCC calendar + jupiter-miami.com hours.",
    "is_new": true,
    "maybe_sold_out": false
   },
@@ -401,6 +420,25 @@
    "category": "toastmasters",
    "notes": "walk-ins welcome; hybrid",
    "is_new": false,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 205,
+   "name": "Burger King Franchise Owner's Conference",
+   "url": "https://www.miamibeachconvention.com/events/burger-king-franchise-owners-conference",
+   "start": "2026-10-07T09:00:00-04:00",
+   "end": "2026-10-09T17:00:00-04:00",
+   "end_effective": "2026-10-09T17:00:00-04:00",
+   "date": "2026-10-07",
+   "time": "9:00 AM–5:00 PM",
+   "venue": "Miami Beach Convention Center",
+   "neighborhood": "Miami Beach",
+   "address": "1901 Convention Center Dr, Miami Beach, FL 33139",
+   "cost": "See MBCC listing",
+   "free": false,
+   "category": "community",
+   "notes": "Oct 7–9 per MBCC calendar; may be invite-only / industry. Confirm access on listing.",
+   "is_new": true,
    "maybe_sold_out": false
   },
   {
@@ -2019,6 +2057,25 @@
    "maybe_sold_out": false
   },
   {
+   "id": 206,
+   "name": "ATHX Games",
+   "url": "https://www.miamibeachconvention.com/events/athx-games",
+   "start": "2026-10-10T09:00:00-04:00",
+   "end": "2026-10-10T17:00:00-04:00",
+   "end_effective": "2026-10-10T17:00:00-04:00",
+   "date": "2026-10-10",
+   "time": "9:00 AM–5:00 PM",
+   "venue": "Miami Beach Convention Center",
+   "neighborhood": "Miami Beach",
+   "address": "1901 Convention Center Dr, Miami Beach, FL 33139",
+   "cost": "See MBCC listing",
+   "free": false,
+   "category": "outdoor",
+   "notes": "Oct 10 per MBCC calendar (2.5-hour fitness competition; exact start time confirm on listing).",
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
    "id": 177,
    "name": "Citizen Science EcoAction Day, Crandon Park",
    "url": "https://www.eventbrite.com/e/citizen-science-ecoaction-day-crandon-park-tickets-2002309786472",
@@ -2319,6 +2376,25 @@
    "free": false,
    "category": "books",
    "notes": null,
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 207,
+   "name": "Miami Biz Club Annual Charity Gala",
+   "url": "https://www.miamibeachconvention.com/events/miami-biz-club-annual-charity-gala",
+   "start": "2026-10-10T18:00:00-04:00",
+   "end": "2026-10-10T23:00:00-04:00",
+   "end_effective": "2026-10-10T23:00:00-04:00",
+   "date": "2026-10-10",
+   "time": "6:00–11:00 PM",
+   "venue": "Miami Beach Convention Center",
+   "neighborhood": "Miami Beach",
+   "address": "1901 Convention Center Dr, Miami Beach, FL 33139",
+   "cost": "See MBCC listing",
+   "free": false,
+   "category": "networking",
+   "notes": "Oct 10 per MBCC calendar (black-tie charity gala; exact time confirm on listing).",
    "is_new": true,
    "maybe_sold_out": false
   },
