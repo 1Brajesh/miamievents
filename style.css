@@ -55,3 +55,10 @@ li.ev.is-cancelled a{color:#666;text-decoration:line-through}
 .endedblk:not(.collapsed) li.ev .lbl{color:#9aa0a6;border-color:#c4c7c9;background:transparent}
 .endedblk:not(.collapsed) li.ev .tag{color:#9aa0a6;background:#f4f5f5}
 .hidden{display:none!important}
+.src h2{margin-top:18px}
+.src p{margin:6px 0 10px}
+.src ul{list-style:disc;padding-left:1.25em;margin:4px 0 14px}
+.src li{padding:3px 0;border:0}
+.src a{color:#0b57d0;font-weight:normal;text-decoration:none}
+.src a:hover{text-decoration:underline}
+.src .muted{color:#555;font-size:14px}

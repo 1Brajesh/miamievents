@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:04:18-04:00",
+ "updated": "2026-10-06T13:05:03-04:00",
  "events": [
   {
    "id": 70,
@@ -18,7 +18,8 @@
    "category": "accountability",
    "notes": "monthly; breakfast included",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 122,
@@ -56,8 +57,9 @@
    "free": false,
    "category": "social",
    "notes": "From MBJCC events page; confirm cost/registration on site",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 22,
@@ -360,7 +362,7 @@
    "free": true,
    "category": "dance",
    "notes": "Free bachata lesson at 9 PM by Bachata Overdose; DJ Jorge Charun",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -417,7 +419,7 @@
    "free": false,
    "category": "dance",
    "notes": "Salsa/bachata/cha-cha/reggaeton blend",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -664,7 +666,7 @@
    "free": false,
    "category": "networking",
    "notes": "Register on Luma (Meetup is not RSVP)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1595,7 +1597,7 @@
    "free": true,
    "category": "dance",
    "notes": "Free salsa class at 9 PM (Salsa Lovers); DJ El Russo",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1899,7 +1901,7 @@
    "free": false,
    "category": "dance",
    "notes": "9 PM class then social; monthly",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2051,7 +2053,7 @@
    "free": true,
    "category": "language",
    "notes": "Japanese Christian Community Miami weekly",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2089,7 +2091,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "1st Saturday monthly coastal cleanup",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2336,7 +2338,7 @@
    "free": false,
    "category": "creative",
    "notes": "Italian HIT Week showcase",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2355,7 +2357,7 @@
    "free": false,
    "category": "community",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2488,7 +2490,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "Lunch then pickleball",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2526,7 +2528,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2583,7 +2585,7 @@
    "free": false,
    "category": "creative",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
