@@ -47,7 +47,9 @@
       if(g.classList.contains('fold')) g.classList.toggle('searchopen',!!term && vis>0);
     });
     var tn=document.querySelector('#today h2 .dayn');
-    if(tn) tn.textContent=document.querySelectorAll('#today li.ev:not(.hidden)').length;
+    var tv=document.querySelectorAll('#today li.ev:not(.hidden)').length;
+    if(tn) tn.textContent=tv;
+    var ts=document.getElementById('today'); if(ts) ts.classList.toggle('searchopen',!!term && tv>0);
     [].forEach.call(document.querySelectorAll('section.sec'),function(s){
       var any=!!s.querySelector('li.ev:not(.hidden)');
       var e=s.querySelector('.empty'); if(e) e.classList.toggle('hidden',any);
@@ -62,6 +64,13 @@
     h.addEventListener('click',tog);
     h.addEventListener('keydown',function(ev){ if(ev.key==='Enter'||ev.key===' '){ev.preventDefault(); tog();} });
   });
+  var th=document.querySelector('#today h2.todayhd');
+  if(th){
+    var ttog=function(){ var s=document.getElementById('today'); if(s.classList.contains('searchopen')) return;
+      var f=s.classList.toggle('folded'); th.setAttribute('aria-expanded',f?'false':'true'); };
+    th.addEventListener('click',ttog);
+    th.addEventListener('keydown',function(ev){ if(ev.key==='Enter'||ev.key===' '){ev.preventDefault(); ttog();} });
+  }
   q.addEventListener('input',apply); free.addEventListener('change',apply);
   setOpen(false);
   apply();

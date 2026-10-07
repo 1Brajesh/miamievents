@@ -59,6 +59,9 @@ li.ev.is-cancelled a{color:#666;text-decoration:line-through}
 .caret{display:inline-block;width:12px;color:#0b57d0;transition:transform .15s}
 .daygroup.fold:not(.folded) .caret,.daygroup.fold.searchopen .caret{transform:rotate(90deg)}
 .daygroup.fold.folded:not(.searchopen) > ul{display:none}
+h2.todayhd{cursor:pointer;user-select:none}
+#today:not(.folded) h2.todayhd .caret,#today.searchopen h2.todayhd .caret{transform:rotate(90deg)}
+#today.folded:not(.searchopen) > :not(h2){display:none!important}
 .src h2{margin-top:18px}
 .src p{margin:6px 0 10px}
 .src ul{list-style:disc;padding-left:1.25em;margin:4px 0 14px}
