@@ -41,8 +41,13 @@
       cnt.textContent=n; blk.classList.toggle('hidden',n===0);
     }
     [].forEach.call(document.querySelectorAll('.daygroup'),function(g){
-      g.classList.toggle('hidden',!g.querySelector('li.ev:not(.hidden)'));
+      var vis=g.querySelectorAll('li.ev:not(.hidden)').length;
+      g.classList.toggle('hidden',!vis);
+      var dn=g.querySelector('.dayn'); if(dn) dn.textContent=vis;
+      if(g.classList.contains('fold')) g.classList.toggle('searchopen',!!term && vis>0);
     });
+    var tn=document.querySelector('#today h2 .dayn');
+    if(tn) tn.textContent=document.querySelectorAll('#today li.ev:not(.hidden)').length;
     [].forEach.call(document.querySelectorAll('section.sec'),function(s){
       var any=!!s.querySelector('li.ev:not(.hidden)');
       var e=s.querySelector('.empty'); if(e) e.classList.toggle('hidden',any);
@@ -51,6 +56,12 @@
   chips.forEach(function(c){c.addEventListener('click',function(){
     active=c.dataset.cat; chips.forEach(function(x){x.classList.toggle('on',x===c);}); apply();
   });});
+  [].forEach.call(document.querySelectorAll('.daygroup.fold > h3.day'),function(h){
+    function tog(){ var g=h.parentNode; if(g.classList.contains('searchopen')) return;
+      var f=g.classList.toggle('folded'); h.setAttribute('aria-expanded',f?'false':'true'); }
+    h.addEventListener('click',tog);
+    h.addEventListener('keydown',function(ev){ if(ev.key==='Enter'||ev.key===' '){ev.preventDefault(); tog();} });
+  });
   q.addEventListener('input',apply); free.addEventListener('change',apply);
   setOpen(false);
   apply();
