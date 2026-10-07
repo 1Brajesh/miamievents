@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-07T08:22:17-04:00",
+ "updated": "2026-10-07T09:39:28-04:00",
  "events": [
+  {
+   "id": 65,
+   "name": "South Dade Toastmasters weekly breakfast meeting",
+   "url": "https://www.southdtm.org",
+   "start": "2026-10-07T07:30:00-04:00",
+   "end": "2026-10-07T08:30:00-04:00",
+   "end_effective": "2026-10-07T08:30:00-04:00",
+   "date": "2026-10-07",
+   "time": "7:30–8:30 AM",
+   "venue": "Chamber South",
+   "neighborhood": "South Miami",
+   "address": "6410 SW 80th St, South Miami, FL 33143",
+   "cost": "Free for guests",
+   "free": true,
+   "category": "toastmasters",
+   "notes": "walk-ins welcome; hybrid",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "status": "past",
+   "went": false
+  },
   {
    "id": 167,
    "name": "Stand-Up Comedy Open Mic at Villain Theater",
