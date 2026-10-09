@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:45:00-04:00",
+ "updated": "2026-10-09T11:45:11-04:00",
  "events": [
   {
    "id": 204,
@@ -4561,7 +4561,7 @@
   {
    "id": 361,
    "name": "Walking With A Purpose: Amigos Meet x The Underline Walk Club",
-   "url": "https://www.eventbrite.com/e/walking-with-a-purpose-amigos-meet-x-the-underline-walk-club-tickets-1994092409075?date=2026-11-18",
+   "url": "https://www.eventbrite.com/e/walking-with-a-purpose-amigos-meet-x-the-underline-walk-club-tickets-1994092409075?date=2026-10-21",
    "start": "2026-10-21T18:30:00-04:00",
    "end": "2026-10-21T20:15:00-04:00",
    "end_effective": "2026-10-21T20:15:00-04:00",
@@ -4601,6 +4601,29 @@
    "free": false,
    "category": "talks",
    "notes": "Author talk at MBJCC; check page for tickets/registration",
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 362,
+   "name": "Walking With A Purpose: Amigos Meet x The Underline Walk Club",
+   "url": "https://www.eventbrite.com/e/walking-with-a-purpose-amigos-meet-x-the-underline-walk-club-tickets-1994092409075?date=2026-11-18",
+   "start": "2026-11-18T18:30:00-05:00",
+   "end": "2026-11-18T20:15:00-05:00",
+   "end_effective": "2026-11-18T20:15:00-05:00",
+   "date": "2026-11-18",
+   "time": "6:30–8:15 PM",
+   "multiday": false,
+   "sort_start": "2026-11-18T18:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The Underline Hammock Playground",
+   "neighborhood": "Brickell",
+   "address": "1523 SW 1st Ave, Miami, FL 33129",
+   "cost": "Free",
+   "free": true,
+   "category": "social",
+   "notes": "Check-in 6:30 PM, stretch 6:45, walk 7:00 PM; ~2-mile social walk with speed friending.",
    "is_new": true,
    "maybe_sold_out": false
   }
