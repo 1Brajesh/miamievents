@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:20:34-04:00",
+ "updated": "2026-10-09T11:45:00-04:00",
  "events": [
   {
    "id": 204,
@@ -67,8 +67,9 @@
    "free": true,
    "category": "outdoor",
    "notes": "Weekly Fridays; '9 seats left' on listing; 9 seats left on Meetup listing",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 58,
@@ -91,7 +92,32 @@
    "category": "outdoor",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "ended": true
+  },
+  {
+   "id": 335,
+   "name": "English Conversation Circle",
+   "url": "https://mdpls.org/event/17366642",
+   "start": "2026-10-09T10:00:00-04:00",
+   "end": "2026-10-09T11:00:00-04:00",
+   "end_effective": "2026-10-09T11:00:00-04:00",
+   "date": "2026-10-09",
+   "time": "10:00–11:00 AM",
+   "multiday": false,
+   "sort_start": "2026-10-09T10:00:00-04:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Coral Reef Branch Library",
+   "neighborhood": "Cutler Bay",
+   "address": null,
+   "cost": "Free",
+   "free": true,
+   "category": "language",
+   "notes": "English conversation practice; beginners to advanced; ages 19+",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 221,
@@ -137,29 +163,6 @@
    "category": "photowalk",
    "notes": "photographers meetup",
    "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 335,
-   "name": "English Conversation Circle",
-   "url": "https://mdpls.org/event/17366642",
-   "start": "2026-10-09T10:00:00-04:00",
-   "end": "2026-10-09T11:00:00-04:00",
-   "end_effective": "2026-10-09T11:00:00-04:00",
-   "date": "2026-10-09",
-   "time": "10:00–11:00 AM",
-   "multiday": false,
-   "sort_start": "2026-10-09T10:00:00-04:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Coral Reef Branch Library",
-   "neighborhood": "Cutler Bay",
-   "address": null,
-   "cost": "Free",
-   "free": true,
-   "category": "language",
-   "notes": "English conversation practice; beginners to advanced; ages 19+",
-   "is_new": true,
    "maybe_sold_out": false
   },
   {
@@ -274,7 +277,7 @@
    "free": true,
    "category": "creative",
    "notes": "mantra music & meditation, then vegan/vegetarian meal",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -297,7 +300,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "Weekly Fridays",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -366,7 +369,7 @@
    "free": true,
    "category": "creative",
    "notes": "local talent live performances + DJ; 21+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -665,7 +668,7 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -688,7 +691,7 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -964,7 +967,7 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1056,7 +1059,7 @@
    "free": true,
    "category": "books",
    "notes": "monthly book discussion; adults 19+; in person or Zoom",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1217,7 +1220,7 @@
    "free": true,
    "category": "creative",
    "notes": "meet Deering Estate artists-in-residence",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1240,7 +1243,7 @@
    "free": true,
    "category": "creative",
    "notes": "meet the artist; oil painting exhibit",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1309,7 +1312,7 @@
    "free": true,
    "category": "community",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1332,7 +1335,7 @@
    "free": false,
    "category": "class",
    "notes": "1 seat left on listing; venue not separately verified; 1 seat left on Meetup listing",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1401,7 +1404,7 @@
    "free": true,
    "category": "language",
    "notes": "beginning–intermediate class; ages 12+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1424,7 +1427,7 @@
    "free": true,
    "category": "chess",
    "notes": "all skill levels; ages 6+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1516,7 +1519,7 @@
    "free": true,
    "category": "creative",
    "notes": "nature-inspired art gathering",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1539,7 +1542,7 @@
    "free": true,
    "category": "language",
    "notes": "casual Japanese conversation; adults 18+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1654,7 +1657,7 @@
    "free": true,
    "category": "books",
    "notes": "fantasy/romance genre book club; adults 18+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1723,7 +1726,7 @@
    "free": true,
    "category": "social",
    "notes": "interactive eco mystery theater (Urban Paradise Guild)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1746,7 +1749,7 @@
    "free": true,
    "category": "volunteering",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1815,7 +1818,7 @@
    "free": true,
    "category": "community",
    "notes": "block party with live music",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2003,6 +2006,29 @@
    "maybe_sold_out": false
   },
   {
+   "id": 359,
+   "name": "Baila, Miami",
+   "url": "https://ma.to/event/baila-miami-2026-10-10",
+   "start": "2026-10-10T21:00:00-04:00",
+   "end": null,
+   "end_effective": "2026-10-10T23:00:00-04:00",
+   "date": "2026-10-10",
+   "time": "9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-10-10T21:00:00-04:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Twisted Tonic",
+   "neighborhood": "South Beach",
+   "address": "723 Lincoln Ln N, Unit 107, Miami Beach, FL 33139",
+   "cost": "Free",
+   "free": true,
+   "category": "dance",
+   "notes": "Amigos Meet x Tinder. 9-10 PM optional speed friending, 10 PM bachata class, then salsa/bachata after-party until close. No experience needed. Comment BAILA on their Instagram post to get the link.",
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
    "id": 86,
    "name": "Salsa Saturdays Wynwood | FREE Classes + After Party with RSVP",
    "url": "https://www.eventbrite.com/e/salsa-saturdays-wynwood-free-classes-after-party-with-rsvp-tickets-1982403885386",
@@ -2068,7 +2094,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "group run",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2183,7 +2209,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "walking tour",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2206,7 +2232,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "group run + meet & greet",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2367,7 +2393,7 @@
    "free": true,
    "category": "community",
    "notes": "City of North Miami Beach dog festival",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2436,7 +2462,7 @@
    "free": false,
    "category": "dance",
    "notes": "Facebook; 34 interested",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2873,7 +2899,7 @@
    "free": false,
    "category": "social",
    "notes": "drop-in D&D campaign (Level 12); recurring Mondays",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2896,7 +2922,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "complimentary weekly class for neighbors",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3080,7 +3106,7 @@
    "free": false,
    "category": "dance",
    "notes": "Miami Dance Classes for Adults; weekly recurring; listing price",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3149,7 +3175,7 @@
    "free": true,
    "category": "networking",
    "notes": "for Hispanic entrepreneurs (Spanish)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3402,7 +3428,7 @@
    "free": false,
    "category": "books",
    "notes": "45 min communal reading, book pitches, mingling; ticket includes a drink",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3563,7 +3589,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "weekly Wednesday breakfast meeting; hybrid",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3609,7 +3635,7 @@
    "free": true,
    "category": "networking",
    "notes": "Weekly Wednesdays; venue not verified",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3632,7 +3658,7 @@
    "free": false,
    "category": "dance",
    "notes": "Miami Dance Classes for Adults; weekly recurring; listing price",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3655,7 +3681,7 @@
    "free": true,
    "category": "university",
    "notes": "artist conversation",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3701,7 +3727,7 @@
    "free": true,
    "category": "social",
    "notes": "D&D 5e standalone episodes; ages 12+ (YOUmake Miami)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3724,7 +3750,7 @@
    "free": true,
    "category": "networking",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3747,7 +3773,7 @@
    "free": true,
    "category": "networking",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3770,7 +3796,7 @@
    "free": true,
    "category": "creative",
    "notes": "poetry, movement & sound workshop; free parking in MDC garage",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3793,7 +3819,7 @@
    "free": true,
    "category": "university",
    "notes": "World Food Day 2026 keynote; open to general public",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3816,7 +3842,7 @@
    "free": true,
    "category": "chess",
    "notes": "chess club taught in Spanish by FIDE Master Arnold Ferragut; ages 8+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3839,7 +3865,7 @@
    "free": false,
    "category": "social",
    "notes": "venue not verified",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3862,7 +3888,7 @@
    "free": false,
    "category": "creative",
    "notes": "after-hours: outdoor early-horror shorts, literary matchmaking, pumpkin decorating",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3885,7 +3911,7 @@
    "free": true,
    "category": "dance",
    "notes": "library dance class; registration opens Mon Oct 12 4:30 PM; adults 19+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3908,7 +3934,7 @@
    "free": false,
    "category": "class",
    "notes": "4 seats left on listing; venue not separately verified; 4 seats left on Meetup listing",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3931,7 +3957,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "2nd & 4th Wednesdays",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3954,7 +3980,7 @@
    "free": true,
    "category": "talks",
    "notes": "Locust Projects speaker series",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3977,7 +4003,7 @@
    "free": true,
    "category": "creative",
    "notes": "Colombian Latin alt-rock band; doors 7, show 8 (UNSIN)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4000,7 +4026,7 @@
    "free": false,
    "category": "dance",
    "notes": "3 hrs classes (7–10 PM) + social 10 PM–1:30 AM",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4023,7 +4049,7 @@
    "free": true,
    "category": "talks",
    "notes": "Every two weeks Wed; venue not verified",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4046,7 +4072,7 @@
    "free": false,
    "category": "dance",
    "notes": "Miami Dance Classes for Adults; weekly recurring; listing price",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4092,7 +4118,7 @@
    "free": true,
    "category": "social",
    "notes": "six rounds pop-culture trivia",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4115,7 +4141,7 @@
    "free": true,
    "category": "social",
    "notes": "weekly team trivia, no cover",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4138,7 +4164,7 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class 9 PM; DJ, periodic live music",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4161,7 +4187,7 @@
    "free": true,
    "category": "creative",
    "notes": "four local songwriters, acoustic",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4184,7 +4210,7 @@
    "free": true,
    "category": "dance",
    "notes": "free bachata class 9 PM by Bachata Overdose; DJ Charun",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4487,6 +4513,29 @@
    "maybe_sold_out": false
   },
   {
+   "id": 360,
+   "name": "A Nightmare on Agave Street",
+   "url": "https://ma.to/event/a-nightmare-on-agave-street-16-oct-2026",
+   "start": "2026-10-16T20:00:00-04:00",
+   "end": "2026-10-16T22:30:00-04:00",
+   "end_effective": "2026-10-16T22:30:00-04:00",
+   "date": "2026-10-16",
+   "time": "8:00–10:30 PM",
+   "multiday": false,
+   "sort_start": "2026-10-16T20:00:00-04:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "City Food Hall Doral",
+   "neighborhood": "Doral",
+   "address": "9420 NW 41st St, Doral, FL 33178",
+   "cost": "Paid (ticket price not listed)",
+   "free": false,
+   "category": "social",
+   "notes": "Amigos Meet Halloween mixology class with optional speed friending; tequila and mezcal cocktails with mixologist Carla; welcome drink, bites, tastings. Limited to 16 seats. Doral is ~20 mi from Miami Beach, edge of range. Another listing says Oct 29 - Oct 16 is on their linktree and event page.",
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
    "id": 118,
    "name": "Community Coworking x Miami Community Radio",
    "url": "https://www.deareleanormiami.com/event-details-registration/community-coworking-x-miami-community-radio-2026-10-19-11-00",
@@ -4507,6 +4556,29 @@
    "category": "accountability",
    "notes": "Coworking every Mon & Thu; MCR livestream after",
    "is_new": false,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 361,
+   "name": "Walking With A Purpose: Amigos Meet x The Underline Walk Club",
+   "url": "https://www.eventbrite.com/e/walking-with-a-purpose-amigos-meet-x-the-underline-walk-club-tickets-1994092409075?date=2026-11-18",
+   "start": "2026-10-21T18:30:00-04:00",
+   "end": "2026-10-21T20:15:00-04:00",
+   "end_effective": "2026-10-21T20:15:00-04:00",
+   "date": "2026-10-21",
+   "time": "6:30–8:15 PM",
+   "multiday": false,
+   "sort_start": "2026-10-21T18:30:00-04:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The Underline Hammock Playground",
+   "neighborhood": "Brickell",
+   "address": "1523 SW 1st Ave, Miami, FL 33129",
+   "cost": "Free",
+   "free": true,
+   "category": "social",
+   "notes": "Check-in 6:30 PM, stretch 6:45, walk 7:00 PM; ~2-mile social walk with speed friending.",
+   "is_new": true,
    "maybe_sold_out": false
   },
   {
