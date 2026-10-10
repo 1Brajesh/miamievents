@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:09:18-04:00",
+ "updated": "2026-10-10T09:11:33-04:00",
  "events": [
   {
    "id": 176,
@@ -895,7 +895,7 @@
    "free": false,
    "category": "community",
    "notes": "Outdoor fall festival group outing; free parking",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1516,7 +1516,7 @@
    "free": false,
    "category": "creative",
    "notes": "Recurring Saturday comedy night",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2091,7 +2091,7 @@
    "free": false,
    "category": "creative",
    "notes": "Recurring Sunday drop-in",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2206,7 +2206,7 @@
    "free": false,
    "category": "creative",
    "notes": "Recurring Sunday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2551,7 +2551,7 @@
    "free": false,
    "category": "creative",
    "notes": "Recurring Monday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3149,7 +3149,7 @@
    "free": true,
    "category": "social",
    "notes": "Friendly social games; food/drink own cost",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3264,7 +3264,7 @@
    "free": false,
    "category": "creative",
    "notes": "Recurring Tuesday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3356,7 +3356,7 @@
    "free": false,
    "category": "talks",
    "notes": "Learning/networking",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3448,7 +3448,7 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3839,7 +3839,7 @@
    "free": true,
    "category": "language",
    "notes": "Recurring Wednesday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4092,7 +4092,7 @@
    "free": false,
    "category": "creative",
    "notes": "Recurring Wednesday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4115,7 +4115,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "Recurring Thursday morning in-person",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4161,7 +4161,7 @@
    "free": true,
    "category": "language",
    "notes": "English conversation practice; beginners to advanced; registration required; ages 19+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4184,7 +4184,7 @@
    "free": true,
    "category": "language",
    "notes": "English conversation practice; beginners to advanced; ages 18+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4276,7 +4276,7 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4299,7 +4299,7 @@
    "free": true,
    "category": "toastmasters",
    "notes": "Miami Beach Toastmasters at the library; guests welcome; TM.org lists club every Thursday 6:15–7:30 PM",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4322,7 +4322,7 @@
    "free": true,
    "category": "language",
    "notes": "A bit farther from Miami Beach",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4345,7 +4345,7 @@
    "free": false,
    "category": "dance",
    "notes": "Recurring Thursday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4368,7 +4368,7 @@
    "free": false,
    "category": "dance",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4391,7 +4391,7 @@
    "free": false,
    "category": "dance",
    "notes": "Recurring Thursday",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4437,7 +4437,7 @@
    "free": false,
    "category": "dance",
    "notes": "Recurring Thursday; verify cover vs free-class claims on page",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4667,6 +4667,29 @@
    "free": false,
    "category": "talks",
    "notes": "Literary event; only dated MBJCC public listing beyond this week window; no Oct 10–16 public events on calendar",
+   "is_new": false,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 395,
+   "name": "Homecoming: Celebrating the Class of Now",
+   "url": "https://www.bacfl.org/events/save-the-date-homecoming-2026-8lcrn",
+   "start": "2026-11-06T18:30:00-05:00",
+   "end": "2026-11-06T21:30:00-05:00",
+   "end_effective": "2026-11-06T21:30:00-05:00",
+   "date": "2026-11-06",
+   "time": "6:30–9:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-06T18:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Bakehouse Art Complex",
+   "neighborhood": "Wynwood",
+   "address": "561 NW 32nd St, Miami, FL 33127",
+   "cost": "$100 per person",
+   "free": false,
+   "category": "creative",
+   "notes": "Graduation x Homecoming x Tailgate party closing Bakehouse's 40th anniversary: open studios, DJ Le Spam and the Spam Allstars, community parade with Bad Apples Brass Band, Homegrown exhibition preview, food and dancing. Optional $100 team jersey (order by Oct 15).",
    "is_new": true,
    "maybe_sold_out": false
   },
@@ -4690,6 +4713,29 @@
    "free": true,
    "category": "social",
    "notes": "Check-in 6:30 PM, stretch 6:45, walk 7:00 PM; ~2-mile social walk with speed friending.",
+   "is_new": true,
+   "maybe_sold_out": false
+  },
+  {
+   "id": 396,
+   "name": "Baker's Brunch: Open Studios + Cafecito",
+   "url": "https://www.bacfl.org/events/bakers-brunch-open-studios-cafecito",
+   "start": "2026-12-03T09:00:00-05:00",
+   "end": "2026-12-03T12:00:00-05:00",
+   "end_effective": "2026-12-03T12:00:00-05:00",
+   "date": "2026-12-03",
+   "time": "9:00 AM–12:00 PM",
+   "multiday": false,
+   "sort_start": "2026-12-03T09:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Bakehouse Art Complex",
+   "neighborhood": "Wynwood",
+   "address": "561 NW 32nd St, Miami, FL 33127",
+   "cost": "Free (RSVP strongly encouraged)",
+   "free": true,
+   "category": "creative",
+   "notes": "Annual Miami Art Week tradition: breakfast, artist studios, Homegrown exhibition. Beyond the 30-day window, listed early.",
    "is_new": true,
    "maybe_sold_out": false
   }
