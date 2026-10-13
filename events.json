@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:04:29-04:00",
+ "updated": "2026-10-13T09:19:03-04:00",
  "events": [
   {
    "id": 272,
@@ -2551,7 +2551,7 @@
    "free": true,
    "category": "networking",
    "notes": "free coworking + lunch & learn",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2620,7 +2620,7 @@
    "free": true,
    "category": "community",
    "notes": "3-day food & vendor festival (Oct 16–18); daily hours not listed",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2643,7 +2643,7 @@
    "free": false,
    "category": "outdoor",
    "notes": "led by Silvia Salinas",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2666,7 +2666,7 @@
    "free": true,
    "category": "university",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2689,7 +2689,7 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class + happy hour",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2735,7 +2735,7 @@
    "free": true,
    "category": "community",
    "notes": "weekly open-air market, food, live music",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2758,7 +2758,7 @@
    "free": true,
    "category": "talks",
    "notes": "drone exhibits + discussion",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2827,7 +2827,7 @@
    "free": true,
    "category": "community",
    "notes": "live music, dancing, vendors on Calle Ocho",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2850,7 +2850,7 @@
    "free": true,
    "category": "university",
    "notes": "coral reef conservation talk",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2873,7 +2873,7 @@
    "free": true,
    "category": "community",
    "notes": "ticket tiers from free to $129.89",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3080,7 +3080,7 @@
    "free": false,
    "category": "dance",
    "notes": "weekly Friday bachata social; likely same night as Eventbrite 'THE BACHATA OVERDOSE SOCIAL' at same venue ($19.10–$24.80 there)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3172,7 +3172,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "take shelter dogs on a day out",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3195,7 +3195,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "monthly street cleanup by TAPARI; gear provided",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3218,7 +3218,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "outdoor yoga, all levels; bring a mat",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3264,7 +3264,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "monthly park volunteer day",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3287,7 +3287,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "5K run, all paces",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3333,7 +3333,7 @@
    "free": true,
    "category": "community",
    "notes": "flea market; end time not clear on listing",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3356,7 +3356,7 @@
    "free": false,
    "category": "outdoor",
    "notes": "architecture & history walking tour",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3379,7 +3379,7 @@
    "free": true,
    "category": "books",
    "notes": "monthly classics book club; adults",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3517,7 +3517,7 @@
    "free": true,
    "category": "chess",
    "notes": "drop-in chess; beginners welcome; all ages",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3540,7 +3540,7 @@
    "free": true,
    "category": "books",
    "notes": "library book discussion; ages 19+",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3563,7 +3563,7 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3586,7 +3586,7 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3655,7 +3655,7 @@
    "free": false,
    "category": "singles",
    "notes": "speed dating, ages 25–39",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3747,7 +3747,7 @@
    "free": false,
    "category": "singles",
    "notes": "Eventbrite JSON-LD shows SoldOut / salesStatus sales_ended (Oct 13) – may be sold out, check",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": true
   },
   {
@@ -3816,7 +3816,7 @@
    "free": false,
    "category": "dance",
    "notes": "weekly Saturday bachata & salsa social",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3862,7 +3862,7 @@
    "free": true,
    "category": "community",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3885,7 +3885,7 @@
    "free": true,
    "category": "community",
    "notes": "bring seeds to swap, gardening tips",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3908,7 +3908,7 @@
    "free": false,
    "category": "dance",
    "notes": "daytime rooftop bachata, salsa & típico party",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3931,7 +3931,7 @@
    "free": false,
    "category": "social",
    "notes": "Hong Kong–style mahjong open play; beginner friendly",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3954,7 +3954,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "coastal cleanup + Halloween costume/decor swap (Debris Free Oceans, The Things Lab)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3977,7 +3977,7 @@
    "free": true,
    "category": "books",
    "notes": "comics collection debut",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4023,7 +4023,7 @@
    "free": false,
    "category": "books",
    "notes": "live Cuban music, bites, cocktails",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4046,7 +4046,7 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class 9 PM; DJ Charun",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
