@@ -1,6 +1,31 @@
 {
- "updated": "2026-10-14T08:13:08-04:00",
+ "updated": "2026-10-14T10:37:41-04:00",
  "events": [
+  {
+   "id": 304,
+   "name": "Visit to South Dade Toastmasters' Club",
+   "url": "https://www.eventbrite.com/e/visit-to-south-dade-toastmasters-club-tickets-1597925751939",
+   "start": "2026-10-14T07:30:00-04:00",
+   "end": "2026-10-14T08:30:00-04:00",
+   "end_effective": "2026-10-14T08:30:00-04:00",
+   "date": "2026-10-14",
+   "time": "7:30–8:30 AM",
+   "multiday": false,
+   "sort_start": "2026-10-14T07:30:00-04:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "ChamberSouth",
+   "neighborhood": "South Miami",
+   "address": "6410 Southwest 80th Street, South Miami, FL",
+   "cost": "See listing",
+   "free": false,
+   "category": "toastmasters",
+   "notes": "Eventbrite salesStatus sales_ended (morning meeting underway)",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "status": "past",
+   "went": false
+  },
   {
    "id": 257,
    "name": "Stand-Up Comedy Open Mic",
