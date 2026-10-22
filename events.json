@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:16:43-04:00",
+ "updated": "2026-10-22T12:32:16-04:00",
  "events": [
   {
    "id": 633,
@@ -69,30 +69,8 @@
    "category": "toastmasters",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 636,
-   "name": "University of Miami Artisan Market | Free Outdoor Market 10am - 4pm",
-   "url": "https://www.eventbrite.com/e/university-of-miami-artisan-market-free-outdoor-market-10am-4pm-tickets-2002653603839",
-   "start": "2026-10-22T10:00:00-04:00",
-   "end": "2026-10-22T16:00:00-04:00",
-   "end_effective": "2026-10-22T16:00:00-04:00",
-   "date": "2026-10-22",
-   "time": "10:00 AM–4:00 PM",
-   "multiday": false,
-   "sort_start": "2026-10-22T10:00:00-04:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "University of Miami",
-   "neighborhood": "Coral Gables",
-   "address": "1320 South Dixie Highway, Coral Gables, FL 33146",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "university",
-   "notes": null,
-   "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 696,
@@ -113,6 +91,30 @@
    "cost": "$24.80",
    "free": false,
    "category": "social",
+   "notes": null,
+   "is_new": false,
+   "maybe_sold_out": false,
+   "ended": true
+  },
+  {
+   "id": 636,
+   "name": "University of Miami Artisan Market | Free Outdoor Market 10am - 4pm",
+   "url": "https://www.eventbrite.com/e/university-of-miami-artisan-market-free-outdoor-market-10am-4pm-tickets-2002653603839",
+   "start": "2026-10-22T10:00:00-04:00",
+   "end": "2026-10-22T16:00:00-04:00",
+   "end_effective": "2026-10-22T16:00:00-04:00",
+   "date": "2026-10-22",
+   "time": "10:00 AM–4:00 PM",
+   "multiday": false,
+   "sort_start": "2026-10-22T10:00:00-04:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "University of Miami",
+   "neighborhood": "Coral Gables",
+   "address": "1320 South Dixie Highway, Coral Gables, FL 33146",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "university",
    "notes": null,
    "is_new": false,
    "maybe_sold_out": false
@@ -161,7 +163,8 @@
    "category": "language",
    "notes": "English conversation practice; native speakers welcome",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 559,
@@ -4503,7 +4506,7 @@
    "venue": "Club M2 Miami",
    "neighborhood": "South Beach",
    "address": "1235 Washington Ave, Miami Beach, FL 33139",
-   "cost": "See event page",
+   "cost": "No cost or RSVP shown on event page",
    "free": false,
    "category": "dance",
    "notes": "doors 9 PM; 21+; bachata room + house music room",
