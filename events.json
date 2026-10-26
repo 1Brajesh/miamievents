@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:06:46-04:00",
+ "updated": "2026-10-26T10:13:24-04:00",
  "events": [
   {
    "id": 671,
@@ -45,7 +45,8 @@
    "category": "social",
    "notes": "free weekly community meditation (Mon & Fri 7:30 AM)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "ended": true
   },
   {
    "id": 1173,
@@ -1355,7 +1356,7 @@
    "free": true,
    "category": "social",
    "notes": "weekly trivia night",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1677,7 +1678,7 @@
    "free": false,
    "category": "outdoor",
    "notes": "weekly tai chi in the garden",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1723,7 +1724,7 @@
    "free": true,
    "category": "talks",
    "notes": "first meeting of a current events discussion group",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1907,7 +1908,7 @@
    "free": true,
    "category": "creative",
    "notes": "open studios art night",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -1976,7 +1977,7 @@
    "free": true,
    "category": "books",
    "notes": "author conversation in Spanish",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2436,7 +2437,7 @@
    "free": true,
    "category": "social",
    "notes": "trivia bar league",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -2482,7 +2483,7 @@
    "free": false,
    "category": "creative",
    "notes": "Eventbrite online sales ended (Oct 26); tickets at the door – check",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": true
   },
   {
@@ -3080,7 +3081,7 @@
    "free": true,
    "category": "talks",
    "notes": "Argentine women writers talk (Spanish)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3218,7 +3219,7 @@
    "free": true,
    "category": "social",
    "notes": "\"We Met at\" swap meet / social",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3701,7 +3702,7 @@
    "free": true,
    "category": "dance",
    "notes": "salsa night with DJ Charun",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -3839,7 +3840,7 @@
    "free": false,
    "category": "outdoor",
    "notes": "weekly tai chi in the garden",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4299,7 +4300,7 @@
    "free": true,
    "category": "community",
    "notes": "free outdoor horror short films at the SoundScape wallcast",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4322,7 +4323,7 @@
    "free": true,
    "category": "creative",
    "notes": "zine release at the record store",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4851,7 +4852,7 @@
    "free": true,
    "category": "talks",
    "notes": "free walking-distance architecture talk at the museum",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -4920,7 +4921,7 @@
    "free": true,
    "category": "talks",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5012,7 +5013,7 @@
    "free": true,
    "category": "language",
    "notes": "Spanish/English language exchange (Aventura Social Club)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5081,7 +5082,7 @@
    "free": false,
    "category": "creative",
    "notes": "beginner graffiti class",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5426,7 +5427,7 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa/bachata classes + after party with RSVP",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5449,7 +5450,7 @@
    "free": true,
    "category": "community",
    "notes": "French market (also Nov 22)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5495,7 +5496,7 @@
    "free": true,
    "category": "community",
    "notes": "weekly Sunday farmers market",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5541,7 +5542,7 @@
    "free": true,
    "category": "community",
    "notes": "free Japanese festival",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5564,7 +5565,7 @@
    "free": true,
    "category": "volunteering",
    "notes": "volunteer neighborhood cleanup after Halloween",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5587,7 +5588,7 @@
    "free": true,
    "category": "outdoor",
    "notes": "free yoga by the river",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5702,7 +5703,7 @@
    "free": false,
    "category": "social",
    "notes": "mahjong afternoon",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5725,7 +5726,7 @@
    "free": true,
    "category": "talks",
    "notes": "Day of the Dead talk/gathering at Dear Eleanor",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5771,7 +5772,7 @@
    "free": false,
    "category": "creative",
    "notes": "stand-up comedy",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5794,7 +5795,7 @@
    "free": true,
    "category": "community",
    "notes": "Day of the Dead celebration",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5817,7 +5818,7 @@
    "free": true,
    "category": "books",
    "notes": "author conversation",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5840,7 +5841,7 @@
    "free": false,
    "category": "creative",
    "notes": "City Theatre storytelling show at Villain Theater",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5863,7 +5864,7 @@
    "free": false,
    "category": "creative",
    "notes": "immersive symphony concert",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -5886,7 +5887,7 @@
    "free": false,
    "category": "creative",
    "notes": null,
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -6001,7 +6002,7 @@
    "free": false,
    "category": "social",
    "notes": "monthly dinner to make new friends",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -6024,7 +6025,7 @@
    "free": false,
    "category": "community",
    "notes": "Day of the Dead ceremony (listed by Miami Dog Friendly Events)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -6047,7 +6048,7 @@
    "free": false,
    "category": "creative",
    "notes": "comedy show",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -6070,7 +6071,7 @@
    "free": false,
    "category": "creative",
    "notes": "weekly improv jam; anyone can play",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
@@ -6093,7 +6094,7 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class 9 PM; DJ Charun",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false
   },
   {
