@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:51:17-04:00",
+ "updated": "2026-10-31T21:51:39-04:00",
  "events": [
   {
    "id": 1225,
@@ -6974,7 +6974,7 @@
   },
   {
    "id": 1419,
-   "name": "Tchaikovsky Piano Concerto No. 1 & Shostakovich Twelfth Symphony (South Florida Symphony Orchestra)",
+   "name": "Tchaikovsky Piano Concerto No. 1 & Shostakovich Twelfth Symphony",
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/guest-presenters/south-florida-symphony-orchestra-nov-13/",
    "start": "2026-11-13T19:30:00-05:00",
    "end": null,
@@ -6991,7 +6991,7 @@
    "cost": "Tickets from $35 (per NWS page)",
    "free": false,
    "category": "creative",
-   "notes": "New World Symphony",
+   "notes": "New World Symphony Presented by South Florida Symphony Orchestra.",
    "is_new": true,
    "maybe_sold_out": false
   },
