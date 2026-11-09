@@ -1,950 +1,6 @@
 {
- "updated": "2026-11-08T08:09:26-05:00",
+ "updated": "2026-11-09T08:08:03-05:00",
  "events": [
-  {
-   "id": 680,
-   "name": "SharkByte Hackathon 2026",
-   "url": "https://calendar.mdc.edu/event/sharkbyte-hackathon-2026",
-   "start": "2026-11-06T09:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "end_effective": "2026-11-08T18:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "Nov 6–8 (Fri 9:00 AM to Sun 6:00 PM)",
-   "multiday": true,
-   "sort_start": "2026-11-08T00:00:00-05:00",
-   "day_end": null,
-   "dates": "Nov 6–8",
-   "venue": "Miami Dade College North Campus, School of Justice Building",
-   "neighborhood": "Miami",
-   "address": "11380 NW 27th Ave, Miami, FL 33167",
-   "cost": "Free (registration required)",
-   "free": true,
-   "category": "talks",
-   "notes": "MDC's student-led 36-hour hackathon Nov 6-8 (software, games, cybersecurity, AI); listed for current students, 18+. Register at shark-byte.io. Daily hours not posted.",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1481,
-   "name": "GO & GROU",
-   "url": "https://www.eventbrite.com/e/1998651329930",
-   "start": "2026-11-08T07:30:00-05:00",
-   "end": "2026-11-08T09:00:00-05:00",
-   "end_effective": "2026-11-08T09:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "7:30–9:00 AM",
-   "multiday": false,
-   "sort_start": "2026-11-08T07:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "GROU Coffee + Cowork",
-   "neighborhood": "Coral Gables",
-   "address": "4100 Salzedo St, Coral Gables",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "outdoor",
-   "notes": "Eventbrite salesStatus sales_ended (checked Nov 8)",
-   "is_new": false,
-   "maybe_sold_out": true
-  },
-  {
-   "id": 1433,
-   "name": "Lincoln Road Farmers Market",
-   "url": "https://www.eventbrite.com/e/lincoln-road-farmers-market-tickets-1983970318630",
-   "start": "2026-11-08T09:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "end_effective": "2026-11-08T18:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "9:00 AM–6:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T09:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Meridian Avenue through Washington Avenue",
-   "neighborhood": "South Beach (Lincoln Road)",
-   "address": "Lincoln Road, Miami Beach, FL 33139, Miami Beach",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "Eventbrite salesStatus sales_ended (checked Nov 8)",
-   "is_new": false,
-   "maybe_sold_out": true
-  },
-  {
-   "id": 1434,
-   "name": "FREE | Vizcaya Village Farmers Market",
-   "url": "https://www.eventbrite.com/e/free-vizcaya-village-farmers-market-tickets-1979764539030",
-   "start": "2026-11-08T09:30:00-05:00",
-   "end": "2026-11-08T15:30:00-05:00",
-   "end_effective": "2026-11-08T15:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "9:30 AM–3:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T09:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Vizcaya Village",
-   "neighborhood": "Coconut Grove / Vizcaya",
-   "address": "3250 South Miami Avenue, Miami, FL 33129, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "weekly Sunday farmers market",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1450,
-   "name": "Free Community Yoga on Lincoln Road",
-   "url": "https://www.eventbrite.com/e/free-community-yoga-on-lincoln-road-tickets-1983969530272",
-   "start": "2026-11-08T10:00:00-05:00",
-   "end": "2026-11-08T11:00:00-05:00",
-   "end_effective": "2026-11-08T11:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "10:00–11:00 AM",
-   "multiday": false,
-   "sort_start": "2026-11-08T10:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Euclid Courtyard",
-   "neighborhood": "South Beach",
-   "address": "700 Lincoln Road, Miami Beach, FL 33139, Miami Beach",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "outdoor",
-   "notes": "free weekly yoga on Lincoln Road",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1462,
-   "name": "Margaret Pace Park Farmers Market",
-   "url": "https://www.eventbrite.com/e/margaret-pace-park-farmers-market-tickets-2003079725380",
-   "start": "2026-11-08T10:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "end_effective": "2026-11-08T18:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "10:00 AM–6:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T10:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Margaret Pace Park",
-   "neighborhood": "Edgewater",
-   "address": "1745 North Bayshore Drive, Miami, FL 33132, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "waterfront farmers market",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1435,
-   "name": "Miami Beach Jewish History Walking Tour",
-   "url": "https://www.eventbrite.com/e/miami-beach-jewish-history-walking-tour-tickets-2003618526950",
-   "start": "2026-11-08T10:30:00-05:00",
-   "end": "2026-11-08T12:30:00-05:00",
-   "end_effective": "2026-11-08T12:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "10:30 AM–12:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T10:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Jewish Museum of Florida",
-   "neighborhood": "South Beach",
-   "address": "301 Washington Avenue, Miami Beach, FL 33139, Miami Beach",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "talks",
-   "notes": "free Jewish history walking tour",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1412,
-   "name": "MOAD Moves: Salsa Workshop with Michelle Gonzalez de la Cruz",
-   "url": "https://www.eventbrite.com/e/moad-moves-salsa-workshop-with-michelle-gonzalez-de-la-cruz-tickets-2003370241321",
-   "start": "2026-11-08T11:00:00-05:00",
-   "end": "2026-11-08T12:15:00-05:00",
-   "end_effective": "2026-11-08T12:15:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:00 AM–12:15 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Freedom Tower at Miami Dade College",
-   "neighborhood": "Downtown Miami",
-   "address": "600 Biscayne Boulevard, Miami, FL 33132, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "dance",
-   "notes": "free salsa workshop at Freedom Tower",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1436,
-   "name": "North Miami Greek Festival 2026",
-   "url": "https://www.eventbrite.com/e/north-miami-greek-festival-2026-tickets-2000525524697",
-   "start": "2026-11-08T11:00:00-05:00",
-   "end": "2026-11-08T21:00:00-05:00",
-   "end_effective": "2026-11-08T21:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:00 AM–9:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Annunciation Greek Orthodox Church",
-   "neighborhood": "North Miami",
-   "address": "12250 Northwest 2nd Avenue, North Miami, FL 33168, North Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "Greek festival day 2; free entry",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1437,
-   "name": "Live Jazz at Betsy  (Sunday)",
-   "url": "https://www.eventbrite.com/e/live-jazz-at-betsy-sunday-tickets-2003756023205",
-   "start": "2026-11-08T11:00:00-05:00",
-   "end": "2026-11-08T23:00:00-05:00",
-   "end_effective": "2026-11-08T23:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:00 AM–11:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "The Betsy Hotel",
-   "neighborhood": "South Beach",
-   "address": "1440 Ocean Drive, Miami Beach, FL 33139, Miami Beach",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "free live jazz",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1448,
-   "name": "13th Annual: South Florida Seafood Festival 2026",
-   "url": "https://www.eventbrite.com/e/13th-annual-south-florida-seafood-festival-2026-tickets-1993707193886",
-   "start": "2026-11-08T11:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "end_effective": "2026-11-08T19:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:00 AM–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "The Wynwood Marketplace",
-   "neighborhood": "Wynwood",
-   "address": "2250 NW 2nd Ave, Miami, FL 33127, Miami",
-   "cost": "$7.68–$68.30",
-   "free": false,
-   "category": "community",
-   "notes": "seafood festival",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1449,
-   "name": "Women's Empowerment Market",
-   "url": "https://www.eventbrite.com/e/womens-empowerment-market-tickets-1988598349194",
-   "start": "2026-11-08T11:00:00-05:00",
-   "end": "2026-11-08T16:00:00-05:00",
-   "end_effective": "2026-11-08T16:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:00 AM–4:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "the goodtime hotel, Miami Beach, a Tribute Portfolio Hotel",
-   "neighborhood": "South Beach",
-   "address": "601 Washington Avenue, Miami Beach, FL 33139, Miami Beach",
-   "cost": "Free–$19.10",
-   "free": true,
-   "category": "community",
-   "notes": "women-owned vendor market at the Goodtime Hotel",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1556,
-   "name": "South Florida Seafood Festival Returns to Wynwood Marketplace this November",
-   "url": "https://www.eventbrite.com/e/2002637337185",
-   "start": "2026-11-08T11:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "end_effective": "2026-11-08T19:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:00 AM–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Wynwood Marketplace",
-   "neighborhood": "Wynwood",
-   "address": "2250 NW 2nd Ave, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "13th annual seafood festival with music",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1451,
-   "name": "Salsero Sunday @ Thorn!",
-   "url": "https://www.eventbrite.com/e/salsero-sunday-thorn-tickets-1998115371865",
-   "start": "2026-11-08T11:30:00-05:00",
-   "end": "2026-11-08T16:00:00-05:00",
-   "end_effective": "2026-11-08T16:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "11:30 AM–4:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T11:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Thorn",
-   "neighborhood": "Westchester",
-   "address": "6976 Southwest 40th Street, Miami, FL 33155, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "dance",
-   "notes": "free salsa lesson at 2 PM (second Sundays)",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 683,
-   "name": "DevDay Exchange Community Hackathon: Miami",
-   "url": "https://luma.com/codexmiami",
-   "start": "2026-11-08T12:00:00-05:00",
-   "end": "2026-11-08T21:00:00-05:00",
-   "end_effective": "2026-11-08T21:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "12:00–9:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T12:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "The LAB Miami",
-   "neighborhood": "Wynwood",
-   "address": "2750 NW 3rd Ave #24, Miami, FL 33127",
-   "cost": "See event page",
-   "free": false,
-   "category": "talks",
-   "notes": "Day 2 of 2 (day 1 is Sat Nov 7). Codex hackathon for South Florida non-profits.",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1452,
-   "name": "Write Miami Weekly Writing Group",
-   "url": "https://www.eventbrite.com/e/write-miami-weekly-writing-group-tickets-1982123011284",
-   "start": "2026-11-08T12:00:00-05:00",
-   "end": "2026-11-08T14:30:00-05:00",
-   "end_effective": "2026-11-08T14:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "12:00–2:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T12:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Rodilla",
-   "neighborhood": "Wynwood",
-   "address": "282 Northwest 27th Street, Miami, FL 33127, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "weekly writing group",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1457,
-   "name": "Matcha + Meetup: Miami Beach (Giving Back Edition)",
-   "url": "https://www.eventbrite.com/e/matcha-meetup-miami-beach-giving-back-edition-tickets-1990217346659",
-   "start": "2026-11-08T12:00:00-05:00",
-   "end": "2026-11-08T15:00:00-05:00",
-   "end_effective": "2026-11-08T15:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "12:00–3:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T12:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Cafe of the Day",
-   "neighborhood": "South Beach",
-   "address": "Ocean Drive, Miami Beach, FL 33139, Miami Beach",
-   "cost": "$19.10",
-   "free": false,
-   "category": "social",
-   "notes": "coffee meetup, giving back edition",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1463,
-   "name": "Antisemitism from a Perspective of Collective Liberation",
-   "url": "https://www.eventbrite.com/e/antisemitism-from-a-perspective-of-collective-liberation-tickets-2003315570800",
-   "start": "2026-11-08T12:30:00-05:00",
-   "end": "2026-11-08T14:00:00-05:00",
-   "end_effective": "2026-11-08T14:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "12:30–2:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T12:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Coral Gables Congregational Church",
-   "neighborhood": "Coral Gables",
-   "address": "3010 DeSoto Blvd, Coral Gables, FL 33134, Coral Gables",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "talks",
-   "notes": "interfaith talk",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1418,
-   "name": "Debussy's Influence",
-   "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/debussys-influence/",
-   "start": "2026-11-08T14:00:00-05:00",
-   "end": null,
-   "end_effective": "2026-11-08T16:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "2:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T14:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "New World Center",
-   "neighborhood": "South Beach",
-   "address": "500 17th St, Miami Beach, FL 33139",
-   "cost": "See event page",
-   "free": false,
-   "category": "creative",
-   "notes": "New World Symphony",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1447,
-   "name": "Let’s Share and Connect: Perfectionism",
-   "url": "https://www.meetup.com/meetup-group-jdqjdktz/events/317068684/",
-   "start": "2026-11-08T14:00:00-05:00",
-   "end": "2026-11-08T16:00:00-05:00",
-   "end_effective": "2026-11-08T16:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "2:00–4:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T14:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Arte y Pasión",
-   "neighborhood": "Coral Gables",
-   "address": "205 Aragon Ave, Coral Gables",
-   "cost": "Free (no fee listed)",
-   "free": true,
-   "category": "social",
-   "notes": "small-group sharing circle on perfectionism",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1458,
-   "name": "The Art of Belonging: A Friendsgiving HypnoExpression",
-   "url": "https://www.eventbrite.com/e/the-art-of-belonging-a-friendsgiving-hypnoexpression-tickets-2002734468708",
-   "start": "2026-11-08T14:00:00-05:00",
-   "end": "2026-11-08T16:30:00-05:00",
-   "end_effective": "2026-11-08T16:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "2:00–4:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T14:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Miami Beach Botanical Garden",
-   "neighborhood": "Miami Beach",
-   "address": "2000 Convention Center Dr, Miami Beach, FL 33139, Miami Beach",
-   "cost": "$44.21",
-   "free": false,
-   "category": "social",
-   "notes": "Friendsgiving creative/hypnotherapy workshop at Miami Beach Botanical Garden",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1461,
-   "name": "Angels Only Market ~ Fall series 2026",
-   "url": "https://www.eventbrite.com/e/angels-only-market-fall-series-2026-tickets-2001065187844",
-   "start": "2026-11-08T14:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "end_effective": "2026-11-08T19:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "2:00–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T14:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Zoko Collective",
-   "neighborhood": "Wynwood",
-   "address": "728 Northwest 29th Street, Miami, FL 33127, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "local makers market",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1464,
-   "name": "The Sundaze Market: Christmas Edition",
-   "url": "https://www.eventbrite.com/e/the-sundaze-market-christmas-edition-tickets-1999052815785",
-   "start": "2026-11-08T14:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "end_effective": "2026-11-08T18:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "2:00–6:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T14:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Beat Culture Brewery & Kitchen",
-   "neighborhood": "Flagami",
-   "address": "7250 Northwest 11th Street, Miami, FL 33126, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "holiday makers market",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1482,
-   "name": "Vintage Riot Market at Las Rosas",
-   "url": "https://www.eventbrite.com/e/2004217826471",
-   "start": "2026-11-08T14:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "end_effective": "2026-11-08T19:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "2:00–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T14:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Las Rosas",
-   "neighborhood": "Allapattah",
-   "address": "2898 NW 7th Ave, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "community",
-   "notes": "Eventbrite salesStatus sales_ended (checked Nov 8)",
-   "is_new": false,
-   "maybe_sold_out": true
-  },
-  {
-   "id": 1454,
-   "name": "CHOPIN for ALL featuring Paul Ji - Coral Gables",
-   "url": "https://www.eventbrite.com/e/chopin-for-all-featuring-paul-ji-coral-gables-tickets-1998602430671",
-   "start": "2026-11-08T15:00:00-05:00",
-   "end": "2026-11-08T17:00:00-05:00",
-   "end_effective": "2026-11-08T17:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "3:00–5:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T15:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Granada Church",
-   "neighborhood": "Coral Gables",
-   "address": "950 University Drive, Coral Gables, FL 33134, Coral Gables",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "free Chopin piano recital",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1455,
-   "name": "Starburst Concert: Gianna Beckford & Nihar Bhavsar with Paul Posnak",
-   "url": "https://www.eventbrite.com/e/starburst-concert-gianna-beckford-nihar-bhavsar-with-paul-posnak-tickets-1995509659108",
-   "start": "2026-11-08T16:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "end_effective": "2026-11-08T18:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "4:00–6:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T16:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "La Merced Chapel",
-   "neighborhood": "Allapattah",
-   "address": "3220 NW 7th Avenue, Miami, FL 33127, Miami",
-   "cost": "$17.85–$28.52",
-   "free": false,
-   "category": "creative",
-   "notes": "chamber concert (also Sat Nov 7, 7:30 PM)",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1465,
-   "name": "Book Swap at The Citadel Miami (Free Event, All Genres, Happy Hour)",
-   "url": "https://www.eventbrite.com/e/free-book-swap-at-the-citadel-miami-tickets-2003582347737",
-   "start": "2026-11-08T16:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "end_effective": "2026-11-08T19:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "4:00–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T16:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "The Citadel",
-   "neighborhood": "Little River",
-   "address": "8300 NE 2nd Ave, Miami, FL 33138, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "books",
-   "notes": "Eventbrite salesStatus sold_out, JSON-LD SoldOut (checked Nov 8)",
-   "is_new": false,
-   "maybe_sold_out": true
-  },
-  {
-   "id": 1456,
-   "name": "Diwali Yoga Flow • Breathwork • Miami Beach Free Yoga • Sunday 4:30PM",
-   "url": "https://www.eventbrite.com/e/diwali-yoga-flow-breathwork-miami-beach-free-yoga-sunday-430pm-tickets-2003554686000",
-   "start": "2026-11-08T16:30:00-05:00",
-   "end": "2026-11-08T17:30:00-05:00",
-   "end_effective": "2026-11-08T17:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "4:30–5:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T16:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "South Pointe Park",
-   "neighborhood": "South Beach",
-   "address": "1 Washington Avenue, Miami Beach, FL 33139, Miami Beach",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "outdoor",
-   "notes": "Eventbrite salesStatus sold_out, JSON-LD SoldOut (checked Nov 8)",
-   "is_new": false,
-   "maybe_sold_out": true
-  },
-  {
-   "id": 1459,
-   "name": "High Tide Low Tide",
-   "url": "https://www.eventbrite.com/e/high-tide-low-tide-tickets-1997479316406",
-   "start": "2026-11-08T16:30:00-05:00",
-   "end": "2026-11-08T18:30:00-05:00",
-   "end_effective": "2026-11-08T18:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "4:30–6:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T16:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Deering Estate",
-   "neighborhood": "Palmetto Bay",
-   "address": "16701 Southwest 72nd Avenue, Miami, FL 33157, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "art exhibition experience at Deering Estate (~16 mi)",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1440,
-   "name": "Immersive Symphony",
-   "url": "https://www.eventbrite.com/e/immersive-symphony-tickets-2003714917256",
-   "start": "2026-11-08T17:00:00-05:00",
-   "end": "2026-11-08T00:00:00-05:00",
-   "end_effective": "2026-11-08T00:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "5:00 PM–12:00 AM",
-   "multiday": false,
-   "sort_start": "2026-11-08T17:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Temple Emanu-El Sanctuary",
-   "neighborhood": "South Beach",
-   "address": "1701 Washington Ave, Miami Beach, FL 33139, Miami Beach",
-   "cost": "$39.19–$87.21",
-   "free": false,
-   "category": "creative",
-   "notes": "immersive symphony concert",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "ended": true
-  },
-  {
-   "id": 1460,
-   "name": "Constructs II",
-   "url": "https://www.eventbrite.com/e/constructs-ii-tickets-2003366950478",
-   "start": "2026-11-08T17:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "end_effective": "2026-11-08T19:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "5:00–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T17:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Outdoor Performance Site",
-   "neighborhood": "Miami Shores",
-   "address": "224 NE 108 Street, Miami, FL 33161, Miami",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "Eventbrite salesStatus sold_out, JSON-LD SoldOut (checked Nov 8)",
-   "is_new": false,
-   "maybe_sold_out": true
-  },
-  {
-   "id": 1442,
-   "name": "Cuerda & Clave at The Betsy Piano Bar",
-   "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-11-08/",
-   "start": "2026-11-08T18:00:00-05:00",
-   "end": "2026-11-08T23:00:00-05:00",
-   "end_effective": "2026-11-08T23:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "6:00–11:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T18:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "The Betsy Hotel",
-   "neighborhood": "South Beach",
-   "address": "1440 Ocean Dr, Miami Beach",
-   "cost": "Free",
-   "free": true,
-   "category": "creative",
-   "notes": "live Latin music at the piano bar",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1443,
-   "name": "The Ocean Drive Promenade Music Series",
-   "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-11-08/",
-   "start": "2026-11-08T18:00:00-05:00",
-   "end": "2026-11-08T19:30:00-05:00",
-   "end_effective": "2026-11-08T19:30:00-05:00",
-   "date": "2026-11-08",
-   "time": "6:00–7:30 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T18:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Lummus Park",
-   "neighborhood": "South Beach",
-   "address": "14 Street & Ocean Drive, Miami Beach",
-   "cost": "Free",
-   "free": true,
-   "category": "community",
-   "notes": "free outdoor music",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1444,
-   "name": "The Short Round Improv Acting Drop-In Class & Jam! Come Have Some Fun with Us!",
-   "url": "https://www.meetup.com/short-round-improv-theater-acting-classes-shows/events/317053819/",
-   "start": "2026-11-08T18:00:00-05:00",
-   "end": "2026-11-08T19:45:00-05:00",
-   "end_effective": "2026-11-08T19:45:00-05:00",
-   "date": "2026-11-08",
-   "time": "6:00–7:45 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T18:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Main Street Players",
-   "neighborhood": "Miami Lakes",
-   "address": "6812 Main St, Hialeah",
-   "cost": "$20",
-   "free": false,
-   "category": "creative",
-   "notes": null,
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1438,
-   "name": "Foodies + New Friends: Miami | Single Friends Edition",
-   "url": "https://www.eventbrite.com/e/foodies-new-friends-miami-single-friends-edition-tickets-1986661870133",
-   "start": "2026-11-08T19:00:00-05:00",
-   "end": "2026-11-08T22:00:00-05:00",
-   "end_effective": "2026-11-08T22:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "7:00–10:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T19:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Restaurant of the Week",
-   "neighborhood": "Miami Beach",
-   "address": "Washington Avenue, Miami Beach, FL 33139, Miami Beach",
-   "cost": "$26.75–$30.52",
-   "free": false,
-   "category": "singles",
-   "notes": null,
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1439,
-   "name": "Cocktails + Convo: Miami | A Night Out with New Friends",
-   "url": "https://www.eventbrite.com/e/cocktails-convo-miami-a-night-out-with-new-friends-tickets-1990300162363",
-   "start": "2026-11-08T19:00:00-05:00",
-   "end": "2026-11-08T22:00:00-05:00",
-   "end_effective": "2026-11-08T22:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "7:00–10:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T19:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Bar of the Week",
-   "neighborhood": "Brickell",
-   "address": "Southeast 6th Street, Miami, FL 33131, Miami",
-   "cost": "$13.01–$57.39",
-   "free": false,
-   "category": "social",
-   "notes": "meet new friends; different bar each week",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1485,
-   "name": "MIAMI IMPROV: FREE Tickets SUNDAY 11/8",
-   "url": "https://www.eventbrite.com/e/2004186678306",
-   "start": "2026-11-08T19:00:00-05:00",
-   "end": "2026-11-08T21:00:00-05:00",
-   "end_effective": "2026-11-08T21:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "7:00–9:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T19:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Miami Improv Comedy Club and Dinner Theater",
-   "neighborhood": "Doral",
-   "address": "3450 NW 83rd Ave #224, Doral",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "free tickets; TRIXX live at 7 PM",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1580,
-   "name": "Trixx",
-   "url": "https://www.miamiimprov.com/events/141604",
-   "start": "2026-11-08T19:00:00-05:00",
-   "end": null,
-   "end_effective": "2026-11-08T21:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T19:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Miami Improv",
-   "neighborhood": "Doral",
-   "address": "3450 NW 83rd Ave, Suite 224, Doral, FL 33122",
-   "cost": "See event page",
-   "free": false,
-   "category": "creative",
-   "notes": null,
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1594,
-   "name": "Intercambio ES/EN - En Love Life Cafe",
-   "url": "https://www.meetup.com/spanish-english-language-project/events/317291260/",
-   "start": "2026-11-08T19:00:00-05:00",
-   "end": "2026-11-08T20:00:00-05:00",
-   "end_effective": "2026-11-08T20:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "7:00–8:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T19:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Love Life Cafe",
-   "neighborhood": "Wynwood",
-   "address": "2616 NW 5th Ave, Miami, FL",
-   "cost": "Free",
-   "free": true,
-   "category": "language",
-   "notes": "Spanish/English language exchange",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1441,
-   "name": "Salsero Sundays at Ball and Chain",
-   "url": "https://golatindance.com/event/salsero-sundays-at-ball-and-chain/2026-11-08/",
-   "start": "2026-11-08T20:00:00-05:00",
-   "end": "2026-11-09T01:00:00-05:00",
-   "end_effective": "2026-11-09T01:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "8:00 PM–1:00 AM",
-   "multiday": false,
-   "sort_start": "2026-11-08T20:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Ball & Chain",
-   "neighborhood": "Little Havana",
-   "address": "1513 SW 8th St, Miami, FL",
-   "cost": "Free class (21+)",
-   "free": true,
-   "category": "dance",
-   "notes": "free salsa class 9 PM; DJ Charun",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
-  {
-   "id": 1445,
-   "name": "Miami's Improv Jam @ Mainstreet Playhouse!",
-   "url": "https://www.meetup.com/short-round-improv-theater-acting-classes-shows/events/317054960/",
-   "start": "2026-11-08T20:00:00-05:00",
-   "end": "2026-11-08T21:00:00-05:00",
-   "end_effective": "2026-11-08T21:00:00-05:00",
-   "date": "2026-11-08",
-   "time": "8:00–9:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-08T20:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Main Street Players",
-   "neighborhood": "Miami Lakes",
-   "address": "6812 Main St, Hialeah",
-   "cost": "$10 (cash; optional per Meetup)",
-   "free": false,
-   "category": "creative",
-   "notes": "weekly improv jam; anyone can play",
-   "is_new": false,
-   "maybe_sold_out": false
-  },
   {
    "id": 1542,
    "name": "AI Economics & Trust: Agents, Infra, and Smarter Cloud",
@@ -952,6 +8,7 @@
    "start": "2026-11-09T09:00:00-05:00",
    "end": "2026-11-09T13:00:00-05:00",
    "end_effective": "2026-11-09T13:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "9:00 AM–1:00 PM",
    "multiday": false,
@@ -966,7 +23,8 @@
    "category": "talks",
    "notes": "GDG Miami morning on AI costs and trustworthy agents",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1614,
@@ -975,6 +33,7 @@
    "start": "2026-11-09T11:00:00-05:00",
    "end": "2026-11-09T18:00:00-05:00",
    "end_effective": "2026-11-09T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "11:00 AM–6:00 PM",
    "multiday": false,
@@ -989,7 +48,8 @@
    "category": "accountability",
    "notes": "Coworking 11 AM–6 PM, then Miami Community Radio livestream/DJ sets ~4–11 PM; free (RSVP on Posh)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-08T08:04:03-05:00"
   },
   {
    "id": 1515,
@@ -998,6 +58,7 @@
    "start": "2026-11-09T11:30:00-05:00",
    "end": "2026-11-09T13:30:00-05:00",
    "end_effective": "2026-11-09T13:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "11:30 AM–1:30 PM",
    "multiday": false,
@@ -1012,7 +73,8 @@
    "category": "toastmasters",
    "notes": "Toastmasters meeting at the library; open to all",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1523,
@@ -1021,6 +83,7 @@
    "start": "2026-11-09T13:00:00-05:00",
    "end": "2026-11-09T14:00:00-05:00",
    "end_effective": "2026-11-09T14:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "1:00–2:00 PM",
    "multiday": false,
@@ -1035,7 +98,8 @@
    "category": "dance",
    "notes": "free library flamenco class, adults; registration required (opens the previous Saturday 11 AM)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1470,
@@ -1044,6 +108,7 @@
    "start": "2026-11-09T15:00:00-05:00",
    "end": "2026-11-09T16:00:00-05:00",
    "end_effective": "2026-11-09T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "3:00–4:00 PM",
    "multiday": false,
@@ -1058,7 +123,8 @@
    "category": "creative",
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1591,
@@ -1067,6 +133,7 @@
    "start": "2026-11-09T16:00:00-05:00",
    "end": "2026-11-09T18:00:00-05:00",
    "end_effective": "2026-11-09T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "4:00–6:00 PM",
    "multiday": false,
@@ -1081,7 +148,8 @@
    "category": "chess",
    "notes": "library chess club, ages 8+",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1645,
@@ -1090,6 +158,7 @@
    "start": "2026-11-09T16:00:00-05:00",
    "end": "2026-11-09T18:00:00-05:00",
    "end_effective": "2026-11-09T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "4:00–6:00 PM",
    "multiday": false,
@@ -1103,8 +172,9 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa class with live music + happy hour",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1514,
@@ -1113,6 +183,7 @@
    "start": "2026-11-09T17:00:00-05:00",
    "end": "2026-11-09T18:00:00-05:00",
    "end_effective": "2026-11-09T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "5:00–6:00 PM",
    "multiday": false,
@@ -1127,7 +198,8 @@
    "category": "photowalk",
    "notes": "monthly library photowalk",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1516,
@@ -1136,6 +208,7 @@
    "start": "2026-11-09T17:00:00-05:00",
    "end": "2026-11-09T18:00:00-05:00",
    "end_effective": "2026-11-09T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "5:00–6:00 PM",
    "multiday": false,
@@ -1150,7 +223,8 @@
    "category": "chess",
    "notes": "library chess club, all ages",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1558,
@@ -1159,6 +233,7 @@
    "start": "2026-11-09T18:00:00-05:00",
    "end": "2026-11-09T20:00:00-05:00",
    "end_effective": "2026-11-09T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "6:00–8:00 PM",
    "multiday": false,
@@ -1173,7 +248,8 @@
    "category": "creative",
    "notes": "art night with photo-based multimedia artist",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1646,
@@ -1182,6 +258,7 @@
    "start": "2026-11-09T18:00:00-05:00",
    "end": "2026-11-09T23:00:00-05:00",
    "end_effective": "2026-11-09T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "6:00–11:00 PM",
    "multiday": false,
@@ -1195,8 +272,9 @@
    "free": true,
    "category": "creative",
    "notes": "live jazz at The Betsy",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1496,
@@ -1204,7 +282,8 @@
    "url": "https://www.eventbrite.com/e/1992841414316",
    "start": "2026-11-09T18:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-09T20:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-09",
    "time": "6:30 PM",
    "multiday": false,
@@ -1219,7 +298,8 @@
    "category": "creative",
    "notes": "writing craft & critique circle",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1497,
@@ -1227,7 +307,8 @@
    "url": "https://www.eventbrite.com/e/1998962254915",
    "start": "2026-11-09T18:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-09T20:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-09",
    "time": "6:30 PM",
    "multiday": false,
@@ -1242,7 +323,8 @@
    "category": "books",
    "notes": "author talk: SOFT TARGETS",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1498,
@@ -1250,7 +332,8 @@
    "url": "https://www.eventbrite.com/e/1999792730891",
    "start": "2026-11-09T18:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-09T20:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-09",
    "time": "6:30 PM",
    "multiday": false,
@@ -1265,7 +348,8 @@
    "category": "books",
    "notes": "author talk",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1524,
@@ -1274,6 +358,7 @@
    "start": "2026-11-09T19:00:00-05:00",
    "end": "2026-11-09T21:00:00-05:00",
    "end_effective": "2026-11-09T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -1288,7 +373,8 @@
    "category": "social",
    "notes": "mahjong lessons & open play",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1525,
@@ -1297,6 +383,7 @@
    "start": "2026-11-09T19:00:00-05:00",
    "end": "2026-11-09T22:30:00-05:00",
    "end_effective": "2026-11-09T22:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "7:00–10:30 PM",
    "multiday": false,
@@ -1311,7 +398,8 @@
    "category": "dance",
    "notes": "live salsa band (Eleonor & band), riverside",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1526,
@@ -1320,6 +408,7 @@
    "start": "2026-11-09T19:00:00-05:00",
    "end": "2026-11-09T20:30:00-05:00",
    "end_effective": "2026-11-09T20:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "7:00–8:30 PM",
    "multiday": false,
@@ -1334,7 +423,8 @@
    "category": "outdoor",
    "notes": "weekly 3-mile run/walk",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1557,
@@ -1343,6 +433,7 @@
    "start": "2026-11-09T19:00:00-05:00",
    "end": "2026-11-09T22:00:00-05:00",
    "end_effective": "2026-11-09T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -1357,7 +448,33 @@
    "category": "photowalk",
    "notes": "photography exhibition party",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1701,
+   "name": "Foodies + New Friends: Miami | Single Friends Edition",
+   "url": "https://www.eventbrite.com/e/foodies-new-friends-miami-single-friends-edition-tickets-1986661871136",
+   "start": "2026-11-09T19:00:00-05:00",
+   "end": "2026-11-09T22:00:00-05:00",
+   "end_effective": "2026-11-09T22:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-09",
+   "time": "7:00–10:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-09T19:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Restaurant of the Week",
+   "neighborhood": "Miami Beach",
+   "address": "Washington Avenue, Miami Beach, FL 33139 (restaurant announced to ticket holders)",
+   "cost": "$26.75–$30.52",
+   "free": false,
+   "category": "singles",
+   "notes": "Group dinner meetup; venue listed on Eventbrite only as Restaurant of the Week",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1517,
@@ -1366,6 +483,7 @@
    "start": "2026-11-09T19:30:00-05:00",
    "end": "2026-11-09T21:00:00-05:00",
    "end_effective": "2026-11-09T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "7:30–9:00 PM",
    "multiday": false,
@@ -1380,7 +498,8 @@
    "category": "accountability",
    "notes": "Luma calendar; also Meetup group-trdbgkva. Host approval may be required.",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1599,
@@ -1389,6 +508,7 @@
    "start": "2026-11-09T20:00:00-05:00",
    "end": "2026-11-09T21:00:00-05:00",
    "end_effective": "2026-11-09T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "8:00–9:00 PM",
    "multiday": false,
@@ -1403,7 +523,8 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1518,
@@ -1412,6 +533,7 @@
    "start": "2026-11-09T21:00:00-05:00",
    "end": "2026-11-10T01:00:00-05:00",
    "end_effective": "2026-11-10T01:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "9:00 PM–1:00 AM",
    "multiday": false,
@@ -1426,7 +548,8 @@
    "category": "dance",
    "notes": "free salsa & bachata class 9 PM; guest DJs",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1527,
@@ -1435,6 +558,7 @@
    "start": "2026-11-09T21:00:00-05:00",
    "end": "2026-11-09T23:00:00-05:00",
    "end_effective": "2026-11-09T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "9:00–11:00 PM",
    "multiday": false,
@@ -1449,7 +573,8 @@
    "category": "creative",
    "notes": "weekly stand-up comedy hosted by Eric Diaz",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1571,
@@ -1458,6 +583,7 @@
    "start": "2026-11-09T21:00:00-05:00",
    "end": "2026-11-10T02:00:00-05:00",
    "end_effective": "2026-11-10T02:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "9:00 PM–2:00 AM",
    "multiday": false,
@@ -1472,7 +598,8 @@
    "category": "dance",
    "notes": "Bachata Monday at Club M2: bachata/Latin room + house room; 21+; free RSVP on Luma",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1600,
@@ -1481,6 +608,7 @@
    "start": "2026-11-09T21:15:00-05:00",
    "end": "2026-11-09T22:15:00-05:00",
    "end_effective": "2026-11-09T22:15:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "9:15–10:15 PM",
    "multiday": false,
@@ -1495,7 +623,8 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1528,
@@ -1504,6 +633,7 @@
    "start": "2026-11-09T23:45:00-05:00",
    "end": "2026-11-10T02:45:00-05:00",
    "end_effective": "2026-11-10T02:45:00-05:00",
+   "end_known": true,
    "date": "2026-11-09",
    "time": "11:45 PM–2:45 AM",
    "multiday": false,
@@ -1518,7 +648,8 @@
    "category": "creative",
    "notes": "late-night stand-up comedy",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1511,
@@ -1526,7 +657,8 @@
    "url": "https://www.miamibeachconvention.com/events/adobe-max-creative-conference",
    "start": "2026-11-10T00:00:00-05:00",
    "end": "2026-11-12T23:59:00-05:00",
-   "end_effective": "2026-11-12T23:59:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-10",
    "time": "Nov 10–12 (hours not listed)",
    "multiday": true,
@@ -1541,7 +673,8 @@
    "category": "creative",
    "notes": "creative conference: keynotes, hands-on design/photo/video workshops (Nov 10–12 per MBCC listing)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-08T08:08:36-05:00"
   },
   {
    "id": 1520,
@@ -1550,6 +683,7 @@
    "start": "2026-11-10T10:00:00-05:00",
    "end": "2026-11-10T12:30:00-05:00",
    "end_effective": "2026-11-10T12:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "10:00 AM–12:30 PM",
    "multiday": false,
@@ -1564,7 +698,8 @@
    "category": "language",
    "notes": "practice with learners and native English speakers; adults",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1521,
@@ -1573,6 +708,7 @@
    "start": "2026-11-10T11:00:00-05:00",
    "end": "2026-11-10T12:00:00-05:00",
    "end_effective": "2026-11-10T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "11:00 AM–12:00 PM",
    "multiday": false,
@@ -1587,7 +723,8 @@
    "category": "language",
    "notes": "informal English conversation circle",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1522,
@@ -1596,6 +733,7 @@
    "start": "2026-11-10T15:00:00-05:00",
    "end": "2026-11-10T17:30:00-05:00",
    "end_effective": "2026-11-10T17:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "3:00–5:30 PM",
    "multiday": false,
@@ -1610,7 +748,8 @@
    "category": "chess",
    "notes": "library chess & checkers, all ages",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1530,
@@ -1619,6 +758,7 @@
    "start": "2026-11-10T18:00:00-05:00",
    "end": "2026-11-10T20:00:00-05:00",
    "end_effective": "2026-11-10T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:00–8:00 PM",
    "multiday": false,
@@ -1633,7 +773,8 @@
    "category": "social",
    "notes": "Eventbrite salesStatus sold_out, JSON-LD SoldOut (checked Nov 8)",
    "is_new": false,
-   "maybe_sold_out": true
+   "maybe_sold_out": true,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1532,
@@ -1642,6 +783,7 @@
    "start": "2026-11-10T18:00:00-05:00",
    "end": "2026-11-10T21:00:00-05:00",
    "end_effective": "2026-11-10T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -1656,7 +798,8 @@
    "category": "talks",
    "notes": "VC Miami evening on AI and storytelling",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1559,
@@ -1665,6 +808,7 @@
    "start": "2026-11-10T18:00:00-05:00",
    "end": "2026-11-10T23:00:00-05:00",
    "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:00–11:00 PM",
    "multiday": false,
@@ -1679,7 +823,8 @@
    "category": "social",
    "notes": "weekly board game night",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1566,
@@ -1688,6 +833,7 @@
    "start": "2026-11-10T18:00:00-05:00",
    "end": "2026-11-10T23:00:00-05:00",
    "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:00–11:00 PM",
    "multiday": false,
@@ -1702,7 +848,8 @@
    "category": "creative",
    "notes": "live jazz piano sets",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1582,
@@ -1711,6 +858,7 @@
    "start": "2026-11-10T18:00:00-05:00",
    "end": "2026-11-10T21:00:00-05:00",
    "end_effective": "2026-11-10T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -1725,7 +873,8 @@
    "category": "talks",
    "notes": "8 European startups pitch (via Refresh Miami)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1413,
@@ -1733,7 +882,8 @@
    "url": "https://www.eventbrite.com/e/fiction-book-club-in-coconut-grove-tickets-2002746454558",
    "start": "2026-11-10T18:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-10T20:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-10",
    "time": "6:30 PM",
    "multiday": false,
@@ -1748,7 +898,8 @@
    "category": "books",
    "notes": "fiction book club",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1592,
@@ -1757,6 +908,7 @@
    "start": "2026-11-10T18:30:00-05:00",
    "end": "2026-11-10T19:30:00-05:00",
    "end_effective": "2026-11-10T19:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:30–7:30 PM",
    "multiday": false,
@@ -1771,7 +923,8 @@
    "category": "talks",
    "notes": "library talk on Florida crime fiction; registration required",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1647,
@@ -1780,6 +933,7 @@
    "start": "2026-11-10T18:30:00-05:00",
    "end": "2026-11-10T19:30:00-05:00",
    "end_effective": "2026-11-10T19:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:30–7:30 PM",
    "multiday": false,
@@ -1793,8 +947,9 @@
    "free": true,
    "category": "toastmasters",
    "notes": "guest-friendly Toastmasters meeting",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1648,
@@ -1803,6 +958,7 @@
    "start": "2026-11-10T18:30:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "6:30–10:00 PM",
    "multiday": false,
@@ -1816,8 +972,9 @@
    "free": true,
    "category": "community",
    "notes": "Argentine community night",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1531,
@@ -1825,7 +982,8 @@
    "url": "https://www.eventbrite.com/e/2000638580851",
    "start": "2026-11-10T19:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-10T21:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-10",
    "time": "7:00 PM",
    "multiday": false,
@@ -1840,7 +998,8 @@
    "category": "books",
    "notes": "author talk: THE RENEGADE HOUSEWIVES OF POP ART",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1533,
@@ -1849,6 +1008,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -1863,7 +1023,8 @@
    "category": "networking",
    "notes": "tech/startup networking",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1543,
@@ -1872,6 +1033,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T23:00:00-05:00",
    "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–11:00 PM",
    "multiday": false,
@@ -1886,7 +1048,8 @@
    "category": "social",
    "notes": "easy board games, teachers on hand; food specials",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1560,
@@ -1895,6 +1058,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T21:00:00-05:00",
    "end_effective": "2026-11-10T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -1909,7 +1073,8 @@
    "category": "social",
    "notes": "weekly trivia",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1561,
@@ -1918,6 +1083,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T20:00:00-05:00",
    "end_effective": "2026-11-10T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–8:00 PM",
    "multiday": false,
@@ -1932,7 +1098,8 @@
    "category": "creative",
    "notes": "sketch walk led by muralist Ashley Gutierrez",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1649,
@@ -1941,6 +1108,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T20:00:00-05:00",
    "end_effective": "2026-11-10T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–8:00 PM",
    "multiday": false,
@@ -1954,8 +1122,9 @@
    "free": false,
    "category": "dance",
    "notes": "beginner salsa class",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1650,
@@ -1964,6 +1133,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -1977,8 +1147,9 @@
    "free": true,
    "category": "networking",
    "notes": "AI & tech networking",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1651,
@@ -1987,6 +1158,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T21:00:00-05:00",
    "end_effective": "2026-11-10T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -2000,8 +1172,9 @@
    "free": true,
    "category": "social",
    "notes": "free wine tasting",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1694,
@@ -2010,6 +1183,7 @@
    "start": "2026-11-10T19:00:00-05:00",
    "end": "2026-11-10T22:30:00-05:00",
    "end_effective": "2026-11-10T22:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:00–10:30 PM",
    "multiday": false,
@@ -2022,9 +1196,10 @@
    "cost": "Free (RSVP)",
    "free": true,
    "category": "chess",
-   "notes": "chess & martinis in the hotel lobby",
-   "is_new": true,
-   "maybe_sold_out": false
+   "notes": "Luma shows Event Full with waitlist (Nov 9 check)",
+   "is_new": false,
+   "maybe_sold_out": true,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1529,
@@ -2033,6 +1208,7 @@
    "start": "2026-11-10T19:30:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "7:30–10:00 PM",
    "multiday": false,
@@ -2047,7 +1223,8 @@
    "category": "creative",
    "notes": "comedy open mic",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1563,
@@ -2056,6 +1233,7 @@
    "start": "2026-11-10T20:00:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "8:00–10:00 PM",
    "multiday": false,
@@ -2070,7 +1248,8 @@
    "category": "social",
    "notes": "pub trivia (Superfly Trivia)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1564,
@@ -2079,6 +1258,7 @@
    "start": "2026-11-10T20:00:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "8:00–10:00 PM",
    "multiday": false,
@@ -2093,7 +1273,8 @@
    "category": "social",
    "notes": "weekly trivia night",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1601,
@@ -2102,6 +1283,7 @@
    "start": "2026-11-10T20:00:00-05:00",
    "end": "2026-11-10T21:00:00-05:00",
    "end_effective": "2026-11-10T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "8:00–9:00 PM",
    "multiday": false,
@@ -2116,7 +1298,8 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1534,
@@ -2125,6 +1308,7 @@
    "start": "2026-11-10T20:30:00-05:00",
    "end": "2026-11-10T23:00:00-05:00",
    "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "8:30–11:00 PM",
    "multiday": false,
@@ -2139,7 +1323,8 @@
    "category": "creative",
    "notes": "performances by Tease Untamed students (favorite venue)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1539,
@@ -2148,6 +1333,7 @@
    "start": "2026-11-10T20:30:00-05:00",
    "end": "2026-11-10T22:00:00-05:00",
    "end_effective": "2026-11-10T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "8:30–10:00 PM",
    "multiday": false,
@@ -2162,7 +1348,8 @@
    "category": "creative",
    "notes": "Improv comedy; free unless it's a graduation show ($10 at the door)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1562,
@@ -2171,6 +1358,7 @@
    "start": "2026-11-10T20:30:00-05:00",
    "end": "2026-11-10T23:00:00-05:00",
    "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "8:30–11:00 PM",
    "multiday": false,
@@ -2185,7 +1373,8 @@
    "category": "creative",
    "notes": "free weekly stand-up hosted by Leetah Faye",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1541,
@@ -2194,6 +1383,7 @@
    "start": "2026-11-10T21:00:00-05:00",
    "end": "2026-11-10T22:30:00-05:00",
    "end_effective": "2026-11-10T22:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "9:00–10:30 PM",
    "multiday": false,
@@ -2208,7 +1398,8 @@
    "category": "creative",
    "notes": "stand-up comedy night; seats saved via Eventbrite",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1565,
@@ -2217,6 +1408,7 @@
    "start": "2026-11-10T21:00:00-05:00",
    "end": "2026-11-10T23:00:00-05:00",
    "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "9:00–11:00 PM",
    "multiday": false,
@@ -2231,7 +1423,8 @@
    "category": "university",
    "notes": "UM dance team semester showcase",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1572,
@@ -2240,6 +1433,7 @@
    "start": "2026-11-10T21:00:00-05:00",
    "end": "2026-11-11T01:00:00-05:00",
    "end_effective": "2026-11-11T01:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "9:00 PM–1:00 AM",
    "multiday": false,
@@ -2254,17 +1448,19 @@
    "category": "dance",
    "notes": "free bachata class 9 PM, then bachata DJ party",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1585,
    "name": "Comedy Night @ Churchill's Pub",
    "url": "https://www.meetup.com/pelican-hat-productions-comedy-shows-events/events/317272783/",
    "start": "2026-11-10T21:00:00-05:00",
-   "end": "2026-11-10T22:30:00-05:00",
-   "end_effective": "2026-11-10T22:30:00-05:00",
+   "end": "2026-11-10T23:00:00-05:00",
+   "end_effective": "2026-11-10T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
-   "time": "9:00–10:30 PM",
+   "time": "9:00–11:00 PM",
    "multiday": false,
    "sort_start": "2026-11-10T21:00:00-05:00",
    "day_end": null,
@@ -2277,7 +1473,8 @@
    "category": "creative",
    "notes": "local & touring comedians, 9–10:30 PM",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1540,
@@ -2286,6 +1483,7 @@
    "start": "2026-11-10T22:00:00-05:00",
    "end": "2026-11-10T23:30:00-05:00",
    "end_effective": "2026-11-10T23:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-10",
    "time": "10:00–11:30 PM",
    "multiday": false,
@@ -2300,7 +1498,8 @@
    "category": "creative",
    "notes": "Stand-up comedy open mic",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1583,
@@ -2308,7 +1507,8 @@
    "url": "https://refreshmiami.com/event/cloudfest-americas/",
    "start": "2026-11-11T00:00:00-05:00",
    "end": "2026-11-12T23:59:00-05:00",
-   "end_effective": "2026-11-12T23:59:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-11",
    "time": "Nov 11–12 (hours not listed)",
    "multiday": true,
@@ -2323,7 +1523,8 @@
    "category": "talks",
    "notes": "cloud/internet infrastructure conference (via Refresh Miami)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1652,
@@ -2332,6 +1533,7 @@
    "start": "2026-11-11T07:30:00-05:00",
    "end": "2026-11-11T08:30:00-05:00",
    "end_effective": "2026-11-11T08:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:30–8:30 AM",
    "multiday": false,
@@ -2345,8 +1547,9 @@
    "free": true,
    "category": "toastmasters",
    "notes": "guest-friendly Toastmasters meeting (weekly Wed 7:30 AM)",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1653,
@@ -2355,6 +1558,7 @@
    "start": "2026-11-11T11:00:00-05:00",
    "end": "2026-11-11T12:30:00-05:00",
    "end_effective": "2026-11-11T12:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "11:00 AM–12:30 PM",
    "multiday": false,
@@ -2368,8 +1572,34 @@
    "free": true,
    "category": "accountability",
    "notes": "women founders meetup (tech, e-com, content)",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1708,
+   "name": "Creative Crochet: Helping Hands",
+   "url": "https://www.eventbrite.com/e/creative-crochet-helping-hands-tickets-1993628720169",
+   "start": "2026-11-11T11:00:00-05:00",
+   "end": "2026-11-11T12:00:00-05:00",
+   "end_effective": "2026-11-11T12:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-11",
+   "time": "11:00 AM–12:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-11T11:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Country Walk Library",
+   "neighborhood": "Country Walk",
+   "address": "15433 SW 137th Ave, Miami, FL 33177",
+   "cost": "Free",
+   "free": true,
+   "category": "volunteering",
+   "notes": "Crochet mats from repurposed plastic bags for people experiencing homelessness",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1602,
@@ -2378,6 +1608,7 @@
    "start": "2026-11-11T12:00:00-05:00",
    "end": "2026-11-11T13:00:00-05:00",
    "end_effective": "2026-11-11T13:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "12:00–1:00 PM",
    "multiday": false,
@@ -2392,7 +1623,8 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1570,
@@ -2401,6 +1633,7 @@
    "start": "2026-11-11T18:00:00-05:00",
    "end": "2026-11-11T20:00:00-05:00",
    "end_effective": "2026-11-11T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "6:00–8:00 PM",
    "multiday": false,
@@ -2413,9 +1646,10 @@
    "cost": "Free (RSVP)",
    "free": true,
    "category": "university",
-   "notes": "Eventbrite salesStatus sales_ended (checked Nov 8)",
+   "notes": "Eventbrite shows Sales ended (Nov 9 check)",
    "is_new": false,
-   "maybe_sold_out": true
+   "maybe_sold_out": true,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1569,
@@ -2424,6 +1658,7 @@
    "start": "2026-11-11T18:30:00-05:00",
    "end": "2026-11-11T21:30:00-05:00",
    "end_effective": "2026-11-11T21:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "6:30–9:30 PM",
    "multiday": false,
@@ -2438,7 +1673,8 @@
    "category": "creative",
    "notes": "jewelry wireworking workshop",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1588,
@@ -2447,6 +1683,7 @@
    "start": "2026-11-11T18:30:00-05:00",
    "end": "2026-11-11T21:00:00-05:00",
    "end_effective": "2026-11-11T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "6:30–9:00 PM",
    "multiday": false,
@@ -2461,7 +1698,8 @@
    "category": "accountability",
    "notes": "monthly open men's circle",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1568,
@@ -2470,6 +1708,7 @@
    "start": "2026-11-11T18:50:00-05:00",
    "end": "2026-11-11T20:50:00-05:00",
    "end_effective": "2026-11-11T20:50:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "6:50–8:50 PM",
    "multiday": false,
@@ -2484,7 +1723,8 @@
    "category": "toastmasters",
    "notes": "guest-friendly Toastmasters meeting",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1567,
@@ -2493,6 +1733,7 @@
    "start": "2026-11-11T19:00:00-05:00",
    "end": "2026-11-11T21:00:00-05:00",
    "end_effective": "2026-11-11T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -2507,7 +1748,8 @@
    "category": "creative",
    "notes": "writing prompts, write & share",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1573,
@@ -2516,6 +1758,7 @@
    "start": "2026-11-11T19:00:00-05:00",
    "end": "2026-11-12T01:00:00-05:00",
    "end_effective": "2026-11-12T01:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:00 PM–1:00 AM",
    "multiday": false,
@@ -2530,7 +1773,8 @@
    "category": "dance",
    "notes": "bachata classes from 7 PM, then social",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1586,
@@ -2539,6 +1783,7 @@
    "start": "2026-11-11T19:00:00-05:00",
    "end": "2026-11-11T21:00:00-05:00",
    "end_effective": "2026-11-11T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -2553,7 +1798,8 @@
    "category": "talks",
    "notes": "café-style group discussion of big questions",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1598,
@@ -2562,6 +1808,7 @@
    "start": "2026-11-11T19:00:00-05:00",
    "end": "2026-11-11T20:00:00-05:00",
    "end_effective": "2026-11-11T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:00–8:00 PM",
    "multiday": false,
@@ -2576,7 +1823,8 @@
    "category": "language",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1654,
@@ -2585,6 +1833,7 @@
    "start": "2026-11-11T19:00:00-05:00",
    "end": "2026-11-11T20:00:00-05:00",
    "end_effective": "2026-11-11T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:00–8:00 PM",
    "multiday": false,
@@ -2598,8 +1847,34 @@
    "free": true,
    "category": "dance",
    "notes": "free weekly salsa class in the park",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1711,
+   "name": "West Kendall Toastmasters Club",
+   "url": "https://www.eventbrite.com/e/west-kendall-toastmasters-club-tickets-1983921602920",
+   "start": "2026-11-11T19:00:00-05:00",
+   "end": "2026-11-11T21:00:00-05:00",
+   "end_effective": "2026-11-11T21:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-11",
+   "time": "7:00–9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-11T19:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Sports Grill Kendall",
+   "neighborhood": "Kendall",
+   "address": "9090 SW 97th Ave, Miami, FL 33176",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "toastmasters",
+   "notes": null,
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 667,
@@ -2608,6 +1883,7 @@
    "start": "2026-11-11T19:30:00-05:00",
    "end": "2026-11-11T22:00:00-05:00",
    "end_effective": "2026-11-11T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:30–10:00 PM",
    "multiday": false,
@@ -2622,7 +1898,8 @@
    "category": "creative",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1659,
@@ -2631,6 +1908,7 @@
    "start": "2026-11-11T19:30:00-05:00",
    "end": "2026-11-11T21:00:00-05:00",
    "end_effective": "2026-11-11T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "7:30–9:00 PM",
    "multiday": false,
@@ -2644,8 +1922,9 @@
    "free": false,
    "category": "university",
    "notes": "FIU guitar orchestra concert",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1574,
@@ -2654,6 +1933,7 @@
    "start": "2026-11-11T20:00:00-05:00",
    "end": "2026-11-12T01:00:00-05:00",
    "end_effective": "2026-11-12T01:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "8:00 PM–1:00 AM",
    "multiday": false,
@@ -2668,7 +1948,8 @@
    "category": "dance",
    "notes": "DJ set, free salsa class 9 PM",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1581,
@@ -2676,7 +1957,8 @@
    "url": "https://www.miamiimprov.com/events/125360",
    "start": "2026-11-11T20:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-11T22:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-11",
    "time": "8:00 PM",
    "multiday": false,
@@ -2691,7 +1973,8 @@
    "category": "creative",
    "notes": "Miami Improv open mic",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1655,
@@ -2700,6 +1983,7 @@
    "start": "2026-11-11T20:00:00-05:00",
    "end": "2026-11-11T23:30:00-05:00",
    "end_effective": "2026-11-11T23:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "8:00–11:30 PM",
    "multiday": false,
@@ -2713,8 +1997,9 @@
    "free": true,
    "category": "creative",
    "notes": "weekly open mic (8:30 PM signup)",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1656,
@@ -2723,6 +2008,7 @@
    "start": "2026-11-11T20:00:00-05:00",
    "end": "2026-11-11T20:30:00-05:00",
    "end_effective": "2026-11-11T20:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "8:00–8:30 PM",
    "multiday": false,
@@ -2736,8 +2022,9 @@
    "free": true,
    "category": "books",
    "notes": "free weekly Bhagavad Gita study",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1657,
@@ -2746,6 +2033,7 @@
    "start": "2026-11-11T20:00:00-05:00",
    "end": "2026-11-11T23:00:00-05:00",
    "end_effective": "2026-11-11T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "8:00–11:00 PM",
    "multiday": false,
@@ -2759,8 +2047,34 @@
    "free": true,
    "category": "social",
    "notes": "free weekly team trivia",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1700,
+   "name": "Salsa Classes at Miami dance center",
+   "url": "https://www.eventbrite.com/e/salsa-classes-at-miami-dance-center-tickets-1987710587876",
+   "start": "2026-11-11T20:00:00-05:00",
+   "end": "2026-11-11T21:00:00-05:00",
+   "end_effective": "2026-11-11T21:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-11",
+   "time": "8:00–9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-11T20:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Miami Dance Center",
+   "neighborhood": "North Miami Beach",
+   "address": "2165 NE 163rd St, North Miami Beach, FL 33162",
+   "cost": "$24.80",
+   "free": false,
+   "category": "dance",
+   "notes": "Beginner salsa fundamentals",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1589,
@@ -2769,6 +2083,7 @@
    "start": "2026-11-11T21:00:00-05:00",
    "end": "2026-11-11T22:30:00-05:00",
    "end_effective": "2026-11-11T22:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "9:00–10:30 PM",
    "multiday": false,
@@ -2783,7 +2098,8 @@
    "category": "creative",
    "notes": "social comedy show; RSVP/tickets via Eventbrite",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1658,
@@ -2792,6 +2108,7 @@
    "start": "2026-11-11T21:00:00-05:00",
    "end": "2026-11-11T23:00:00-05:00",
    "end_effective": "2026-11-11T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "9:00–11:00 PM",
    "multiday": false,
@@ -2805,8 +2122,9 @@
    "free": false,
    "category": "creative",
    "notes": "stand-up comedy hosted by Mark Armano",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1587,
@@ -2815,6 +2133,7 @@
    "start": "2026-11-11T22:00:00-05:00",
    "end": "2026-11-12T00:00:00-05:00",
    "end_effective": "2026-11-12T00:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-11",
    "time": "10:00 PM–12:00 AM",
    "multiday": false,
@@ -2829,7 +2148,8 @@
    "category": "creative",
    "notes": "late-night stand-up",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1603,
@@ -2838,6 +2158,7 @@
    "start": "2026-11-12T07:00:00-05:00",
    "end": "2026-11-12T09:00:00-05:00",
    "end_effective": "2026-11-12T09:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "7:00–9:00 AM",
    "multiday": false,
@@ -2852,7 +2173,8 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1660,
@@ -2861,6 +2183,7 @@
    "start": "2026-11-12T07:30:00-05:00",
    "end": "2026-11-12T08:30:00-05:00",
    "end_effective": "2026-11-12T08:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "7:30–8:30 AM",
    "multiday": false,
@@ -2874,8 +2197,34 @@
    "free": true,
    "category": "toastmasters",
    "notes": "guest-friendly Toastmasters meeting",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1714,
+   "name": "Founder Journeys: From Inception to Exit",
+   "url": "https://refreshmiami.com/event/founder-journeys-from-inception-to-exit/",
+   "start": "2026-11-12T09:30:00-05:00",
+   "end": "2026-11-12T11:30:00-05:00",
+   "end_effective": "2026-11-12T11:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-12",
+   "time": "9:30–11:30 AM",
+   "multiday": false,
+   "sort_start": "2026-11-12T09:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The LAB Miami",
+   "neighborhood": "Wynwood",
+   "address": "400 NW 26th St, Miami, FL",
+   "cost": "See event page",
+   "free": false,
+   "category": "talks",
+   "notes": "Cost not listed on Refresh Miami",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1606,
@@ -2884,6 +2233,7 @@
    "start": "2026-11-12T11:00:00-05:00",
    "end": "2026-11-12T12:00:00-05:00",
    "end_effective": "2026-11-12T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "11:00 AM–12:00 PM",
    "multiday": false,
@@ -2898,7 +2248,8 @@
    "category": "language",
    "notes": "English conversation practice",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1607,
@@ -2907,6 +2258,7 @@
    "start": "2026-11-12T11:00:00-05:00",
    "end": "2026-11-12T12:00:00-05:00",
    "end_effective": "2026-11-12T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "11:00 AM–12:00 PM",
    "multiday": false,
@@ -2921,7 +2273,8 @@
    "category": "language",
    "notes": "English conversation practice",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1615,
@@ -2930,6 +2283,7 @@
    "start": "2026-11-12T11:00:00-05:00",
    "end": "2026-11-12T18:00:00-05:00",
    "end_effective": "2026-11-12T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "11:00 AM–6:00 PM",
    "multiday": false,
@@ -2944,7 +2298,8 @@
    "category": "accountability",
    "notes": "Coworking 11 AM–6 PM, then Miami Community Radio livestream/DJ sets ~4–11 PM; free (RSVP on Posh)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-08T08:04:03-05:00"
   },
   {
    "id": 1608,
@@ -2953,6 +2308,7 @@
    "start": "2026-11-12T12:00:00-05:00",
    "end": "2026-11-12T13:00:00-05:00",
    "end_effective": "2026-11-12T13:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "12:00–1:00 PM",
    "multiday": false,
@@ -2967,7 +2323,8 @@
    "category": "language",
    "notes": "English conversation practice",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1643,
@@ -2976,6 +2333,7 @@
    "start": "2026-11-12T12:00:00-05:00",
    "end": "2026-11-12T13:00:00-05:00",
    "end_effective": "2026-11-12T13:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "12:00–1:00 PM",
    "multiday": false,
@@ -2989,8 +2347,9 @@
    "free": false,
    "category": "dance",
    "notes": "social Latin dance class (salsa, bachata, merengue)",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1695,
@@ -2999,6 +2358,7 @@
    "start": "2026-11-12T13:30:00-05:00",
    "end": "2026-11-12T16:30:00-05:00",
    "end_effective": "2026-11-12T16:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "1:30–4:30 PM",
    "multiday": false,
@@ -3012,8 +2372,9 @@
    "free": true,
    "category": "talks",
    "notes": "hands-on AI workshop for small businesses, with Barry University's AI Center",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1636,
@@ -3022,6 +2383,7 @@
    "start": "2026-11-12T15:00:00-05:00",
    "end": "2026-11-12T16:30:00-05:00",
    "end_effective": "2026-11-12T16:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "3:00–4:30 PM",
    "multiday": false,
@@ -3035,8 +2397,9 @@
    "free": true,
    "category": "social",
    "notes": "classic board & card games; adults 19+",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1623,
@@ -3045,6 +2408,7 @@
    "start": "2026-11-12T17:00:00-05:00",
    "end": "2026-11-12T19:00:00-05:00",
    "end_effective": "2026-11-12T19:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "5:00–7:00 PM",
    "multiday": false,
@@ -3058,8 +2422,34 @@
    "free": true,
    "category": "chess",
    "notes": null,
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1702,
+   "name": "Vizcaya Village Night Market: Poems, Jazz & Gratitude Voice",
+   "url": "https://www.eventbrite.com/e/vizcaya-village-night-market-poems-jazz-gratitude-voice-tickets-2003917891357",
+   "start": "2026-11-12T17:00:00-05:00",
+   "end": "2026-11-12T21:00:00-05:00",
+   "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-12",
+   "time": "5:00–9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-12T17:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Vizcaya Village Farmers Market",
+   "neighborhood": "Coconut Grove",
+   "address": "3250 S Miami Ave, Miami, FL 33129",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "community",
+   "notes": "Night market with local farmers, artisans, live music, poetry and jazz",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1661,
@@ -3068,6 +2458,7 @@
    "start": "2026-11-12T18:00:00-05:00",
    "end": "2026-11-12T21:00:00-05:00",
    "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -3081,8 +2472,9 @@
    "free": false,
    "category": "language",
    "notes": "French Weeks closing cocktail",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1662,
@@ -3091,6 +2483,7 @@
    "start": "2026-11-12T18:00:00-05:00",
    "end": "2026-11-12T21:00:00-05:00",
    "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -3104,8 +2497,34 @@
    "free": false,
    "category": "singles",
    "notes": "singles & friends Friendsgiving social",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1713,
+   "name": "European Startups in Miami: Panel Night",
+   "url": "https://refreshmiami.com/event/european-startups-in-miami-panel-night/",
+   "start": "2026-11-12T18:00:00-05:00",
+   "end": "2026-11-12T21:00:00-05:00",
+   "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-12",
+   "time": "6:00–9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-12T18:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The LAB Miami",
+   "neighborhood": "Wynwood",
+   "address": "400 NW 26th St, Miami, FL",
+   "cost": "See event page",
+   "free": false,
+   "category": "talks",
+   "notes": "Panel with US GTM and AI experts; cost not listed on Refresh Miami",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1663,
@@ -3114,6 +2533,7 @@
    "start": "2026-11-12T18:15:00-05:00",
    "end": "2026-11-12T18:45:00-05:00",
    "end_effective": "2026-11-12T18:45:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:15–6:45 PM",
    "multiday": false,
@@ -3127,8 +2547,9 @@
    "free": true,
    "category": "outdoor",
    "notes": "guided history tour of Vizcaya Village",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1597,
@@ -3137,6 +2558,7 @@
    "start": "2026-11-12T18:30:00-05:00",
    "end": "2026-11-12T21:00:00-05:00",
    "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:30–9:00 PM",
    "multiday": false,
@@ -3151,7 +2573,8 @@
    "category": "language",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1620,
@@ -3160,6 +2583,7 @@
    "start": "2026-11-12T18:30:00-05:00",
    "end": "2026-11-12T20:30:00-05:00",
    "end_effective": "2026-11-12T20:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:30–8:30 PM",
    "multiday": false,
@@ -3174,7 +2598,8 @@
    "category": "networking",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1624,
@@ -3183,6 +2608,7 @@
    "start": "2026-11-12T18:30:00-05:00",
    "end": "2026-11-12T19:30:00-05:00",
    "end_effective": "2026-11-12T19:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:30–7:30 PM",
    "multiday": false,
@@ -3196,8 +2622,9 @@
    "free": true,
    "category": "toastmasters",
    "notes": "Miami Beach Toastmasters; guests free",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1625,
@@ -3206,6 +2633,7 @@
    "start": "2026-11-12T18:30:00-05:00",
    "end": "2026-11-12T19:30:00-05:00",
    "end_effective": "2026-11-12T19:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "6:30–7:30 PM",
    "multiday": false,
@@ -3219,8 +2647,34 @@
    "free": true,
    "category": "toastmasters",
    "notes": "guests free",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1715,
+   "name": "Build Fast, Stay Safe: Sandbox Architecture for AI Workloads",
+   "url": "https://refreshmiami.com/event/build-fast-stay-safe-sandbox-architecture-for-ai-workloads/",
+   "start": "2026-11-12T18:30:00-05:00",
+   "end": "2026-11-12T20:30:00-05:00",
+   "end_effective": "2026-11-12T20:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-12",
+   "time": "6:30–8:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-12T18:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "AWS Office Wynwood",
+   "neighborhood": "Wynwood",
+   "address": "95 NW 29th St, Miami, FL",
+   "cost": "Free",
+   "free": true,
+   "category": "talks",
+   "notes": "AWS Miami User Group; register via Meetup",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1664,
@@ -3228,7 +2682,8 @@
    "url": "https://www.eventbrite.com/e/an-evening-with-adrianne-calvo-in-conversation-with-roxanne-vargas-tickets-1998561002759",
    "start": "2026-11-12T19:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-12",
    "time": "7:00 PM",
    "multiday": false,
@@ -3242,8 +2697,9 @@
    "free": false,
    "category": "talks",
    "notes": "chef/cookbook author talk",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1665,
@@ -3252,6 +2708,7 @@
    "start": "2026-11-12T19:00:00-05:00",
    "end": "2026-11-12T21:00:00-05:00",
    "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -3265,8 +2722,9 @@
    "free": true,
    "category": "talks",
    "notes": "public talk by curator Cuauhtémoc Medina",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1666,
@@ -3275,6 +2733,7 @@
    "start": "2026-11-12T19:00:00-05:00",
    "end": "2026-11-12T21:00:00-05:00",
    "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -3288,8 +2747,9 @@
    "free": true,
    "category": "social",
    "notes": "Y2K multimedia trivia",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1644,
@@ -3298,6 +2758,7 @@
    "start": "2026-11-12T20:00:00-05:00",
    "end": "2026-11-12T21:00:00-05:00",
    "end_effective": "2026-11-12T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "8:00–9:00 PM",
    "multiday": false,
@@ -3311,8 +2772,9 @@
    "free": false,
    "category": "dance",
    "notes": "open-level salsa class",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1667,
@@ -3321,6 +2783,7 @@
    "start": "2026-11-12T20:00:00-05:00",
    "end": "2026-11-13T00:00:00-05:00",
    "end_effective": "2026-11-13T00:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "8:00 PM–12:00 AM",
    "multiday": false,
@@ -3334,8 +2797,9 @@
    "free": true,
    "category": "dance",
    "notes": "weekly vinyl salsa night",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1670,
@@ -3344,6 +2808,7 @@
    "start": "2026-11-12T20:00:00-05:00",
    "end": "2026-11-13T00:00:00-05:00",
    "end_effective": "2026-11-13T00:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "8:00 PM–12:00 AM",
    "multiday": false,
@@ -3357,8 +2822,9 @@
    "free": true,
    "category": "creative",
    "notes": "weekly open mic",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1696,
@@ -3366,7 +2832,8 @@
    "url": "https://www.miamiimprov.com/events/142675",
    "start": "2026-11-12T20:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-12T22:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-12",
    "time": "8:00 PM",
    "multiday": false,
@@ -3381,7 +2848,8 @@
    "category": "creative",
    "notes": "stand-up",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1668,
@@ -3390,6 +2858,7 @@
    "start": "2026-11-12T20:30:00-05:00",
    "end": "2026-11-13T00:00:00-05:00",
    "end_effective": "2026-11-13T00:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "8:30 PM–12:00 AM",
    "multiday": false,
@@ -3403,8 +2872,9 @@
    "free": true,
    "category": "dance",
    "notes": "weekly Latin social",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1640,
@@ -3413,6 +2883,7 @@
    "start": "2026-11-12T21:00:00-05:00",
    "end": "2026-11-12T23:00:00-05:00",
    "end_effective": "2026-11-12T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "9:00–11:00 PM",
    "multiday": false,
@@ -3426,8 +2897,9 @@
    "free": false,
    "category": "creative",
    "notes": "Thursday comedy show at a speakeasy",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1669,
@@ -3436,6 +2908,7 @@
    "start": "2026-11-12T21:00:00-05:00",
    "end": "2026-11-13T02:00:00-05:00",
    "end_effective": "2026-11-13T02:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-12",
    "time": "9:00 PM–2:00 AM",
    "multiday": false,
@@ -3449,8 +2922,9 @@
    "free": false,
    "category": "singles",
    "notes": "speed dating + nightlife social, 20s–30s",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1609,
@@ -3459,6 +2933,7 @@
    "start": "2026-11-13T10:00:00-05:00",
    "end": "2026-11-13T11:00:00-05:00",
    "end_effective": "2026-11-13T11:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "10:00–11:00 AM",
    "multiday": false,
@@ -3473,7 +2948,8 @@
    "category": "language",
    "notes": "English conversation practice",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1616,
@@ -3482,6 +2958,7 @@
    "start": "2026-11-13T10:00:00-05:00",
    "end": "2026-11-13T11:00:00-05:00",
    "end_effective": "2026-11-13T11:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "10:00–11:00 AM",
    "multiday": false,
@@ -3496,7 +2973,33 @@
    "category": "social",
    "notes": "Weekly Friday coffee tasting; standing interest",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1707,
+   "name": "Colorist Meetup Vice City 2026",
+   "url": "https://www.eventbrite.com/e/colorist-meetup-vice-city-2026-tickets-2004433773374",
+   "start": "2026-11-13T12:00:00-05:00",
+   "end": "2026-11-13T15:00:00-05:00",
+   "end_effective": "2026-11-13T15:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-13",
+   "time": "12:00–3:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-13T12:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "O Cinema South Beach",
+   "neighborhood": "South Beach",
+   "address": "1130 Washington Ave #200, Miami Beach, FL 33139",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "talks",
+   "notes": "Color-grading meetup / ASTRA Awards celebration; free and open to all",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1671,
@@ -3505,6 +3008,7 @@
    "start": "2026-11-13T13:00:00-05:00",
    "end": "2026-11-13T16:00:00-05:00",
    "end_effective": "2026-11-13T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "1:00–4:00 PM",
    "multiday": false,
@@ -3518,8 +3022,9 @@
    "free": false,
    "category": "class",
    "notes": "Counter Culture Coffee espresso class",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1626,
@@ -3528,6 +3033,7 @@
    "start": "2026-11-13T14:30:00-05:00",
    "end": "2026-11-13T16:00:00-05:00",
    "end_effective": "2026-11-13T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "2:30–4:00 PM",
    "multiday": false,
@@ -3541,8 +3047,9 @@
    "free": true,
    "category": "creative",
    "notes": "beginner/intermediate portrait drawing; 6 spots",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1627,
@@ -3551,6 +3058,7 @@
    "start": "2026-11-13T16:00:00-05:00",
    "end": "2026-11-13T17:00:00-05:00",
    "end_effective": "2026-11-13T17:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "4:00–5:00 PM",
    "multiday": false,
@@ -3564,8 +3072,9 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1628,
@@ -3574,6 +3083,7 @@
    "start": "2026-11-13T16:00:00-05:00",
    "end": "2026-11-13T17:30:00-05:00",
    "end_effective": "2026-11-13T17:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "4:00–5:30 PM",
    "multiday": false,
@@ -3587,18 +3097,20 @@
    "free": true,
    "category": "social",
    "notes": "D&D 5th Edition club; registration required; ages 12+",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1622,
    "name": "FRIDAY NIGHT KIRTAN",
    "url": "https://www.eventbrite.com/e/friday-night-kirtan-tickets-1979808228707",
    "start": "2026-11-13T18:30:00-05:00",
-   "end": "2026-11-13T21:30:00-05:00",
-   "end_effective": "2026-11-13T21:30:00-05:00",
+   "end": "2026-11-13T22:00:00-05:00",
+   "end_effective": "2026-11-13T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
-   "time": "6:30–9:30 PM",
+   "time": "6:30–10:00 PM",
    "multiday": false,
    "sort_start": "2026-11-13T18:30:00-05:00",
    "day_end": null,
@@ -3611,7 +3123,8 @@
    "category": "community",
    "notes": "Weekly Friday Night Kirtan; Sacred Vedic Arts",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1672,
@@ -3620,6 +3133,7 @@
    "start": "2026-11-13T19:00:00-05:00",
    "end": "2026-11-13T22:00:00-05:00",
    "end_effective": "2026-11-13T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -3633,8 +3147,9 @@
    "free": false,
    "category": "dance",
    "notes": "salsa & bachata classes + social",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1674,
@@ -3643,6 +3158,7 @@
    "start": "2026-11-13T19:00:00-05:00",
    "end": "2026-11-13T22:00:00-05:00",
    "end_effective": "2026-11-13T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -3656,8 +3172,9 @@
    "free": false,
    "category": "creative",
    "notes": "Miami Short Film Festival opening screening",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1676,
@@ -3665,7 +3182,8 @@
    "url": "https://www.eventbrite.com/e/restorationan-evening-with-carol-davis-in-conversation-with-rosa-lowinger-tickets-1996660105123",
    "start": "2026-11-13T19:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-13T21:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-13",
    "time": "7:00 PM",
    "multiday": false,
@@ -3679,8 +3197,9 @@
    "free": true,
    "category": "talks",
    "notes": "author talk",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1411,
@@ -3689,6 +3208,7 @@
    "start": "2026-11-13T19:30:00-05:00",
    "end": "2026-11-13T23:00:00-05:00",
    "end_effective": "2026-11-13T23:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "7:30–11:00 PM",
    "multiday": false,
@@ -3703,7 +3223,8 @@
    "category": "networking",
    "notes": "speed networking",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1419,
@@ -3711,7 +3232,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/guest-presenters/south-florida-symphony-orchestra-nov-13/",
    "start": "2026-11-13T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-13T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-13",
    "time": "7:30 PM",
    "multiday": false,
@@ -3726,7 +3248,8 @@
    "category": "creative",
    "notes": "New World Symphony Presented by South Florida Symphony Orchestra.",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1675,
@@ -3735,6 +3258,7 @@
    "start": "2026-11-13T19:30:00-05:00",
    "end": "2026-11-13T21:30:00-05:00",
    "end_effective": "2026-11-13T21:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "7:30–9:30 PM",
    "multiday": false,
@@ -3748,8 +3272,9 @@
    "free": false,
    "category": "creative",
    "notes": "annual poetry slam",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1697,
@@ -3757,7 +3282,8 @@
    "url": "https://www.miamiimprov.com/events/139264",
    "start": "2026-11-13T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-13T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-13",
    "time": "7:30 PM",
    "multiday": false,
@@ -3772,7 +3298,8 @@
    "category": "creative",
    "notes": "shows 7:30 & 10 PM",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1641,
@@ -3781,6 +3308,7 @@
    "start": "2026-11-13T20:00:00-05:00",
    "end": "2026-11-13T22:00:00-05:00",
    "end_effective": "2026-11-13T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "8:00–10:00 PM",
    "multiday": false,
@@ -3794,8 +3322,9 @@
    "free": false,
    "category": "creative",
    "notes": "weekly Friday stand-up show; $5 entry, VIP seating available",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1604,
@@ -3804,6 +3333,7 @@
    "start": "2026-11-13T21:00:00-05:00",
    "end": "2026-11-14T04:00:00-05:00",
    "end_effective": "2026-11-14T04:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "9:00 PM–4:00 AM",
    "multiday": false,
@@ -3818,7 +3348,8 @@
    "category": "dance",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1638,
@@ -3827,6 +3358,7 @@
    "start": "2026-11-13T21:00:00-05:00",
    "end": "2026-11-14T02:00:00-05:00",
    "end_effective": "2026-11-14T02:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "9:00 PM–2:00 AM",
    "multiday": false,
@@ -3840,8 +3372,9 @@
    "free": false,
    "category": "dance",
    "notes": "weekly Friday social: bachata room + Dominican room; guest artist",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1673,
@@ -3849,7 +3382,8 @@
    "url": "https://www.eventbrite.com/e/friday-night-live-tickets-2003689292612",
    "start": "2026-11-13T21:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-13T23:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-13",
    "time": "9:00 PM",
    "multiday": false,
@@ -3863,8 +3397,34 @@
    "free": false,
    "category": "creative",
    "notes": "improv comedy show",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1703,
+   "name": "SideQuest 4",
+   "url": "https://www.eventbrite.com/e/sidequest-4-tickets-2003388494918",
+   "start": "2026-11-13T21:30:00-05:00",
+   "end": "2026-11-13T23:30:00-05:00",
+   "end_effective": "2026-11-13T23:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-13",
+   "time": "9:30–11:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-13T21:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Just The Funny",
+   "neighborhood": "Coral Way",
+   "address": "3119 Coral Way #2, Miami, FL 33145",
+   "cost": "Free–$37.45",
+   "free": true,
+   "category": "creative",
+   "notes": "Improv comedy show inspired by dungeon crawling; ages 14+",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1642,
@@ -3873,6 +3433,7 @@
    "start": "2026-11-13T22:00:00-05:00",
    "end": "2026-11-13T23:30:00-05:00",
    "end_effective": "2026-11-13T23:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-13",
    "time": "10:00–11:30 PM",
    "multiday": false,
@@ -3886,8 +3447,9 @@
    "free": false,
    "category": "creative",
    "notes": "late-night Friday stand-up; $5 entry",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1685,
@@ -3896,6 +3458,7 @@
    "start": "2026-11-14T08:00:00-05:00",
    "end": "2026-11-14T09:30:00-05:00",
    "end_effective": "2026-11-14T09:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "8:00–9:30 AM",
    "multiday": false,
@@ -3909,8 +3472,9 @@
    "free": true,
    "category": "toastmasters",
    "notes": "hybrid Toastmasters meeting",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1114,
@@ -3919,6 +3483,7 @@
    "start": "2026-11-14T09:30:00-05:00",
    "end": "2026-11-14T17:00:00-05:00",
    "end_effective": "2026-11-14T17:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "9:30 AM–5:00 PM",
    "multiday": false,
@@ -3933,7 +3498,8 @@
    "category": "talks",
    "notes": "Claude Community build day for marketers; registration needs approval",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1677,
@@ -3942,6 +3508,7 @@
    "start": "2026-11-14T09:30:00-05:00",
    "end": "2026-11-14T12:30:00-05:00",
    "end_effective": "2026-11-14T12:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "9:30 AM–12:30 PM",
    "multiday": false,
@@ -3955,8 +3522,9 @@
    "free": true,
    "category": "volunteering",
    "notes": "habitat restoration volunteer day",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1678,
@@ -3965,6 +3533,7 @@
    "start": "2026-11-14T10:00:00-05:00",
    "end": "2026-11-14T18:00:00-05:00",
    "end_effective": "2026-11-14T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "10:00 AM–6:00 PM",
    "multiday": false,
@@ -3978,8 +3547,9 @@
    "free": true,
    "category": "community",
    "notes": "arts festival, 60+ artists",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1681,
@@ -3987,7 +3557,8 @@
    "url": "https://www.eventbrite.com/e/coral-gables-historical-architectural-walking-tour-tickets-2004342765166",
    "start": "2026-11-14T10:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-14T12:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-14",
    "time": "10:00 AM",
    "multiday": false,
@@ -4001,8 +3572,9 @@
    "free": false,
    "category": "outdoor",
    "notes": "architecture walking tour",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1629,
@@ -4011,6 +3583,7 @@
    "start": "2026-11-14T10:30:00-05:00",
    "end": "2026-11-14T12:00:00-05:00",
    "end_effective": "2026-11-14T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "10:30 AM–12:00 PM",
    "multiday": false,
@@ -4024,8 +3597,9 @@
    "free": true,
    "category": "creative",
    "notes": "writing workshop (fiction/non-fiction) with author Elaine B. Johnson; adults",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1634,
@@ -4034,6 +3608,7 @@
    "start": "2026-11-14T10:30:00-05:00",
    "end": "2026-11-14T12:30:00-05:00",
    "end_effective": "2026-11-14T12:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "10:30 AM–12:30 PM",
    "multiday": false,
@@ -4047,8 +3622,9 @@
    "free": true,
    "category": "books",
    "notes": "19th-century classics",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1610,
@@ -4057,6 +3633,7 @@
    "start": "2026-11-14T11:00:00-05:00",
    "end": "2026-11-14T12:00:00-05:00",
    "end_effective": "2026-11-14T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "11:00 AM–12:00 PM",
    "multiday": false,
@@ -4071,7 +3648,8 @@
    "category": "language",
    "notes": "English conversation practice; native speakers welcome (series)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1682,
@@ -4080,6 +3658,7 @@
    "start": "2026-11-14T11:00:00-05:00",
    "end": "2026-11-14T13:00:00-05:00",
    "end_effective": "2026-11-14T13:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "11:00 AM–1:00 PM",
    "multiday": false,
@@ -4093,8 +3672,9 @@
    "free": true,
    "category": "social",
    "notes": "creative meetup over coffee",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1683,
@@ -4103,6 +3683,7 @@
    "start": "2026-11-14T11:00:00-05:00",
    "end": "2026-11-14T17:00:00-05:00",
    "end_effective": "2026-11-14T17:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "11:00 AM–5:00 PM",
    "multiday": false,
@@ -4116,8 +3697,9 @@
    "free": false,
    "category": "class",
    "notes": "6-hour AI-to-3D-print workshop",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1346,
@@ -4126,6 +3708,7 @@
    "start": "2026-11-14T12:00:00-05:00",
    "end": "2026-11-14T21:00:00-05:00",
    "end_effective": "2026-11-14T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "12:00–9:00 PM",
    "multiday": false,
@@ -4140,7 +3723,8 @@
    "category": "social",
    "notes": "Dear Eleanor; Give Miami Day bake sale + decades dance party; 21+",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1679,
@@ -4149,6 +3733,7 @@
    "start": "2026-11-14T12:00:00-05:00",
    "end": "2026-11-14T21:00:00-05:00",
    "end_effective": "2026-11-14T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "12:00–9:00 PM",
    "multiday": false,
@@ -4162,8 +3747,9 @@
    "free": true,
    "category": "community",
    "notes": "Peruvian food & culture festival",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1680,
@@ -4172,6 +3758,7 @@
    "start": "2026-11-14T12:00:00-05:00",
    "end": "2026-11-14T18:00:00-05:00",
    "end_effective": "2026-11-14T18:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "12:00–6:00 PM",
    "multiday": false,
@@ -4185,8 +3772,9 @@
    "free": true,
    "category": "community",
    "notes": "free family block party",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1630,
@@ -4195,6 +3783,7 @@
    "start": "2026-11-14T13:00:00-05:00",
    "end": "2026-11-14T15:00:00-05:00",
    "end_effective": "2026-11-14T15:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "1:00–3:00 PM",
    "multiday": false,
@@ -4208,8 +3797,9 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1631,
@@ -4218,6 +3808,7 @@
    "start": "2026-11-14T13:00:00-05:00",
    "end": "2026-11-14T15:00:00-05:00",
    "end_effective": "2026-11-14T15:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "1:00–3:00 PM",
    "multiday": false,
@@ -4231,8 +3822,9 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1633,
@@ -4241,6 +3833,7 @@
    "start": "2026-11-14T13:00:00-05:00",
    "end": "2026-11-14T14:30:00-05:00",
    "end_effective": "2026-11-14T14:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "1:00–2:30 PM",
    "multiday": false,
@@ -4254,8 +3847,9 @@
    "free": true,
    "category": "language",
    "notes": "free Haitian Creole class",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1632,
@@ -4264,6 +3858,7 @@
    "start": "2026-11-14T14:00:00-05:00",
    "end": "2026-11-14T17:00:00-05:00",
    "end_effective": "2026-11-14T17:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "2:00–5:00 PM",
    "multiday": false,
@@ -4277,8 +3872,9 @@
    "free": true,
    "category": "chess",
    "notes": null,
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1686,
@@ -4287,6 +3883,7 @@
    "start": "2026-11-14T14:00:00-05:00",
    "end": "2026-11-14T16:00:00-05:00",
    "end_effective": "2026-11-14T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "2:00–4:00 PM",
    "multiday": false,
@@ -4300,8 +3897,9 @@
    "free": false,
    "category": "singles",
    "notes": "speed dating, ages 24–39",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1684,
@@ -4310,6 +3908,7 @@
    "start": "2026-11-14T14:30:00-05:00",
    "end": "2026-11-14T16:30:00-05:00",
    "end_effective": "2026-11-14T16:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "2:30–4:30 PM",
    "multiday": false,
@@ -4322,9 +3921,10 @@
    "cost": "Free (RSVP)",
    "free": true,
    "category": "toastmasters",
-   "notes": "Toastmasters special event on human skills",
-   "is_new": true,
-   "maybe_sold_out": false
+   "notes": "Eventbrite shows Sold out (Nov 9 check)",
+   "is_new": false,
+   "maybe_sold_out": true,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1637,
@@ -4333,6 +3933,7 @@
    "start": "2026-11-14T15:00:00-05:00",
    "end": "2026-11-14T17:00:00-05:00",
    "end_effective": "2026-11-14T17:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "3:00–5:00 PM",
    "multiday": false,
@@ -4346,8 +3947,9 @@
    "free": true,
    "category": "language",
    "notes": "informal Portuguese conversation meetup",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1635,
@@ -4356,6 +3958,7 @@
    "start": "2026-11-14T15:30:00-05:00",
    "end": "2026-11-14T17:00:00-05:00",
    "end_effective": "2026-11-14T17:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "3:30–5:00 PM",
    "multiday": false,
@@ -4369,8 +3972,34 @@
    "free": true,
    "category": "photowalk",
    "notes": "guided library photo walk; DSLRs available first-come or bring your own; no experience needed",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1699,
+   "name": "Saturday Salsa Dance Classes",
+   "url": "https://www.eventbrite.com/e/saturday-salsa-dance-classes-tickets-1982909532791",
+   "start": "2026-11-14T16:00:00-05:00",
+   "end": "2026-11-14T17:30:00-05:00",
+   "end_effective": "2026-11-14T17:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-14",
+   "time": "4:00–5:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-14T16:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "MIAMI BAILA CALLE 8",
+   "neighborhood": "Little Havana",
+   "address": "760 SW 10th Ave, Miami, FL 33130",
+   "cost": "$22",
+   "free": false,
+   "category": "dance",
+   "notes": "Salsa On1 style class, 4:00–5:30 PM",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1693,
@@ -4379,6 +4008,7 @@
    "start": "2026-11-14T16:30:00-05:00",
    "end": "2026-11-14T20:00:00-05:00",
    "end_effective": "2026-11-14T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "4:30–8:00 PM",
    "multiday": false,
@@ -4392,8 +4022,9 @@
    "free": false,
    "category": "social",
    "notes": "FIU Hospitality craft beer festival",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1687,
@@ -4402,6 +4033,7 @@
    "start": "2026-11-14T17:00:00-05:00",
    "end": "2026-11-14T19:00:00-05:00",
    "end_effective": "2026-11-14T19:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "5:00–7:00 PM",
    "multiday": false,
@@ -4415,8 +4047,9 @@
    "free": false,
    "category": "singles",
    "notes": "speed dating, ages 25–39",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1371,
@@ -4425,6 +4058,7 @@
    "start": "2026-11-14T17:30:00-05:00",
    "end": "2026-11-14T19:30:00-05:00",
    "end_effective": "2026-11-14T19:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "5:30–7:30 PM",
    "multiday": false,
@@ -4439,7 +4073,8 @@
    "category": "books",
    "notes": "discussing Stephen King's Gerald's Game; postponed from Nov 7 to Nov 14 per organizer",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1692,
@@ -4448,6 +4083,7 @@
    "start": "2026-11-14T19:00:00-05:00",
    "end": "2026-11-14T21:00:00-05:00",
    "end_effective": "2026-11-14T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -4461,8 +4097,9 @@
    "free": true,
    "category": "talks",
    "notes": "Miami funk & soul history talk + release party",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1698,
@@ -4470,7 +4107,8 @@
    "url": "https://www.miamiimprov.com/events/139264?date=2026-11-14",
    "start": "2026-11-14T19:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-14T21:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-14",
    "time": "7:00 PM",
    "multiday": false,
@@ -4485,7 +4123,8 @@
    "category": "creative",
    "notes": "shows 7 & 9:30 PM",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1420,
@@ -4493,7 +4132,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/mozarts-requiem/",
    "start": "2026-11-14T20:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-14T22:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-14",
    "time": "8:00 PM",
    "multiday": false,
@@ -4508,7 +4148,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1596,
@@ -4517,6 +4158,7 @@
    "start": "2026-11-14T20:00:00-05:00",
    "end": "2026-11-14T22:00:00-05:00",
    "end_effective": "2026-11-14T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "8:00–10:00 PM",
    "multiday": false,
@@ -4531,7 +4173,8 @@
    "category": "creative",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1688,
@@ -4540,6 +4183,7 @@
    "start": "2026-11-14T20:00:00-05:00",
    "end": "2026-11-14T22:00:00-05:00",
    "end_effective": "2026-11-14T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "8:00–10:00 PM",
    "multiday": false,
@@ -4553,8 +4197,9 @@
    "free": true,
    "category": "creative",
    "notes": "open mic at a bookstore",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1690,
@@ -4563,6 +4208,7 @@
    "start": "2026-11-14T20:30:00-05:00",
    "end": "2026-11-14T22:00:00-05:00",
    "end_effective": "2026-11-14T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "8:30–10:00 PM",
    "multiday": false,
@@ -4576,8 +4222,9 @@
    "free": false,
    "category": "creative",
    "notes": "Villain Theater Saturday improv",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1639,
@@ -4586,6 +4233,7 @@
    "start": "2026-11-14T21:00:00-05:00",
    "end": "2026-11-14T22:30:00-05:00",
    "end_effective": "2026-11-14T22:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "9:00–10:30 PM",
    "multiday": false,
@@ -4599,8 +4247,9 @@
    "free": false,
    "category": "creative",
    "notes": "Saturday stand-up; guaranteed seating via Eventbrite RSVP",
-   "is_new": true,
-   "maybe_sold_out": false
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1689,
@@ -4608,7 +4257,8 @@
    "url": "https://www.eventbrite.com/e/the-big-show-tickets-2003689532329",
    "start": "2026-11-14T21:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-14T23:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-14",
    "time": "9:00 PM",
    "multiday": false,
@@ -4622,8 +4272,34 @@
    "free": false,
    "category": "creative",
    "notes": "improv comedy show",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1704,
+   "name": "Stand Up Miami: Karaoke Edition",
+   "url": "https://www.eventbrite.com/e/stand-up-miami-karaoke-edition-tickets-2004412671257",
+   "start": "2026-11-14T21:30:00-05:00",
+   "end": "2026-11-14T23:00:00-05:00",
+   "end_effective": "2026-11-14T23:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-14",
+   "time": "9:30–11:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-14T21:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Just The Funny",
+   "neighborhood": "Coral Way",
+   "address": "3119 Coral Way #2, Miami, FL 33145",
+   "cost": "$19.10–$24.80",
+   "free": false,
+   "category": "creative",
+   "notes": "Stand-up comedy meets karaoke",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1691,
@@ -4632,6 +4308,7 @@
    "start": "2026-11-14T22:00:00-05:00",
    "end": "2026-11-15T03:00:00-05:00",
    "end_effective": "2026-11-15T03:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-14",
    "time": "10:00 PM–3:00 AM",
    "multiday": false,
@@ -4645,8 +4322,34 @@
    "free": true,
    "category": "dance",
    "notes": "free salsa classes + after party with RSVP",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1709,
+   "name": "HIIT & RUN Workout at The Underline",
+   "url": "https://www.eventbrite.com/e/hiit-run-workout-at-the-underline-tickets-2003410957103",
+   "start": "2026-11-15T10:30:00-05:00",
+   "end": "2026-11-15T11:30:00-05:00",
+   "end_effective": "2026-11-15T11:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-15",
+   "time": "10:30–11:30 AM",
+   "multiday": false,
+   "sort_start": "2026-11-15T10:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The Underline Urban Gym",
+   "neighborhood": "Brickell",
+   "address": "700 SW 1st Ave, Miami, FL 33130",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "outdoor",
+   "notes": "Free community workout powered by Baptist Health South Florida",
    "is_new": true,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 456,
@@ -4655,6 +4358,7 @@
    "start": "2026-11-15T13:00:00-05:00",
    "end": "2026-11-15T20:00:00-05:00",
    "end_effective": "2026-11-15T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-15",
    "time": "1:00–8:00 PM",
    "multiday": false,
@@ -4669,7 +4373,108 @@
    "category": "dance",
    "notes": "daytime rooftop bachata, salsa & típico party; Eventbrite now lists Sun Nov 15 (was Oct 18), tickets on sale from Nov 15 (checked Oct 18)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1710,
+   "name": "MOAD Music Featuring Clave Y Cuba and Carne Viva",
+   "url": "https://www.eventbrite.com/e/moad-music-featuring-clave-y-cuba-and-carne-viva-tickets-2003986467470",
+   "start": "2026-11-15T13:00:00-05:00",
+   "end": "2026-11-15T15:00:00-05:00",
+   "end_effective": "2026-11-15T15:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-15",
+   "time": "1:00–3:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-15T13:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Museum of Art and Design at MDC Freedom Tower",
+   "neighborhood": "Downtown Miami",
+   "address": "600 Biscayne Blvd, Miami, FL 33132",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "creative",
+   "notes": "Afro-Cuban music and dance; Eventbrite ticket area shows Sold out (may still have walk-up/waitlist - check)",
+   "is_new": true,
+   "maybe_sold_out": true,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1712,
+   "name": "Photowalk Riverwalk East",
+   "url": "https://www.meetup.com/street-photography-miami-beach/events/317049320/",
+   "start": "2026-11-15T16:00:00-05:00",
+   "end": "2026-11-15T19:00:00-05:00",
+   "end_effective": "2026-11-15T19:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-15",
+   "time": "4:00–7:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-15T16:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Fort Dallas Park",
+   "neighborhood": "Downtown Miami",
+   "address": "64 SE 4th St, Miami, FL 33131",
+   "cost": "Free (no fee listed)",
+   "free": true,
+   "category": "photowalk",
+   "notes": "Street Photography - Miami Beach group; ~1-mile Miami River/Bayfront Park route, meet 4 PM",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1706,
+   "name": "Lil Duval",
+   "url": "https://www.miamiimprov.com/events/139264?date=2026-11-15",
+   "start": "2026-11-15T19:00:00-05:00",
+   "end": null,
+   "end_effective": null,
+   "end_known": false,
+   "date": "2026-11-15",
+   "time": "7:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-15T19:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Miami Improv",
+   "neighborhood": "Doral",
+   "address": "3450 NW 83rd Ave, Suite 224, Doral, FL 33122",
+   "cost": "See event page",
+   "free": false,
+   "category": "creative",
+   "notes": "Sun 7:00 PM show per Miami Improv page (also Fri/Sat shows); end time not listed",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1705,
+   "name": "Master Debaters Comedy Show",
+   "url": "https://www.eventbrite.com/e/master-debaters-comedy-show-tickets-1985668005457",
+   "start": "2026-11-15T20:00:00-05:00",
+   "end": "2026-11-15T22:00:00-05:00",
+   "end_effective": "2026-11-15T22:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-15",
+   "time": "8:00–10:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-15T20:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Bougainvillea's Old Florida Tavern",
+   "neighborhood": "South Miami",
+   "address": "7221 SW 58th Ave, South Miami, FL 33143",
+   "cost": "$7.68",
+   "free": false,
+   "category": "creative",
+   "notes": null,
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-09T08:07:44-05:00"
   },
   {
    "id": 1471,
@@ -4678,6 +4483,7 @@
    "start": "2026-11-16T15:00:00-05:00",
    "end": "2026-11-16T16:00:00-05:00",
    "end_effective": "2026-11-16T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-16",
    "time": "3:00–4:00 PM",
    "multiday": false,
@@ -4692,7 +4498,8 @@
    "category": "creative",
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-01T08:10:05-05:00"
   },
   {
    "id": 1414,
@@ -4701,6 +4508,7 @@
    "start": "2026-11-16T19:00:00-05:00",
    "end": "2026-11-16T22:00:00-05:00",
    "end_effective": "2026-11-16T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-16",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -4715,7 +4523,8 @@
    "category": "creative",
    "notes": "poetry open mic",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T08:02:14-04:00"
   },
   {
    "id": 1611,
@@ -4724,6 +4533,7 @@
    "start": "2026-11-17T10:00:00-05:00",
    "end": "2026-11-17T11:00:00-05:00",
    "end_effective": "2026-11-17T11:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-17",
    "time": "10:00–11:00 AM",
    "multiday": false,
@@ -4738,7 +4548,8 @@
    "category": "language",
    "notes": "English conversation practice; native speakers welcome (series)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-05T08:10:12-05:00"
   },
   {
    "id": 1612,
@@ -4747,6 +4558,7 @@
    "start": "2026-11-17T11:00:00-05:00",
    "end": "2026-11-17T12:00:00-05:00",
    "end_effective": "2026-11-17T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-17",
    "time": "11:00 AM–12:00 PM",
    "multiday": false,
@@ -4761,7 +4573,8 @@
    "category": "language",
    "notes": "English conversation practice",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-05T08:10:12-05:00"
   },
   {
    "id": 1421,
@@ -4769,7 +4582,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/tunes-and-tales/",
    "start": "2026-11-17T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-17T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-17",
    "time": "7:30 PM",
    "multiday": false,
@@ -4784,7 +4598,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-05T08:10:24-05:00"
   },
   {
    "id": 1613,
@@ -4793,6 +4608,7 @@
    "start": "2026-11-18T12:00:00-05:00",
    "end": "2026-11-18T13:00:00-05:00",
    "end_effective": "2026-11-18T13:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "12:00–1:00 PM",
    "multiday": false,
@@ -4807,7 +4623,8 @@
    "category": "language",
    "notes": "English conversation practice; native speakers welcome (series)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-05T08:10:12-05:00"
   },
   {
    "id": 1472,
@@ -4816,6 +4633,7 @@
    "start": "2026-11-18T15:00:00-05:00",
    "end": "2026-11-18T16:00:00-05:00",
    "end_effective": "2026-11-18T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "3:00–4:00 PM",
    "multiday": false,
@@ -4830,7 +4648,8 @@
    "category": "creative",
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-01T08:10:05-05:00"
   },
   {
    "id": 1352,
@@ -4839,6 +4658,7 @@
    "start": "2026-11-18T18:00:00-05:00",
    "end": "2026-11-18T20:00:00-05:00",
    "end_effective": "2026-11-18T20:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "6:00–8:00 PM",
    "multiday": false,
@@ -4853,7 +4673,8 @@
    "category": "networking",
    "notes": "Speed Networkers (~14 mi)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 362,
@@ -4862,6 +4683,7 @@
    "start": "2026-11-18T18:30:00-05:00",
    "end": "2026-11-18T20:15:00-05:00",
    "end_effective": "2026-11-18T20:15:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "6:30–8:15 PM",
    "multiday": false,
@@ -4876,7 +4698,8 @@
    "category": "social",
    "notes": "Check-in 6:30 PM, stretch 6:45, walk 7:00 PM; ~2-mile social walk with speed friending.",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-09T11:45:00-04:00"
   },
   {
    "id": 1348,
@@ -4885,6 +4708,7 @@
    "start": "2026-11-18T18:30:00-05:00",
    "end": "2026-11-18T20:30:00-05:00",
    "end_effective": "2026-11-18T20:30:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "6:30–8:30 PM",
    "multiday": false,
@@ -4899,7 +4723,8 @@
    "category": "outdoor",
    "notes": "Amigos Meet monthly walk club",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 1268,
@@ -4908,6 +4733,7 @@
    "start": "2026-11-18T19:00:00-05:00",
    "end": "2026-11-18T22:00:00-05:00",
    "end_effective": "2026-11-18T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -4922,7 +4748,8 @@
    "category": "language",
    "notes": "rooftop language exchange; Meetup moved this from Nov 4 to Nov 18",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-03T08:01:50-05:00"
   },
   {
    "id": 1349,
@@ -4931,6 +4758,7 @@
    "start": "2026-11-18T19:00:00-05:00",
    "end": "2026-11-18T22:00:00-05:00",
    "end_effective": "2026-11-18T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "7:00–10:00 PM",
    "multiday": false,
@@ -4945,7 +4773,8 @@
    "category": "singles",
    "notes": "singles mixer",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 1621,
@@ -4954,6 +4783,7 @@
    "start": "2026-11-18T19:00:00-05:00",
    "end": "2026-11-18T21:00:00-05:00",
    "end_effective": "2026-11-18T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-18",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -4968,7 +4798,8 @@
    "category": "networking",
    "notes": "At The Sagamore / WATER LION; Miami Beach",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-06T08:08:41-05:00"
   },
   {
    "id": 556,
@@ -4977,6 +4808,7 @@
    "start": "2026-11-19T18:00:00-05:00",
    "end": "2026-11-19T21:00:00-05:00",
    "end_effective": "2026-11-19T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-19",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -4991,7 +4823,8 @@
    "category": "creative",
    "notes": "Self-guided gallery walk (Oolite Arts, FIU Urban Studios, more); Culture Crawl night",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-14T10:37:36-04:00"
   },
   {
    "id": 788,
@@ -5000,6 +4833,7 @@
    "start": "2026-11-19T18:00:00-05:00",
    "end": "2026-11-19T21:00:00-05:00",
    "end_effective": "2026-11-19T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-19",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -5014,7 +4848,8 @@
    "category": "creative",
    "notes": "Culture Crawl (third Thursday) program",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-05T08:10:24-05:00"
   },
   {
    "id": 1617,
@@ -5023,6 +4858,7 @@
    "start": "2026-11-20T10:00:00-05:00",
    "end": "2026-11-20T11:00:00-05:00",
    "end_effective": "2026-11-20T11:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-20",
    "time": "10:00–11:00 AM",
    "multiday": false,
@@ -5037,7 +4873,8 @@
    "category": "social",
    "notes": "Weekly Friday coffee tasting; standing interest",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-06T08:08:41-05:00"
   },
   {
    "id": 1347,
@@ -5046,6 +4883,7 @@
    "start": "2026-11-20T18:00:00-05:00",
    "end": "2026-11-20T21:00:00-05:00",
    "end_effective": "2026-11-20T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-20",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -5060,7 +4898,8 @@
    "category": "talks",
    "notes": "Bakehouse architecture debate",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 1422,
@@ -5068,7 +4907,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/deneve-prokofievs-violin/",
    "start": "2026-11-21T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-21T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-21",
    "time": "7:30 PM",
    "multiday": false,
@@ -5083,7 +4923,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1423,
@@ -5091,7 +4932,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/wallcast-concerts/wallcast-concert-den%C3%A8ve-prokofievs-violin/",
    "start": "2026-11-21T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-11-21T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-21",
    "time": "7:30 PM",
    "multiday": false,
@@ -5106,7 +4948,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 593,
@@ -5115,6 +4958,7 @@
    "start": "2026-11-21T20:30:00-05:00",
    "end": "2026-11-22T02:00:00-05:00",
    "end_effective": "2026-11-22T02:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-21",
    "time": "8:30 PM–2:00 AM",
    "multiday": false,
@@ -5129,7 +4973,8 @@
    "category": "dance",
    "notes": "Amigos Meet x Sway & Sip x Tinder; optional speed friending, beginner salsa class, then salsa/bachata DJ",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-15T08:14:06-04:00"
   },
   {
    "id": 1446,
@@ -5138,6 +4983,7 @@
    "start": "2026-11-22T11:30:00-05:00",
    "end": "2026-11-22T15:00:00-05:00",
    "end_effective": "2026-11-22T15:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-22",
    "time": "11:30 AM–3:00 PM",
    "multiday": false,
@@ -5152,7 +4998,8 @@
    "category": "volunteering",
    "notes": "walk shelter dogs at Miami-Dade Animal Shelter (~12 mi)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-08T08:02:29-05:00"
   },
   {
    "id": 1431,
@@ -5160,7 +5007,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/deneve-prokofievs-violin/",
    "start": "2026-11-22T14:00:00-05:00",
    "end": null,
-   "end_effective": "2026-11-22T16:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-11-22",
    "time": "2:00 PM",
    "multiday": false,
@@ -5175,7 +5023,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1473,
@@ -5184,6 +5033,7 @@
    "start": "2026-11-23T15:00:00-05:00",
    "end": "2026-11-23T16:00:00-05:00",
    "end_effective": "2026-11-23T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-23",
    "time": "3:00–4:00 PM",
    "multiday": false,
@@ -5198,7 +5048,8 @@
    "category": "creative",
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-01T08:10:05-05:00"
   },
   {
    "id": 1351,
@@ -5207,6 +5058,7 @@
    "start": "2026-11-23T18:00:00-05:00",
    "end": "2026-11-23T22:00:00-05:00",
    "end_effective": "2026-11-23T22:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-23",
    "time": "6:00–10:00 PM",
    "multiday": false,
@@ -5221,7 +5073,8 @@
    "category": "social",
    "notes": "rooftop game night: mahjong, dominoes, Rummikub",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 1474,
@@ -5230,6 +5083,7 @@
    "start": "2026-11-25T15:00:00-05:00",
    "end": "2026-11-25T16:00:00-05:00",
    "end_effective": "2026-11-25T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-25",
    "time": "3:00–4:00 PM",
    "multiday": false,
@@ -5244,7 +5098,8 @@
    "category": "creative",
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-01T08:10:05-05:00"
   },
   {
    "id": 1618,
@@ -5253,6 +5108,7 @@
    "start": "2026-11-27T10:00:00-05:00",
    "end": "2026-11-27T11:00:00-05:00",
    "end_effective": "2026-11-27T11:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-27",
    "time": "10:00–11:00 AM",
    "multiday": false,
@@ -5267,7 +5123,8 @@
    "category": "social",
    "notes": "Weekly Friday coffee tasting; standing interest",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-06T08:07:02-05:00"
   },
   {
    "id": 1475,
@@ -5276,6 +5133,7 @@
    "start": "2026-11-30T15:00:00-05:00",
    "end": "2026-11-30T16:00:00-05:00",
    "end_effective": "2026-11-30T16:00:00-05:00",
+   "end_known": true,
    "date": "2026-11-30",
    "time": "3:00–4:00 PM",
    "multiday": false,
@@ -5290,7 +5148,8 @@
    "category": "creative",
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-01T08:10:05-05:00"
   },
   {
    "id": 396,
@@ -5299,6 +5158,7 @@
    "start": "2026-12-03T09:00:00-05:00",
    "end": "2026-12-03T12:00:00-05:00",
    "end_effective": "2026-12-03T12:00:00-05:00",
+   "end_known": true,
    "date": "2026-12-03",
    "time": "9:00 AM–12:00 PM",
    "multiday": false,
@@ -5313,7 +5173,8 @@
    "category": "creative",
    "notes": "Bakehouse open studios (Miami Art Week)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 1011,
@@ -5322,6 +5183,7 @@
    "start": "2026-12-03T19:00:00-05:00",
    "end": "2026-12-03T21:00:00-05:00",
    "end_effective": "2026-12-03T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-12-03",
    "time": "7:00–9:00 PM",
    "multiday": false,
@@ -5336,7 +5198,8 @@
    "category": "networking",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-27T07:58:46-04:00"
   },
   {
    "id": 1619,
@@ -5345,6 +5208,7 @@
    "start": "2026-12-04T10:00:00-05:00",
    "end": "2026-12-04T11:00:00-05:00",
    "end_effective": "2026-12-04T11:00:00-05:00",
+   "end_known": true,
    "date": "2026-12-04",
    "time": "10:00–11:00 AM",
    "multiday": false,
@@ -5359,7 +5223,8 @@
    "category": "social",
    "notes": "Weekly Friday coffee tasting; standing interest",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-06T08:07:02-05:00"
   },
   {
    "id": 1605,
@@ -5368,6 +5233,7 @@
    "start": "2026-12-07T13:00:00-05:00",
    "end": "2026-12-07T14:00:00-05:00",
    "end_effective": "2026-12-07T14:00:00-05:00",
+   "end_known": true,
    "date": "2026-12-07",
    "time": "1:00–2:00 PM",
    "multiday": false,
@@ -5382,7 +5248,8 @@
    "category": "social",
    "notes": "Monthly coffee cupping; taste Counter Culture menu",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-05T08:10:12-05:00"
   },
   {
    "id": 1424,
@@ -5390,7 +5257,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/deneve-brahms-3/",
    "start": "2026-12-12T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-12-12T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-12",
    "time": "7:30 PM",
    "multiday": false,
@@ -5405,7 +5273,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1425,
@@ -5413,7 +5282,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/wallcast-concerts/wallcast-concert-den%C3%A8ve-brahms-3/",
    "start": "2026-12-12T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-12-12T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-12",
    "time": "7:30 PM",
    "multiday": false,
@@ -5428,7 +5298,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1432,
@@ -5436,7 +5307,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/deneve-brahms-3/",
    "start": "2026-12-13T14:00:00-05:00",
    "end": null,
-   "end_effective": "2026-12-13T16:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-13",
    "time": "2:00 PM",
    "multiday": false,
@@ -5451,7 +5323,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1426,
@@ -5459,7 +5332,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/notes-on-being/",
    "start": "2026-12-15T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-12-15T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-15",
    "time": "7:30 PM",
    "multiday": false,
@@ -5474,7 +5348,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 557,
@@ -5483,6 +5358,7 @@
    "start": "2026-12-17T18:00:00-05:00",
    "end": "2026-12-17T21:00:00-05:00",
    "end_effective": "2026-12-17T21:00:00-05:00",
+   "end_known": true,
    "date": "2026-12-17",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -5497,7 +5373,8 @@
    "category": "creative",
    "notes": "Self-guided gallery walk (Oolite Arts, FIU Urban Studios, more); Culture Crawl night",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-14T10:37:36-04:00"
   },
   {
    "id": 1350,
@@ -5506,6 +5383,7 @@
    "start": "2026-12-18T19:30:00-05:00",
    "end": "2026-12-18T21:30:00-05:00",
    "end_effective": "2026-12-18T21:30:00-05:00",
+   "end_known": true,
    "date": "2026-12-18",
    "time": "7:30–9:30 PM",
    "multiday": false,
@@ -5520,7 +5398,8 @@
    "category": "creative",
    "notes": "storytelling competition",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-30T08:00:07-04:00"
   },
   {
    "id": 1427,
@@ -5528,7 +5407,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/sounds-of-the-season-cmb/",
    "start": "2026-12-18T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-12-18T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-18",
    "time": "7:30 PM",
    "multiday": false,
@@ -5543,7 +5423,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1428,
@@ -5551,7 +5432,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/sounds-of-the-season/",
    "start": "2026-12-19T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-12-19T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-19",
    "time": "7:30 PM",
    "multiday": false,
@@ -5566,7 +5448,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1429,
@@ -5574,7 +5457,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/wallcast-concerts/wallcast-concert-sounds-of-the-season/",
    "start": "2026-12-19T19:30:00-05:00",
    "end": null,
-   "end_effective": "2026-12-19T21:30:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-19",
    "time": "7:30 PM",
    "multiday": false,
@@ -5589,7 +5473,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1430,
@@ -5597,7 +5482,8 @@
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/remembering-mtt/",
    "start": "2026-12-20T14:00:00-05:00",
    "end": null,
-   "end_effective": "2026-12-20T16:00:00-05:00",
+   "end_effective": null,
+   "end_known": false,
    "date": "2026-12-20",
    "time": "2:00 PM",
    "multiday": false,
@@ -5612,7 +5498,8 @@
    "category": "creative",
    "notes": "New World Symphony",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-31T21:50:59-04:00"
   },
   {
    "id": 1024,
@@ -5621,6 +5508,7 @@
    "start": "2027-01-28T18:00:00-05:00",
    "end": "2027-01-28T21:00:00-05:00",
    "end_effective": "2027-01-28T21:00:00-05:00",
+   "end_known": true,
    "date": "2027-01-28",
    "time": "6:00–9:00 PM",
    "multiday": false,
@@ -5635,7 +5523,8 @@
    "category": "networking",
    "notes": "paid event; tickets via link on Meetup page",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-27T07:58:47-04:00"
   },
   {
    "id": 1079,
@@ -5644,6 +5533,7 @@
    "start": "2027-01-28T18:00:00-05:00",
    "end": "2027-01-28T20:00:00-05:00",
    "end_effective": "2027-01-28T20:00:00-05:00",
+   "end_known": true,
    "date": "2027-01-28",
    "time": "6:00–8:00 PM",
    "multiday": false,
@@ -5658,7 +5548,8 @@
    "category": "networking",
    "notes": null,
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-27T07:58:47-04:00"
   },
   {
    "id": 942,
@@ -5667,6 +5558,7 @@
    "start": "2027-02-18T19:30:00-05:00",
    "end": "2027-02-18T21:30:00-05:00",
    "end_effective": "2027-02-18T21:30:00-05:00",
+   "end_known": true,
    "date": "2027-02-18",
    "time": "7:30–9:30 PM",
    "multiday": false,
@@ -5681,7 +5573,8 @@
    "category": "talks",
    "notes": "cookbook author Chef Jake Cohen: cooking demo, tasting and conversation (MBJCC lists Thu, Feb 18)",
    "is_new": false,
-   "maybe_sold_out": false
+   "maybe_sold_out": false,
+   "last_verified": "2026-10-20T08:17:04-04:00"
   }
  ]
 }

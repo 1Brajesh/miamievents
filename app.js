@@ -2,7 +2,7 @@
   var q=document.getElementById('q'), free=document.getElementById('freeonly');
   var chips=[].slice.call(document.querySelectorAll('.chip'));
   var active='all';
-  /* TODAY: events that have ended (data-end = end, or start + 2h) move into the gray "Ended earlier today" block */
+  /* TODAY: events with a known data-end that has passed move into "Ended earlier today"; no data-end = uncertain, stay live */
   var blk=document.getElementById('ended'), endedUl=blk&&blk.querySelector('ul'), todayUl=document.getElementById('todaylist');
   var hd=blk&&blk.querySelector('.endedhd'), act=blk&&blk.querySelector('.endedact'), cnt=blk&&blk.querySelector('.endedn');
   function setOpen(open){
@@ -19,7 +19,7 @@
     var items=[].slice.call(document.querySelectorAll('#today li.ev'));
     items.sort(function(a,b){return a.dataset.i-b.dataset.i;});
     var ended=[], live=[];
-    items.forEach(function(li){ (Date.parse(li.dataset.end)<=now?ended:live).push(li); });
+    items.forEach(function(li){ var en=li.dataset.end; ((en && Date.parse(en)<=now)?ended:live).push(li); });
     ended.sort(function(a,b){return (Date.parse(a.dataset.start)-Date.parse(b.dataset.start))||(a.dataset.i-b.dataset.i);});
     ended.forEach(function(li){ endedUl.appendChild(li); });
     live.forEach(function(li){ todayUl.appendChild(li); });
