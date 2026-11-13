@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:59:29-05:00",
+ "updated": "2026-11-13T09:51:09-05:00",
  "events": [
   {
    "id": 1609,
@@ -200,6 +200,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-11-13T07:59:01-05:00"
+  },
+  {
+   "id": 1716,
+   "name": "Underline Moves - Bachata Night | Music, Movement, and Dinner",
+   "url": "https://thecenterforartsandinnovation.org/program/underline-moves/",
+   "start": "2026-11-13T18:30:00-05:00",
+   "end": "2026-11-13T20:30:00-05:00",
+   "end_effective": "2026-11-13T20:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-13",
+   "time": "6:30–8:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-13T18:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The Underline (Inter Stage)",
+   "neighborhood": "Brickell",
+   "address": "805 SW 1st Ave, Miami, FL 33130",
+   "cost": "Free (registration includes catered dinner)",
+   "free": true,
+   "category": "dance",
+   "notes": "Free family-friendly series; live music, beginner instruction by BT Dance Studio, Talkin' Tacos dinner",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-13T09:51:09-05:00"
   },
   {
    "id": 1672,
@@ -1975,6 +2000,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-10-30T08:00:07-04:00"
+  },
+  {
+   "id": 1717,
+   "name": "Underline Moves - Tango Night | Music, Movement, and Dinner",
+   "url": "https://thecenterforartsandinnovation.org/program/underline-moves/#tango",
+   "start": "2026-11-20T18:30:00-05:00",
+   "end": "2026-11-20T20:30:00-05:00",
+   "end_effective": "2026-11-20T20:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-20",
+   "time": "6:30–8:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-20T18:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "The Underline (Inter Stage)",
+   "neighborhood": "Brickell",
+   "address": "805 SW 1st Ave, Miami, FL 33130",
+   "cost": "Free (registration includes catered dinner)",
+   "free": true,
+   "category": "dance",
+   "notes": "Free family-friendly series; live music, beginner instruction by BT Dance Studio, Talkin' Tacos dinner",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-13T09:51:09-05:00"
   },
   {
    "id": 1422,
