@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:02:11-05:00",
+ "updated": "2026-11-14T08:40:56-05:00",
  "events": [
   {
    "id": 1685,
@@ -1025,6 +1025,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-11-09T08:07:44-05:00"
+  },
+  {
+   "id": 1718,
+   "name": "Creative Coworking x Miami Community Radio",
+   "url": "https://posh.vip/g/dear-eleanor",
+   "start": "2026-11-16T11:00:00-05:00",
+   "end": "2026-11-16T18:00:00-05:00",
+   "end_effective": "2026-11-16T18:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-16",
+   "time": "11:00 AM–6:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-16T11:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "Free to drop in",
+   "free": true,
+   "category": "social",
+   "notes": "Recurring Mon/Thu community coworking; listed on Dear Eleanor's Posh page",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-14T08:40:56-05:00"
   },
   {
    "id": 1471,
