@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:40:56-05:00",
+ "updated": "2026-11-14T08:43:34-05:00",
  "events": [
   {
    "id": 1685,
@@ -1152,6 +1152,31 @@
    "last_verified": "2026-11-05T08:10:12-05:00"
   },
   {
+   "id": 1719,
+   "name": "Kink & Safety",
+   "url": "https://posh.vip/e/kink-safety",
+   "start": "2026-11-17T19:00:00-05:00",
+   "end": "2026-11-17T22:00:00-05:00",
+   "end_effective": "2026-11-17T22:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-17",
+   "time": "7:00–10:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-17T19:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "From $20",
+   "free": false,
+   "category": "talks",
+   "notes": "Adults-only beginner safety workshop (general first aid + kink safety)",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-14T08:43:34-05:00"
+  },
+  {
    "id": 1421,
    "name": "Tunes and Tales",
    "url": "https://www.nws.edu/tickets/concerts-and-events/2026-27-season/tunes-and-tales/",
@@ -1675,6 +1700,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-10-30T08:00:07-04:00"
+  },
+  {
+   "id": 1720,
+   "name": "Kinbaku Miami Rope Jam",
+   "url": "https://posh.vip/e/kinbaku-miami-rope-jam-2026-11-25-3-0",
+   "start": "2026-11-24T19:00:00-05:00",
+   "end": "2026-11-24T22:00:00-05:00",
+   "end_effective": "2026-11-24T22:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-24",
+   "time": "7:00–10:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-24T19:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Dear Eleanor",
+   "neighborhood": "Edgewater",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "Cost unknown",
+   "free": false,
+   "category": "creative",
+   "notes": "Adults-only monthly shibari rope jam (last Tuesday), all levels, loaner rope",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-14T08:43:34-05:00"
   },
   {
    "id": 1474,
