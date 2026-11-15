@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:59:35-05:00",
+ "updated": "2026-11-15T08:00:27-05:00",
  "events": [
   {
    "id": 1709,
@@ -24,32 +24,7 @@
    "notes": "Free community workout powered by Baptist Health South Florida",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-09T08:07:44-05:00"
-  },
-  {
-   "id": 456,
-   "name": "Un Party De Bachata USA TOUR - Miami - Furia Rooftop",
-   "url": "https://www.eventbrite.com/e/un-party-de-bachata-usa-tour-miami-furia-rooftop-tickets-2000140815020",
-   "start": "2026-11-15T13:00:00-05:00",
-   "end": "2026-11-15T20:00:00-05:00",
-   "end_effective": "2026-11-15T20:00:00-05:00",
-   "end_known": true,
-   "date": "2026-11-15",
-   "time": "1:00–8:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-15T13:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Furia Disco Miami",
-   "neighborhood": "Wynwood",
-   "address": "31 NW 36th St, Miami, FL 33127",
-   "cost": "$24.80–$47.64",
-   "free": false,
-   "category": "dance",
-   "notes": "daytime rooftop bachata, salsa & típico party; Eventbrite now lists Sun Nov 15 (was Oct 18), tickets on sale from Nov 15 (checked Oct 18)",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-09T08:07:44-05:00"
+   "last_verified": "2026-11-15T08:00:27-05:00"
   },
   {
    "id": 1710,
@@ -99,7 +74,7 @@
    "notes": "Street Photography - Miami Beach group; ~1-mile Miami River/Bayfront Park route, meet 4 PM",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-09T08:07:44-05:00"
+   "last_verified": "2026-11-15T08:00:27-05:00"
   },
   {
    "id": 1706,
@@ -149,7 +124,7 @@
    "notes": null,
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-09T08:07:44-05:00"
+   "last_verified": "2026-11-15T08:00:27-05:00"
   },
   {
    "id": 1718,
@@ -1075,6 +1050,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-10-31T21:50:59-04:00"
+  },
+  {
+   "id": 456,
+   "name": "Un Party De Bachata USA TOUR - Miami - Furia Rooftop",
+   "url": "https://www.eventbrite.com/e/un-party-de-bachata-usa-tour-miami-furia-rooftop-tickets-2000140815020",
+   "start": "2026-12-13T13:00:00-05:00",
+   "end": "2026-12-13T20:00:00-05:00",
+   "end_effective": "2026-12-13T20:00:00-05:00",
+   "end_known": true,
+   "date": "2026-12-13",
+   "time": "1:00–8:00 PM",
+   "multiday": false,
+   "sort_start": "2026-12-13T13:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Furia Disco Miami",
+   "neighborhood": "Wynwood",
+   "address": "31 NW 36th St, Miami, FL 33127",
+   "cost": "$24.80–$47.64",
+   "free": false,
+   "category": "dance",
+   "notes": "daytime rooftop bachata, salsa & típico party; Eventbrite now lists Sun Nov 15 (was Oct 18), tickets on sale from Nov 15 (checked Oct 18); Eventbrite page shows Dec 13, 2026 (was saved as Nov 15); rechecked Nov 15",
+   "is_new": false,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-15T08:00:26-05:00"
   },
   {
    "id": 1432,
