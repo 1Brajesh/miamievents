@@ -1,131 +1,6 @@
 {
- "updated": "2026-11-15T08:00:27-05:00",
+ "updated": "2026-11-16T08:05:23-05:00",
  "events": [
-  {
-   "id": 1709,
-   "name": "HIIT & RUN Workout at The Underline",
-   "url": "https://www.eventbrite.com/e/hiit-run-workout-at-the-underline-tickets-2003410957103",
-   "start": "2026-11-15T10:30:00-05:00",
-   "end": "2026-11-15T11:30:00-05:00",
-   "end_effective": "2026-11-15T11:30:00-05:00",
-   "end_known": true,
-   "date": "2026-11-15",
-   "time": "10:30–11:30 AM",
-   "multiday": false,
-   "sort_start": "2026-11-15T10:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "The Underline Urban Gym",
-   "neighborhood": "Brickell",
-   "address": "700 SW 1st Ave, Miami, FL 33130",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "outdoor",
-   "notes": "Free community workout powered by Baptist Health South Florida",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-15T08:00:27-05:00"
-  },
-  {
-   "id": 1710,
-   "name": "MOAD Music Featuring Clave Y Cuba and Carne Viva",
-   "url": "https://www.eventbrite.com/e/moad-music-featuring-clave-y-cuba-and-carne-viva-tickets-2003986467470",
-   "start": "2026-11-15T13:00:00-05:00",
-   "end": "2026-11-15T15:00:00-05:00",
-   "end_effective": "2026-11-15T15:00:00-05:00",
-   "end_known": true,
-   "date": "2026-11-15",
-   "time": "1:00–3:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-15T13:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Museum of Art and Design at MDC Freedom Tower",
-   "neighborhood": "Downtown Miami",
-   "address": "600 Biscayne Blvd, Miami, FL 33132",
-   "cost": "Free (RSVP)",
-   "free": true,
-   "category": "creative",
-   "notes": "Afro-Cuban music and dance; Eventbrite ticket area shows Sold out (may still have walk-up/waitlist - check)",
-   "is_new": false,
-   "maybe_sold_out": true,
-   "last_verified": "2026-11-09T08:07:44-05:00"
-  },
-  {
-   "id": 1712,
-   "name": "Photowalk Riverwalk East",
-   "url": "https://www.meetup.com/street-photography-miami-beach/events/317049320/",
-   "start": "2026-11-15T16:00:00-05:00",
-   "end": "2026-11-15T19:00:00-05:00",
-   "end_effective": "2026-11-15T19:00:00-05:00",
-   "end_known": true,
-   "date": "2026-11-15",
-   "time": "4:00–7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-15T16:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Fort Dallas Park",
-   "neighborhood": "Downtown Miami",
-   "address": "64 SE 4th St, Miami, FL 33131",
-   "cost": "Free (no fee listed)",
-   "free": true,
-   "category": "photowalk",
-   "notes": "Street Photography - Miami Beach group; ~1-mile Miami River/Bayfront Park route, meet 4 PM",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-15T08:00:27-05:00"
-  },
-  {
-   "id": 1706,
-   "name": "Lil Duval",
-   "url": "https://www.miamiimprov.com/events/139264?date=2026-11-15",
-   "start": "2026-11-15T19:00:00-05:00",
-   "end": null,
-   "end_effective": null,
-   "end_known": false,
-   "date": "2026-11-15",
-   "time": "7:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-15T19:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Miami Improv",
-   "neighborhood": "Doral",
-   "address": "3450 NW 83rd Ave, Suite 224, Doral, FL 33122",
-   "cost": "See event page",
-   "free": false,
-   "category": "creative",
-   "notes": "Sun 7:00 PM show per Miami Improv page (also Fri/Sat shows); end time not listed",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-09T08:07:44-05:00"
-  },
-  {
-   "id": 1705,
-   "name": "Master Debaters Comedy Show",
-   "url": "https://www.eventbrite.com/e/master-debaters-comedy-show-tickets-1985668005457",
-   "start": "2026-11-15T20:00:00-05:00",
-   "end": "2026-11-15T22:00:00-05:00",
-   "end_effective": "2026-11-15T22:00:00-05:00",
-   "end_known": true,
-   "date": "2026-11-15",
-   "time": "8:00–10:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-15T20:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Bougainvillea's Old Florida Tavern",
-   "neighborhood": "South Miami",
-   "address": "7221 SW 58th Ave, South Miami, FL 33143",
-   "cost": "$7.68",
-   "free": false,
-   "category": "creative",
-   "notes": null,
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-15T08:00:27-05:00"
-  },
   {
    "id": 1718,
    "name": "Creative Coworking x Miami Community Radio",
@@ -147,9 +22,9 @@
    "free": true,
    "category": "social",
    "notes": "Recurring Mon/Thu community coworking; listed on Dear Eleanor's Posh page",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-14T08:40:56-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1471,
@@ -174,7 +49,7 @@
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-01T08:10:05-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1414,
@@ -199,7 +74,7 @@
    "notes": "poetry open mic",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-31T08:02:14-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1611,
@@ -224,7 +99,7 @@
    "notes": "English conversation practice; native speakers welcome (series)",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-05T08:10:12-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1612,
@@ -249,7 +124,7 @@
    "notes": "English conversation practice",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-05T08:10:12-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1719,
@@ -272,7 +147,7 @@
    "free": false,
    "category": "talks",
    "notes": "Adults-only beginner safety workshop (general first aid + kink safety)",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-11-14T08:43:34-05:00"
   },
@@ -299,7 +174,32 @@
    "notes": "New World Symphony",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-05T08:10:24-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
+  },
+  {
+   "id": 1723,
+   "name": "Stand-Up Comedy Open Mic",
+   "url": "https://www.villaintheater.com/all-shows/openmic111726",
+   "start": "2026-11-17T22:00:00-05:00",
+   "end": "2026-11-17T23:30:00-05:00",
+   "end_effective": "2026-11-17T23:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-17",
+   "time": "10:00–11:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-17T22:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Villain Theater",
+   "neighborhood": "Little Haiti / Design District",
+   "address": "5865 NE 2nd Ave, Miami, FL 33137",
+   "cost": "Free",
+   "free": true,
+   "category": "creative",
+   "notes": "Free open mic show; no drink minimums",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1613,
@@ -324,7 +224,7 @@
    "notes": "English conversation practice; native speakers welcome (series)",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-05T08:10:12-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1472,
@@ -349,7 +249,7 @@
    "notes": "45–60 min guided tour of the Frank Gehry building; NWS cancels tours with no bookings 24h before",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-01T08:10:05-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1352,
@@ -374,7 +274,7 @@
    "notes": "Speed Networkers (~14 mi)",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-30T08:00:07-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 362,
@@ -424,7 +324,7 @@
    "notes": "Amigos Meet monthly walk club",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-30T08:00:07-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1268,
@@ -449,7 +349,7 @@
    "notes": "rooftop language exchange; Meetup moved this from Nov 4 to Nov 18",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-03T08:01:50-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1349,
@@ -474,7 +374,7 @@
    "notes": "singles mixer",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-30T08:00:07-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1621,
@@ -499,7 +399,32 @@
    "notes": "At The Sagamore / WATER LION; Miami Beach",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-06T08:08:41-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
+  },
+  {
+   "id": 1721,
+   "name": "Creative Coworking x Miami Community Radio",
+   "url": "https://posh.vip/e/creative-coworking-x-miami-community-radio-2026-11-20-4-45",
+   "start": "2026-11-19T11:00:00-05:00",
+   "end": "2026-11-19T18:00:00-05:00",
+   "end_effective": "2026-11-19T18:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-19",
+   "time": "11:00 AM–6:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-19T11:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Dear Eleanor",
+   "neighborhood": "Miami (Edgewater)",
+   "address": "148 NE 28th St, Miami, FL 33137",
+   "cost": "Free to drop in",
+   "free": true,
+   "category": "creative",
+   "notes": "Daytime coworking, then Miami Community Radio livestream in the evening",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 556,
@@ -524,7 +449,7 @@
    "notes": "Self-guided gallery walk (Oolite Arts, FIU Urban Studios, more); Culture Crawl night",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-14T10:37:36-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 788,
@@ -549,7 +474,32 @@
    "notes": "Culture Crawl (third Thursday) program",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-05T08:10:24-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
+  },
+  {
+   "id": 1724,
+   "name": "North Beach Social: Abstract Citizen",
+   "url": "https://miamibeachbandshell.com/events/",
+   "start": "2026-11-19T19:30:00-05:00",
+   "end": "2026-11-19T22:00:00-05:00",
+   "end_effective": "2026-11-19T22:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-19",
+   "time": "7:30–10:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-19T19:30:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Miami Beach Bandshell",
+   "neighborhood": "North Beach",
+   "address": "7275 Collins Ave, Miami Beach, FL 33141",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "music",
+   "notes": "Free monthly community music series (Abstract Citizen and Black Nimbus); ticket limit 4 per customer",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1617,
@@ -574,7 +524,7 @@
    "notes": "Weekly Friday coffee tasting; standing interest",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-06T08:08:41-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1347,
@@ -599,7 +549,7 @@
    "notes": "Bakehouse architecture debate",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-30T08:00:07-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1717,
@@ -624,7 +574,32 @@
    "notes": "Free family-friendly series; live music, beginner instruction by BT Dance Studio, Talkin' Tacos dinner",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-13T09:51:09-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
+  },
+  {
+   "id": 1725,
+   "name": "Friday Night Live",
+   "url": "https://www.eventbrite.com/o/just-the-funny-121458512491",
+   "start": "2026-11-20T21:00:00-05:00",
+   "end": null,
+   "end_effective": null,
+   "end_known": false,
+   "date": "2026-11-20",
+   "time": "9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-20T21:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Just The Funny",
+   "neighborhood": "Miami",
+   "address": "3119 Coral Way, 2nd Floor, Miami, FL 33145",
+   "cost": "From $30.52",
+   "free": false,
+   "category": "creative",
+   "notes": "Audience-suggestion improv comedy, Fridays 9 PM",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1422,
@@ -649,7 +624,7 @@
    "notes": "New World Symphony",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-31T21:50:59-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1423,
@@ -674,7 +649,7 @@
    "notes": "New World Symphony",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-31T21:50:59-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 593,
@@ -699,7 +674,32 @@
    "notes": "Amigos Meet x Sway & Sip x Tinder; optional speed friending, beginner salsa class, then salsa/bachata DJ",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-10-15T08:14:06-04:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
+  },
+  {
+   "id": 1726,
+   "name": "Cheap Trills Musical Improv",
+   "url": "https://www.eventbrite.com/o/just-the-funny-121458512491",
+   "start": "2026-11-21T21:00:00-05:00",
+   "end": null,
+   "end_effective": null,
+   "end_known": false,
+   "date": "2026-11-21",
+   "time": "9:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-21T21:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Just The Funny",
+   "neighborhood": "Miami",
+   "address": "3119 Coral Way, 2nd Floor, Miami, FL 33145",
+   "cost": "From $30.52",
+   "free": false,
+   "category": "creative",
+   "notes": "Improvised musical; listed on Eventbrite for Sat Nov 21, 9 PM",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1446,
@@ -724,7 +724,7 @@
    "notes": "walk shelter dogs at Miami-Dade Animal Shelter (~12 mi)",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-08T08:02:29-05:00"
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1431,
@@ -750,6 +750,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-10-31T21:50:59-04:00"
+  },
+  {
+   "id": 1722,
+   "name": "Miami Beach ¡Baila! by Commissioner Joe Magazine at the Bandshell",
+   "url": "https://events.miamibeachfl.gov/event/miami-beach-baila-by-commissioner-joe-magazine-november2026/",
+   "start": "2026-11-22T19:00:00-05:00",
+   "end": "2026-11-22T22:00:00-05:00",
+   "end_effective": "2026-11-22T22:00:00-05:00",
+   "end_known": true,
+   "date": "2026-11-22",
+   "time": "7:00–10:00 PM",
+   "multiday": false,
+   "sort_start": "2026-11-22T19:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "Miami Beach Bandshell",
+   "neighborhood": "North Beach",
+   "address": "7275 Collins Ave, Miami Beach, FL 33141",
+   "cost": "Free (RSVP)",
+   "free": true,
+   "category": "dance",
+   "notes": "Salsa, bachata, merengue; free lesson 7–7:30 PM, party 7:30–10 PM",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-16T08:04:59-05:00"
   },
   {
    "id": 1473,
@@ -822,7 +847,7 @@
    "free": false,
    "category": "creative",
    "notes": "Adults-only monthly shibari rope jam (last Tuesday), all levels, loaner rope",
-   "is_new": true,
+   "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-11-14T08:43:34-05:00"
   },
