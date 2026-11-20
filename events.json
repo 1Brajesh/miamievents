@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:00:49-05:00",
+ "updated": "2026-11-20T13:47:56-05:00",
  "events": [
   {
    "id": 1784,
@@ -49,7 +49,8 @@
    "notes": "Weekly Friday coffee tasting; standing interest",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-20T08:00:30-05:00"
+   "last_verified": "2026-11-20T08:00:30-05:00",
+   "ended": true
   },
   {
    "id": 1750,
@@ -74,7 +75,8 @@
    "notes": "English conversation practice",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-20T08:00:30-05:00"
+   "last_verified": "2026-11-20T08:00:30-05:00",
+   "ended": true
   },
   {
    "id": 1787,
@@ -1375,6 +1377,31 @@
    "is_new": false,
    "maybe_sold_out": false,
    "last_verified": "2026-10-30T08:00:07-04:00"
+  },
+  {
+   "id": 1828,
+   "name": "Dungeons & Dragons",
+   "url": null,
+   "start": "2026-11-24T18:00:00-05:00",
+   "end": "2026-11-24T21:30:00-05:00",
+   "end_effective": "2026-11-24T21:30:00-05:00",
+   "end_known": true,
+   "date": "2026-11-24",
+   "time": "6:00–9:30 PM",
+   "multiday": false,
+   "sort_start": "2026-11-24T18:00:00-05:00",
+   "day_end": null,
+   "dates": null,
+   "venue": "195 NE 46th St",
+   "neighborhood": "Upper East Side / MiMo",
+   "address": "195 NE 46th St, Miami, FL 33137",
+   "cost": "Cost unknown",
+   "free": false,
+   "category": "social",
+   "notes": "No public event page found.",
+   "is_new": true,
+   "maybe_sold_out": false,
+   "last_verified": "2026-11-20T13:47:51-05:00"
   },
   {
    "id": 1720,
