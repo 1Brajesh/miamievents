@@ -1,81 +1,6 @@
 {
- "updated": "2026-11-26T08:01:57-05:00",
+ "updated": "2026-11-27T08:01:07-05:00",
  "events": [
-  {
-   "id": 1851,
-   "name": "Doral Toastmasters - Communication & Leadership Event (THURSDAY - 7:30 AM)",
-   "url": "https://www.eventbrite.com/e/doral-toastmasters-communication-leadership-event-thursday-730-am-tickets-1376549529699",
-   "start": "2026-11-26T07:30:00-05:00",
-   "end": "2026-11-26T08:30:00-05:00",
-   "end_effective": "2026-11-26T08:30:00-05:00",
-   "end_known": true,
-   "date": "2026-11-26",
-   "time": "7:30–8:30 AM",
-   "multiday": false,
-   "sort_start": "2026-11-26T07:30:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Doral Toastmasters",
-   "neighborhood": "Doral",
-   "address": "8260 NW 27th St, suite 408, Doral, FL 33122",
-   "cost": "Free",
-   "free": true,
-   "category": "toastmasters",
-   "notes": "Thanksgiving Day – confirm the club is meeting",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-26T08:01:42-05:00"
-  },
-  {
-   "id": 1852,
-   "name": "Creative Coworking x Miami Community Radio",
-   "url": "https://events.musicofourdesire.com/event/efbs-creative-coworking-x-miami-community-radio-party-miami-united-states",
-   "start": "2026-11-26T11:00:00-05:00",
-   "end": "2026-11-26T23:45:00-05:00",
-   "end_effective": "2026-11-26T23:45:00-05:00",
-   "end_known": true,
-   "date": "2026-11-26",
-   "time": "11:00 AM–11:45 PM",
-   "multiday": false,
-   "sort_start": "2026-11-26T11:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "Dear Eleanor",
-   "neighborhood": "Edgewater",
-   "address": "148 NE 28th St, Miami, FL 33137",
-   "cost": "Free",
-   "free": true,
-   "category": "accountability",
-   "notes": "Coworking pop-up 11 AM–6 PM, then Miami Community Radio livestream in the evening; tickets via Posh",
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-26T08:01:42-05:00"
-  },
-  {
-   "id": 1853,
-   "name": "Salsa Night - BEGINNER & INTERMEDIATE",
-   "url": "https://www.eventbrite.com/e/salsa-night-beginner-intermediate-tickets-1981493899594",
-   "start": "2026-11-26T20:00:00-05:00",
-   "end": "2026-11-26T21:00:00-05:00",
-   "end_effective": "2026-11-26T21:00:00-05:00",
-   "end_known": true,
-   "date": "2026-11-26",
-   "time": "8:00–9:00 PM",
-   "multiday": false,
-   "sort_start": "2026-11-26T20:00:00-05:00",
-   "day_end": null,
-   "dates": null,
-   "venue": "DanceArts Miami",
-   "neighborhood": "Design District",
-   "address": "250 NE 61st St, Miami, FL 33137",
-   "cost": "$27.08",
-   "free": false,
-   "category": "dance",
-   "notes": null,
-   "is_new": false,
-   "maybe_sold_out": false,
-   "last_verified": "2026-11-26T08:01:42-05:00"
-  },
   {
    "id": 1618,
    "name": "Tasting at Ten - Miami",
@@ -124,7 +49,7 @@
    "notes": null,
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-23T08:05:51-05:00"
+   "last_verified": "2026-11-27T08:00:52-05:00"
   },
   {
    "id": 1854,
@@ -149,7 +74,7 @@
    "notes": "Kirtan 6:30–8:30 PM, then vegan/vegetarian prasadam 8:30–9:30 PM",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-23T08:05:51-05:00"
+   "last_verified": "2026-11-27T08:00:52-05:00"
   },
   {
    "id": 1858,
@@ -174,7 +99,7 @@
    "notes": null,
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-23T08:05:51-05:00"
+   "last_verified": "2026-11-27T08:00:52-05:00"
   },
   {
    "id": 1859,
@@ -199,7 +124,7 @@
    "notes": "21+; two-drink minimum",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-23T08:05:51-05:00"
+   "last_verified": "2026-11-27T08:00:52-05:00"
   },
   {
    "id": 1856,
@@ -224,7 +149,7 @@
    "notes": null,
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-23T08:05:51-05:00"
+   "last_verified": "2026-11-27T08:00:52-05:00"
   },
   {
    "id": 1857,
@@ -249,7 +174,7 @@
    "notes": "Thanksgiving edition, bachata + salsa rooms; also on Eventbrite",
    "is_new": false,
    "maybe_sold_out": false,
-   "last_verified": "2026-11-23T08:05:51-05:00"
+   "last_verified": "2026-11-27T08:00:52-05:00"
   },
   {
    "id": 1860,
